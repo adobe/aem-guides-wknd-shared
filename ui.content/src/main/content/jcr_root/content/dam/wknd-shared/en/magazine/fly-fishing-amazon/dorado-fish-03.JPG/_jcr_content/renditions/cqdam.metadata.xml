@@ -1,0 +1,318 @@
+<?xml version="1.0"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.2.4">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about=""
+        xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+        xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+        xmlns:dam="http://www.day.com/dam/1.0"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:exif="http://ns.adobe.com/exif/1.0/"
+        xmlns:exifEX="http://cipa.jp/exif/1.0/"
+        xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+        xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+        xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+        xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+        xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+        xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+      aux:ApproximateFocusDistance="75/100"
+      aux:Firmware="1.1.3"
+      aux:FlashCompensation="0/1"
+      aux:ImageNumber="0"
+      aux:Lens="EF24-105mm f/4L IS USM"
+      aux:LensID="237"
+      aux:LensInfo="24/1 105/1 0/0 0/0"
+      aux:LensSerialNumber="000041fbfc"
+      aux:SerialNumber="072024012467"
+      crs:AlreadyApplied="True"
+      crs:AutoLateralCA="0"
+      crs:AutoWhiteVersion="134348800"
+      crs:Blacks2012="-8"
+      crs:BlueHue="0"
+      crs:BlueSaturation="0"
+      crs:CameraProfile="Adobe Standard"
+      crs:Clarity2012="58"
+      crs:ColorNoiseReduction="25"
+      crs:ColorNoiseReductionDetail="50"
+      crs:ColorNoiseReductionSmoothness="50"
+      crs:Contrast2012="50"
+      crs:ConvertToGrayscale="False"
+      crs:DefringeGreenAmount="0"
+      crs:DefringeGreenHueHi="60"
+      crs:DefringeGreenHueLo="40"
+      crs:DefringePurpleAmount="0"
+      crs:DefringePurpleHueHi="70"
+      crs:DefringePurpleHueLo="30"
+      crs:Exposure2012="0.35"
+      crs:GrainAmount="0"
+      crs:GreenHue="0"
+      crs:GreenSaturation="0"
+      crs:HasCrop="False"
+      crs:HasSettings="True"
+      crs:Highlights2012="-32"
+      crs:HueAdjustmentAqua="0"
+      crs:HueAdjustmentBlue="0"
+      crs:HueAdjustmentGreen="0"
+      crs:HueAdjustmentMagenta="0"
+      crs:HueAdjustmentOrange="0"
+      crs:HueAdjustmentPurple="0"
+      crs:HueAdjustmentRed="0"
+      crs:HueAdjustmentYellow="0"
+      crs:LensManualDistortionAmount="0"
+      crs:LensProfileEnable="0"
+      crs:LensProfileSetup="LensDefaults"
+      crs:LuminanceAdjustmentAqua="0"
+      crs:LuminanceAdjustmentBlue="0"
+      crs:LuminanceAdjustmentGreen="20"
+      crs:LuminanceAdjustmentMagenta="0"
+      crs:LuminanceAdjustmentOrange="0"
+      crs:LuminanceAdjustmentPurple="0"
+      crs:LuminanceAdjustmentRed="0"
+      crs:LuminanceAdjustmentYellow="-12"
+      crs:LuminanceSmoothing="0"
+      crs:ParametricDarks="-5"
+      crs:ParametricHighlightSplit="75"
+      crs:ParametricHighlights="-37"
+      crs:ParametricLights="38"
+      crs:ParametricMidtoneSplit="50"
+      crs:ParametricShadowSplit="25"
+      crs:ParametricShadows="-10"
+      crs:PerspectiveAspect="0"
+      crs:PerspectiveHorizontal="0"
+      crs:PerspectiveRotate="0.0"
+      crs:PerspectiveScale="100"
+      crs:PerspectiveUpright="0"
+      crs:PerspectiveVertical="0"
+      crs:PostCropVignetteAmount="0"
+      crs:ProcessVersion="6.7"
+      crs:RedHue="0"
+      crs:RedSaturation="0"
+      crs:Saturation="0"
+      crs:SaturationAdjustmentAqua="0"
+      crs:SaturationAdjustmentBlue="0"
+      crs:SaturationAdjustmentGreen="0"
+      crs:SaturationAdjustmentMagenta="0"
+      crs:SaturationAdjustmentOrange="0"
+      crs:SaturationAdjustmentPurple="0"
+      crs:SaturationAdjustmentRed="0"
+      crs:SaturationAdjustmentYellow="0"
+      crs:ShadowTint="0"
+      crs:Shadows2012="42"
+      crs:SharpenDetail="25"
+      crs:SharpenEdgeMasking="0"
+      crs:SharpenRadius="1.0"
+      crs:Sharpness="25"
+      crs:SplitToningBalance="0"
+      crs:SplitToningHighlightHue="0"
+      crs:SplitToningHighlightSaturation="0"
+      crs:SplitToningShadowHue="0"
+      crs:SplitToningShadowSaturation="0"
+      crs:Temperature="5522"
+      crs:Tint="6"
+      crs:ToneCurveName="Linear"
+      crs:ToneCurveName2012="Linear"
+      crs:Version="8.7.1"
+      crs:Vibrance="30"
+      crs:VignetteAmount="0"
+      crs:WhiteBalance="Custom"
+      crs:Whites2012="7"
+      dam:Bitsperpixel="24"
+      dam:DigitalCreationDate="20130812"
+      dam:Fileformat="JPEG"
+      dam:MIMEtype="image/jpeg"
+      dam:Numberofimages="1"
+      dam:Numberoftextualcomments="0"
+      dam:Physicalheightindpi="240"
+      dam:Physicalheightininches="3.554166555404663"
+      dam:Physicalwidthindpi="240"
+      dam:Physicalwidthininches="5.333333492279053"
+      dam:Progressive="no"
+      dam:TimeCreated="191038-0700"
+      dam:extracted="2019-10-01T15:51:09.584-07:00"
+      dam:size="152093"
+      dam:DigitalCreationTime="191038-0700"
+      dam:sha1="a317a15f680319b7496cbbc8677ffcb8b14ebe36"
+      dc:modified="2019-10-25T16:49:02.076-07:00"
+      dc:format="image/jpeg"
+      exif:ApertureValue="5310704/1000000"
+      exif:ColorSpace="65535"
+      exif:CustomRendered="0"
+      exif:DateTimeOriginal="2013-08-12T19:10:38.22"
+      exif:ExifVersion="0230"
+      exif:ExposureBiasValue="0/1"
+      exif:ExposureMode="1"
+      exif:ExposureProgram="1"
+      exif:ExposureTime="1/800"
+      exif:FNumber="63/10"
+      exif:FocalLength="50/1"
+      exif:FocalPlaneResolutionUnit="3"
+      exif:FocalPlaneXResolution="52428800/32768"
+      exif:FocalPlaneYResolution="52428800/32768"
+      exif:MaxApertureValue="4/1"
+      exif:MeteringMode="2"
+      exif:PixelXDimension="1280"
+      exif:PixelYDimension="853"
+      exif:SceneCaptureType="0"
+      exif:ShutterSpeedValue="9643856/1000000"
+      exif:WhiteBalance="1"
+      exifEX:BodySerialNumber="072024012467"
+      exifEX:LensModel="EF24-105mm f/4L IS USM"
+      exifEX:LensSerialNumber="000041fbfc"
+      exifEX:PhotographicSensitivity="160"
+      exifEX:RecommendedExposureIndex="160"
+      exifEX:SensitivityType="2"
+      photoshop:ColorMode="3"
+      photoshop:DateCreated="2013-08-12T19:10:38.022-07:00"
+      photoshop:ICCProfile="Adobe RGB (1998)"
+      photoshop:LegacyIPTCDigest="3B9583E7B50913A2E83304359E37C998"
+      tiff:Make="Canon"
+      tiff:Model="Canon EOS 5D Mark III"
+      tiff:Orientation="1"
+      tiff:PhotometricInterpretation="2"
+      tiff:ResolutionUnit="2"
+      tiff:SamplesPerPixel="3"
+      tiff:XResolution="2400000/10000"
+      tiff:YResolution="2400000/10000"
+      tiff:ImageWidth="1280"
+      tiff:ImageLength="853"
+      xmp:CreateDate="2013-08-12T19:10:38.000-07:00"
+      xmp:CreatorTool="Adobe Photoshop CC 2019 (Macintosh)"
+      xmp:MetadataDate="2019-10-01T15:31:18.000-07:00"
+      xmp:ModifyDate="2019-10-01T15:31:18.000-07:00"
+      xmpMM:DocumentID="adobe:docid:photoshop:4fce4bea-46b5-1179-a012-a05c56db1276"
+      xmpMM:InstanceID="xmp.iid:202d843a-943c-4605-8c29-3be36839d2f7"
+      xmpMM:OriginalDocumentID="27E96CEB6F59DE1D67C32BC142D12022">
+      <crs:ToneCurvePV2012Red>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Red>
+      <crs:ToneCurveBlue>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurveBlue>
+      <crs:ToneCurve>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurve>
+      <crs:ToneCurvePV2012Blue>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Blue>
+      <crs:ToneCurveGreen>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurveGreen>
+      <crs:ToneCurvePV2012>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012>
+      <crs:ToneCurvePV2012Green>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Green>
+      <crs:ToneCurveRed>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurveRed>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>bolivia</rdf:li>
+          <rdf:li>fly-fishing</rdf:li>
+          <rdf:li>bolivia</rdf:li>
+          <rdf:li>fly-fishing</rdf:li>
+          <rdf:li>bolivia</rdf:li>
+          <rdf:li>fly-fishing</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <dc:date>
+        <rdf:Seq>
+          <rdf:li>20130812</rdf:li>
+        </rdf:Seq>
+      </dc:date>
+      <exif:ISOSpeedRatings>
+        <rdf:Seq>
+          <rdf:li>160</rdf:li>
+        </rdf:Seq>
+      </exif:ISOSpeedRatings>
+      <exif:Flash
+        exif:Fired="False"
+        exif:Function="False"
+        exif:Mode="2"
+        exif:RedEyeMode="False"
+        exif:Return="0"/>
+      <exifEX:LensSpecification>
+        <rdf:Seq>
+          <rdf:li>24/1</rdf:li>
+          <rdf:li>105/1</rdf:li>
+          <rdf:li>0/0</rdf:li>
+          <rdf:li>0/0</rdf:li>
+        </rdf:Seq>
+      </exifEX:LensSpecification>
+      <tiff:BitsPerSample>
+        <rdf:Seq>
+          <rdf:li>8</rdf:li>
+          <rdf:li>8</rdf:li>
+          <rdf:li>8</rdf:li>
+        </rdf:Seq>
+      </tiff:BitsPerSample>
+      <xmpMM:History>
+        <rdf:Seq>
+          <rdf:li
+            stEvt:action="derived"
+            stEvt:parameters="converted from image/x-canon-cr2 to image/jpeg, saved to new location"/>
+          <rdf:li
+            stEvt:action="saved"
+            stEvt:changed="/"
+            stEvt:instanceID="xmp.iid:cd5eba8b-e641-4665-a6af-3e621378e846"
+            stEvt:softwareAgent="Adobe Photoshop Lightroom 5.7.1 (Macintosh)"
+            stEvt:when="2016-03-23T10:38:10.000-06:00"/>
+          <rdf:li
+            stEvt:action="saved"
+            stEvt:changed="/"
+            stEvt:instanceID="xmp.iid:202d843a-943c-4605-8c29-3be36839d2f7"
+            stEvt:softwareAgent="Adobe Photoshop CC 2019 (Macintosh)"
+            stEvt:when="2019-10-01T15:31:18.000-07:00"/>
+        </rdf:Seq>
+      </xmpMM:History>
+      <xmpMM:DerivedFrom
+        stRef:documentID="27E96CEB6F59DE1D67C32BC142D12022"
+        stRef:originalDocumentID="27E96CEB6F59DE1D67C32BC142D12022"/>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

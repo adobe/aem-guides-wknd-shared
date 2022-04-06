@@ -1,0 +1,442 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:exifEX="http://cipa.jp/exif/1.0/" xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:psAux="http://ns.adobe.com/exif/1.0/aux/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:mediapro="http://ns.iview-multimedia.com/mediapro/1.0/" xmlns:prismusagerights="http://prismstandard.org/namespaces/prismusagerights/2.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="f75700fb-7366-431c-b1e1-608de4d76eee">
+    <jcr:content
+        cq:name="AdobeStock_122615840.jpeg"
+        cq:parentPath="/content/dam/wknd-shared/en/adventures/whistler-mountain-biking"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:processingId="90ccdba0-d1ed-48f8-9b69-87c58fde2f7f"
+        dam:processingRenditions="[cqdam.metadata.xml,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png,cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.319.319.png,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.features.json,cqdam.text.txt]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:54.101Z"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:44:18.053Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpeg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            crs:AlreadyApplied="True"
+            crs:BlueHue="{Long}0"
+            crs:BlueSaturation="{Long}0"
+            crs:Brightness="{Long}50"
+            crs:CameraProfile="Adobe Standard"
+            crs:CameraProfileDigest="3DA8CE4A626CE36A1D0C55BF157793C9"
+            crs:ChromaticAberrationB="{Long}0"
+            crs:ChromaticAberrationR="{Long}0"
+            crs:Clarity="{Long}51"
+            crs:ColorNoiseReduction="{Long}25"
+            crs:ConvertToGrayscale="False"
+            crs:Defringe="{Long}0"
+            crs:Exposure="{Decimal}0.41"
+            crs:FillLight="{Long}21"
+            crs:GreenHue="{Long}0"
+            crs:GreenSaturation="{Long}0"
+            crs:HasCrop="False"
+            crs:HasSettings="True"
+            crs:HighlightRecovery="{Long}0"
+            crs:HueAdjustmentAqua="{Long}0"
+            crs:HueAdjustmentBlue="{Long}0"
+            crs:HueAdjustmentGreen="{Long}0"
+            crs:HueAdjustmentMagenta="{Long}0"
+            crs:HueAdjustmentOrange="{Long}0"
+            crs:HueAdjustmentPurple="{Long}0"
+            crs:HueAdjustmentRed="{Long}0"
+            crs:HueAdjustmentYellow="{Long}0"
+            crs:LuminanceAdjustmentAqua="{Long}0"
+            crs:LuminanceAdjustmentBlue="{Long}0"
+            crs:LuminanceAdjustmentGreen="{Long}0"
+            crs:LuminanceAdjustmentMagenta="{Long}0"
+            crs:LuminanceAdjustmentOrange="{Long}0"
+            crs:LuminanceAdjustmentPurple="{Long}0"
+            crs:LuminanceAdjustmentRed="{Long}0"
+            crs:LuminanceAdjustmentYellow="{Long}0"
+            crs:LuminanceSmoothing="{Long}0"
+            crs:ParametricDarks="{Long}0"
+            crs:ParametricHighlights="{Long}0"
+            crs:ParametricHighlightSplit="{Long}75"
+            crs:ParametricLights="{Long}0"
+            crs:ParametricMidtoneSplit="{Long}50"
+            crs:ParametricShadows="{Long}0"
+            crs:ParametricShadowSplit="{Long}25"
+            crs:PostCropVignetteAmount="{Long}0"
+            crs:RedHue="{Long}0"
+            crs:RedSaturation="{Long}0"
+            crs:SaturationAdjustmentAqua="{Long}0"
+            crs:SaturationAdjustmentBlue="{Long}0"
+            crs:SaturationAdjustmentGreen="{Long}0"
+            crs:SaturationAdjustmentMagenta="{Long}0"
+            crs:SaturationAdjustmentOrange="{Long}0"
+            crs:SaturationAdjustmentPurple="{Long}0"
+            crs:SaturationAdjustmentRed="{Long}0"
+            crs:SaturationAdjustmentYellow="{Long}0"
+            crs:Shadows="{Long}5"
+            crs:ShadowTint="{Long}0"
+            crs:SharpenDetail="{Long}25"
+            crs:SharpenEdgeMasking="{Long}0"
+            crs:SharpenRadius="{Decimal}1.0"
+            crs:SplitToningBalance="{Long}0"
+            crs:SplitToningHighlightHue="{Long}0"
+            crs:SplitToningHighlightSaturation="{Long}0"
+            crs:SplitToningShadowHue="{Long}0"
+            crs:SplitToningShadowSaturation="{Long}0"
+            crs:Tint="{Long}4"
+            crs:ToneCurve="[0\, 0,32\, 22,64\, 56,128\, 128,192\, 196,255\, 255]"
+            crs:ToneCurve_xmpArrayType="rdf:Seq"
+            crs:ToneCurveName="Medium Contrast"
+            crs:Version="{Decimal}5.5"
+            crs:Vibrance="{Long}40"
+            crs:VignetteAmount="{Long}0"
+            dam:Bitsperpixel="{Long}24"
+            dam:EditStatus="MR"
+            dam:extracted="{Date}2022-03-23T20:44:07.800Z"
+            dam:Fileformat="JPEG"
+            dam:FixtureIdentifier="horizontal"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}11.26388931274414"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}16.875"
+            dam:Progressive="no"
+            dam:sha1="35432474baceb7ddae74cc95b018ccf8232c0b1c"
+            dam:size="{Long}561596"
+            dam:SpecialInstructions="PRNR"
+            dam:Sublocation="Golden, British Columbia, Canada"
+            dam:TimeCreated="055540-0700"
+            dam:Unknown="ACN-SI-001"
+            dc:creator="[Ryan Creary,Ryan Creary,Ryan Creary]"
+            dc:creator_xmpArrayType="rdf:Seq"
+            dc:date="{Long}[20110607,20110607,20110607]"
+            dc:date_xmpArrayType="rdf:Seq"
+            dc:description="A young male mountain biker riding the Moonraker cross country trail system near Golden, BC"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2019-10-24T15:52:53.032-07:00"
+            dc:rights="©All Canada Photos - stock.adobe.com"
+            dc:subject="[all mountain,cedar lake,moonraker trails,mountain bikes,rain,washing bikes,colour image,color image,horizontal,photography,Ryan Creary,People,Model released,Canada,British Columbia,Golden,outdoor,outdoors,Daytime,Day,bikes,bike,leisure,recreational,recreation,activities,activity,bikers,biker,riding,healthy lifestyles,active,bike riding,biking,cycling,trail,trails,natural world,nature,pristine,back country,Wilderness,bicycles,bicycle,mountain biking,landscapes,landscape,safety gear,protective wear,helmets,helmet,forests,forest,trees,tree,B.C.,BC,One Person,1 person,canyon,canyons,cliffs,cliff,action sports,action sport,people,unrecognizable people,all mountain,cedar lake,moonraker trails,mountain bikes,rain,washing bikes,colour image,color image,horizontal,photography,ryan creary,people,model released,canada,british columbia,golden,outdoor,outdoors,daytime,day,bikes,bike,leisure,recreational,recreation,activities,activity,bikers,biker,riding,healthy lifestyles,active,bike riding,biking,cycling,trail,trails,natural world,nature,pristine,back country,wilderness,bicycles,bicycle,mountain biking,landscapes,landscape,safety gear,protective wear,helmets,helmet,forests,forest,trees,tree,b c,bc,one person,1 person,canyon,canyons,cliffs,cliff,action sports,action sport,unrecognizable people,all mountain,cedar lake,moonraker trails,mountain bikes,rain,washing bikes,colour image,color image,horizontal,photography,Ryan Creary,People,Model released,Canada,British Columbia,Golden,outdoor,outdoors,Daytime,Day,bikes,bike,leisure,recreational,recreation,activities,activity,bikers,biker,riding,healthy lifestyles,active,bike riding,biking,cycling,trail,trails,natural world,nature,pristine,back country,Wilderness,bicycles,bicycle,mountain biking,landscapes,landscape,safety gear,protective wear,helmets,helmet,forests,forest,trees,tree,B.C.,BC,One Person,1 person,canyon,canyons,cliffs,cliff,action sports,action sport,people,unrecognizable people,all mountain,cedar lake,moonraker trails,mountain bikes,rain,washing bikes,colour image,color image,horizontal,photography,ryan creary,people,model released,canada,british columbia,golden,outdoor,outdoors,daytime,day,bikes,bike,leisure,recreational,recreation,activities,activity,bikers,biker,riding,healthy lifestyles,active,bike riding,biking,cycling,trail,trails,natural world,nature,pristine,back country,wilderness,bicycles,bicycle,mountain biking,landscapes,landscape,safety gear,protective wear,all mountain,cedar lake,moonraker trails,mountain bikes,rain,washing bikes,colour image,color image,horizontal,photography,Ryan Creary,People,Model released,Canada,British Columbia,Golden,outdoor,outdoors,Daytime,Day,bikes,bike,leisure,recreational,recreation,activities,activity,bikers,biker,riding,healthy lifestyles,active,bike riding,biking,cycling,trail,trails,natural world,nature,pristine,back country,Wilderness,bicycles,bicycle,mountain biking,landscapes,landscape,safety gear,protective wear,helmets,helmet,forests,forest,trees,tree,B.C.,BC,One Person,1 person,canyon,canyons,cliffs,cliff,action sports,action sport,people,unrecognizable people,all mountain,cedar lake,moonraker trails,mountain bikes,rain,washing bikes,colour image,color image,horizontal,photography,ryan creary,people,model released,canada,british columbia,golden,outdoor,outdoors,daytime,day,bikes,bike,leisure,recreational,recreation,activities,activity,bikers,biker,riding,healthy lifestyles,active,bike riding,biking,cycling,trail,trails,natural world,nature,pristine,back country,wilderness,bicycles,bicycle,mountain biking,landscapes,landscape,safety gear,protective wear,helmets,helmet,forests,forest,trees,tree,b c,bc,one person,1 person,canyon,canyons,cliffs,cliff,action sports,action sport,unrecognizable people,all mountain,cedar lake,moonraker trails,mountain bikes,rain,washing bikes,colour image,color image,horizontal,photography,Ryan Creary,People,Model released,Canada,British Columbia,Golden,outdoor,outdoors,Daytime,Day,bikes,bike,leisure,recreational,recreation,activities,activity,bikers,biker,riding,healthy lifestyles,active,bike riding,biking,cycling,trail,trails,natural world,nature,pristine,back country,Wilderness,bicycles,bicycle,mountain biking,landscapes,landscape,safety gear,protective wear,helmets,helmet,forests,forest,trees,tree,B.C.,BC,One Person,1 person,canyon,canyons,cliffs,cliff,action sports,action sport,people,unrecognizable people,all mountain,cedar lake,moonraker trails,mountain bikes,rain,washing bikes,colour image,color image,horizontal,photography,ryan creary,people,model released,canada,british columbia,golden,outdoor,outdoors,daytime,day,bikes,bike,leisure,recreational,recreation,activities,activity,bikers,biker,riding,healthy lifestyles,active,bike riding,biking,cycling,trail,trails,natural world,nature,pristine,back country,wilderness,bicycles,bicycle,mountain biking,landscapes,landscape,safety gear,protective wear,all mountain,cedar lake,moonraker trails,mountain bikes,rain,washing bikes,colour image,color image,horizontal,photography,Ryan Creary,People,Model released,Canada,British Columbia,Golden,outdoor,outdoors,Daytime,Day,bikes,bike,leisure,recreational,recreation,activities,activity,bikers,biker,riding,healthy lifestyles,active,bike riding,biking,cycling,trail,trails,natural world,nature,pristine,back country,Wilderness,bicycles,bicycle,mountain biking,landscapes,landscape,safety gear,protective wear,helmets,helmet,forests,forest,trees,tree,B.C.,BC,One Person,1 person,canyon,canyons,cliffs,cliff,action sports,action sport,people,unrecognizable people,ryan creary,model released,canada,british columbia,golden,daytime,day,wilderness,b c,bc,one person,action sports,action sport]"
+            dc:subject_xmpArrayType="rdf:Bag"
+            dc:title="[A young male mountain biker riding the Moonraker cross country trail system near Golden\, BC,A young male mountain biker riding the Moonraker cross country t]"
+            dc:title_xmpArrayType="rdf:Alt"
+            exif:ApertureValue="4/1"
+            exif:ColorSpace="{Long}1"
+            exif:ComponentsConfiguration="{Long}[1,2,3,0]"
+            exif:ComponentsConfiguration_xmpArrayType="rdf:Seq"
+            exif:Contrast="{Long}2"
+            exif:CustomRendered="{Long}0"
+            exif:DateTimeOriginal="{Date}2011-06-07T05:55:40.020Z"
+            exif:ExifVersion="0221"
+            exif:ExposureBiasValue="0/1"
+            exif:ExposureMode="{Long}1"
+            exif:ExposureProgram="{Long}1"
+            exif:ExposureTime="1/640"
+            exif:FlashpixVersion="0100"
+            exif:FNumber="4/1"
+            exif:FocalLength="28/1"
+            exif:FocalPlaneResolutionUnit="{Long}2"
+            exif:FocalPlaneXResolution="327183/85"
+            exif:FocalPlaneYResolution="633119/162"
+            exif:ISOSpeedRatings="{Long}[400]"
+            exif:ISOSpeedRatings_xmpArrayType="rdf:Seq"
+            exif:MaxApertureValue="13166/7763"
+            exif:MeteringMode="{Long}5"
+            exif:PixelXDimension="{Long}1215"
+            exif:PixelYDimension="{Long}811"
+            exif:Saturation="{Long}2"
+            exif:SceneCaptureType="{Long}0"
+            exif:Sharpness="{Long}2"
+            exif:ShutterSpeedValue="37325/4004"
+            exif:WhiteBalance="{Long}0"
+            exifEX:BodySerialNumber="{Long}520301738"
+            exifEX:LensModel="EF28mm f/1.8 USM"
+            exifEX:LensSpecification="[28/1,28/1,0/0,0/0]"
+            exifEX:LensSpecification_xmpArrayType="rdf:Seq"
+            exifEX:PhotographicSensitivity="{Long}400"
+            Iptc4xmpCore:IntellectualGenre="ACN-SI-001"
+            Iptc4xmpCore:Location="Golden, British Columbia, Canada"
+            jcr:lastModified="{Date}2019-10-25T16:48:16.550-07:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="A young male mountain biker riding the Moonraker cross country t"
+            mediapro:Status="MR"
+            mediapro:UserFields="[Orientation=horizontal]"
+            mediapro:UserFields_xmpArrayType="rdf:Bag"
+            photoshop:CaptionWriter="RM"
+            photoshop:Category="col"
+            photoshop:City="C1"
+            photoshop:ColorMode="{Long}3"
+            photoshop:Country="Canada"
+            photoshop:Credit="All Canada Photos - stock.adobe."
+            photoshop:DateCreated="{Date}2011-06-07T05:55:40.002-07:00"
+            photoshop:Headline="Unknown"
+            photoshop:ICCProfile="sRGB IEC61966-2.1"
+            photoshop:Instructions="PRNR"
+            photoshop:LegacyIPTCDigest="01DCC3CFA278E098EC1878561609780E"
+            photoshop:Source="122615840"
+            photoshop:TransmissionReference="y"
+            photoshop:Urgency="{Long}2"
+            prismusagerights:creditLine="[All Canada Photos - stock.adobe.com]"
+            prismusagerights:creditLine_xmpArrayType="rdf:Bag"
+            psAux:Firmware="1.2.4"
+            psAux:FlashCompensation="0/1"
+            psAux:ImageNumber="{Long}0"
+            psAux:Lens="EF28mm f/1.8 USM"
+            psAux:LensInfo="28/1 28/1 0/0 0/0"
+            psAux:SerialNumber="520301738"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}811"
+            tiff:ImageWidth="{Long}1215"
+            tiff:Make="Canon"
+            tiff:Model="Canon EOS 5D Mark II"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="720000/10000"
+            tiff:YCbCrPositioning="{Long}1"
+            tiff:YCbCrSubSampling="{Long}[0]"
+            tiff:YCbCrSubSampling_xmpArrayType="rdf:Seq"
+            tiff:YResolution="720000/10000"
+            xmp:CreateDate="{Date}2011-06-07T05:55:40.000-07:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2019 (Macintosh)"
+            xmp:Label="Blue"
+            xmp:MetadataDate="{Date}2019-10-24T15:31:31.000-07:00"
+            xmp:ModifyDate="{Date}2019-10-24T15:31:31.000-07:00"
+            xmpMM:DocumentID="02F9F2A8506751E1026E5629691B76F7"
+            xmpMM:InstanceID="xmp.iid:c77288cc-4757-4f38-8202-5913a0628159"
+            xmpMM:OriginalDocumentID="02F9F2A8506751E1026E5629691B76F7"
+            xmpMM:PreservedFileName="ryancreary_dec2012-3.jpg"
+            xmpRights:Marked="{Boolean}true"
+            xmpRights:UsageTerms="[Thank you for your interest in Adobe’s products and services! The images in this demo website are from Adobe Stock and are Third Party Material as  defined in the Demo Asset Additional Terms   at https://www.adobe.com/legal/terms.html.  ]"
+            xmpRights:UsageTerms_xmpArrayType="rdf:Alt"
+            xmpRights:WebStatement="www.allcanadaphotos.com"
+            lastTransferredForTagging="{Date}2019-10-24T15:51:49.708-07:00"
+            simsearchVersion="1.0.0">
+            <exif:Flash
+                exif:Fired="{Boolean}false"
+                exif:Function="{Boolean}false"
+                exif:Mode="{Long}2"
+                exif:RedEyeMode="{Boolean}false"
+                exif:Return="{Long}0"
+                jcr:primaryType="nt:unstructured"
+                xmpNodeType="xmpStruct"/>
+            <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}1"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:c77288cc-4757-4f38-8202-5913a0628159"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2019 (Macintosh)"
+                    stEvt:when="{Date}2019-10-24T15:31:31.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <Iptc4xmpExt:Event
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}1"
+                xmpArrayType="rdf:Alt"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    _x0031_="horizontal"
+                    xmpNodeType="xmpSimple">
+                    <__Q
+                        jcr:primaryType="nt:unstructured"
+                        xml:lang="x-default"
+                        xmpNodeType="xmpQualifier"/>
+                </_x0031_>
+            </Iptc4xmpExt:Event>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <nature
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.890Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7897972464561462"
+                    isCustom="{Boolean}false"
+                    name="nature"/>
+                <forest
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.890Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.787958562374115"
+                    isCustom="{Boolean}false"
+                    name="forest"/>
+                <tree
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.891Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7661429643630981"
+                    isCustom="{Boolean}false"
+                    name="tree"/>
+                <green
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.891Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7505313754081726"
+                    isCustom="{Boolean}false"
+                    name="green"/>
+                <landscape
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.892Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7481330633163452"
+                    isCustom="{Boolean}false"
+                    name="landscape"/>
+                <trees
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.892Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6998928189277649"
+                    isCustom="{Boolean}false"
+                    name="trees"/>
+                <mountain
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.892Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6519965529441833"
+                    isCustom="{Boolean}false"
+                    name="mountain"/>
+                <water
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.893Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6442208886146545"
+                    isCustom="{Boolean}false"
+                    name="water"/>
+                <wood
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.893Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6375190019607544"
+                    isCustom="{Boolean}false"
+                    name="wood"/>
+                <stone
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.894Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6313555240631104"
+                    isCustom="{Boolean}false"
+                    name="stone"/>
+                <rock
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.894Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.63105708360672"
+                    isCustom="{Boolean}false"
+                    name="rock"/>
+                <blue
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.895Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6289001703262329"
+                    isCustom="{Boolean}false"
+                    name="blue"/>
+                <path
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.895Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6155269742012024"
+                    isCustom="{Boolean}false"
+                    name="path"/>
+                <summer
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.895Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6147496700286865"
+                    isCustom="{Boolean}false"
+                    name="summer"/>
+                <environment
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.896Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6102871298789978"
+                    isCustom="{Boolean}false"
+                    name="environment"/>
+                <grass
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.896Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6096014976501465"
+                    isCustom="{Boolean}false"
+                    name="grass"/>
+                <sky
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.897Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.60117107629776"
+                    isCustom="{Boolean}false"
+                    name="sky"/>
+                <river
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.897Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.596973717212677"
+                    isCustom="{Boolean}false"
+                    name="river"/>
+                <beauty
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.898Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.590005099773407"
+                    isCustom="{Boolean}false"
+                    name="beauty"/>
+                <travel
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.898Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.589179277420044"
+                    isCustom="{Boolean}false"
+                    name="travel"/>
+                <outdoors
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.898Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5763534903526306"
+                    isCustom="{Boolean}false"
+                    name="outdoors"/>
+                <countryside
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.899Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5761950016021729"
+                    isCustom="{Boolean}false"
+                    name="countryside"/>
+                <rocks
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.899Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5675844550132751"
+                    isCustom="{Boolean}false"
+                    name="rocks"/>
+                <day
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.900Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5653692483901978"
+                    isCustom="{Boolean}false"
+                    name="day"/>
+                <plant
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.900Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5651370882987976"
+                    isCustom="{Boolean}false"
+                    name="plant"/>
+            </predictedTags>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:14.903Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

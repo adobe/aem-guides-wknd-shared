@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="8c18286d-c218-4efc-aa07-35d846406079">
+    <jcr:content
+        cq:name="forest-trail.jpg"
+        cq:parentPath="/content/dam/we-retail/en/activities/biking"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:processingId="0566b11b-53f5-4c84-bed9-47be50f57b95"
+        dam:processingRenditions="[cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.features.json,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png,cqdam.metadata.xml,cqdam.machine.metadata.tags.json,cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.319.319.png,cqdam.text.txt]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:51.357Z"
+        dam:relativePath="we-retail/en/activities/biking/forest-trail.jpg"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:44:10.112Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="Forest Trail">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:44:02.326Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}3.5999999046325684"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}5.400000095367432"
+            dam:Progressive="no"
+            dam:sha1="30af9e65c1235e8414a744648f49aba40c3858f2"
+            dam:size="{Long}298761"
+            dc:description="Cyclist riding mountain bike on rocky trail"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-03-06T22:52:29.129+01:00"
+            dc:title="Forest Trail"
+            exif:ColorSpace="{Long}65535"
+            exif:ExifOffset="{Long}236"
+            exif:ExifVersion="0221"
+            exif:PixelXDimension="{Long}2880"
+            exif:PixelYDimension="{Long}1920"
+            jcr:lastModified="{Date}2016-09-12T17:16:53.115+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="Forest Trail"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}1080"
+            tiff:ImageWidth="{Long}1620"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="300/1"
+            tiff:YResolution="300/1"
+            xmp:CreateDate="{Date}2016-03-03T09:56:31.000+01:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+            xmp:MetadataDate="{Date}2016-03-08T23:49:38.000+01:00"
+            xmp:ModifyDate="{Date}2016-03-08T23:49:38.000+01:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:77091afc-260e-1179-a410-b2db021fd2b8"
+            xmpMM:InstanceID="xmp.iid:92a056f0-30ca-4e51-8148-329edcaad942"
+            xmpMM:OriginalDocumentID="1410A96666ECC7917EE104E8A046ED78">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}2"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:5ad454dd-ed94-43e9-a887-e01d9e058a1b"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-03-08T23:49:38.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:92a056f0-30ca-4e51-8148-329edcaad942"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-03-08T23:49:38.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:03.390Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <bike
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.811Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8091580867767334"
+                    isCustom="{Boolean}false"
+                    name="bike"/>
+                <bicycle
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.811Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8079807162284851"
+                    isCustom="{Boolean}false"
+                    name="bicycle"/>
+                <cycling
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.812Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.728956401348114"
+                    isCustom="{Boolean}false"
+                    name="cycling"/>
+                <sport
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.813Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.694122314453125"
+                    isCustom="{Boolean}false"
+                    name="sport"/>
+                <biking
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.814Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6660072207450867"
+                    isCustom="{Boolean}false"
+                    name="biking"/>
+                <nature
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.814Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6551690697669983"
+                    isCustom="{Boolean}false"
+                    name="nature"/>
+                <man
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.815Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6474626064300537"
+                    isCustom="{Boolean}false"
+                    name="man"/>
+                <outdoors
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.816Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6313688158988953"
+                    isCustom="{Boolean}false"
+                    name="outdoors"/>
+                <cyclist
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.816Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6302362084388733"
+                    isCustom="{Boolean}false"
+                    name="cyclist"/>
+                <cycle
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.817Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6203254461288452"
+                    isCustom="{Boolean}false"
+                    name="cycle"/>
+                <green
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.817Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6102904081344604"
+                    isCustom="{Boolean}false"
+                    name="green"/>
+                <wheel
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.817Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6100321412086487"
+                    isCustom="{Boolean}false"
+                    name="wheel"/>
+                <activity
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.818Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6083518266677856"
+                    isCustom="{Boolean}false"
+                    name="activity"/>
+                <biker
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.818Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6022853851318359"
+                    isCustom="{Boolean}false"
+                    name="biker"/>
+                <old
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.819Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5987958312034607"
+                    isCustom="{Boolean}false"
+                    name="old"/>
+                <exercise
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.819Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5982803106307983"
+                    isCustom="{Boolean}false"
+                    name="exercise"/>
+                <people
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.820Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5963160991668701"
+                    isCustom="{Boolean}false"
+                    name="people"/>
+                <summer
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.820Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5957992672920227"
+                    isCustom="{Boolean}false"
+                    name="summer"/>
+                <grass
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.820Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5945660471916199"
+                    isCustom="{Boolean}false"
+                    name="grass"/>
+                <woman
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.821Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5905013680458069"
+                    isCustom="{Boolean}false"
+                    name="woman"/>
+                <mountain
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.821Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5895082354545593"
+                    isCustom="{Boolean}false"
+                    name="mountain"/>
+                <speed
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.822Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5832804441452026"
+                    isCustom="{Boolean}false"
+                    name="speed"/>
+                <outdoor
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.822Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5823825597763062"
+                    isCustom="{Boolean}false"
+                    name="outdoor"/>
+                <park
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.823Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.580782413482666"
+                    isCustom="{Boolean}false"
+                    name="park"/>
+                <travel
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.823Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5772959589958191"
+                    isCustom="{Boolean}false"
+                    name="travel"/>
+            </predictedTags>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

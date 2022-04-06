@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="1cb73edc-d90b-4e49-a262-45c4f8784c0e">
+    <jcr:content
+        cq:name="hiker-anapurna.jpg"
+        cq:parentPath="/content/dam/we-retail/en/activities/hiking-camping"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:processingId="5064c0f1-4e77-42a1-b4c7-385d97b6266e"
+        dam:processingRenditions="[cqdam.machine.metadata.features.json,cqdam.machine.metadata.tags.json,cqdam.metadata.xml,cq5dam.zoom.2048.2048.jpeg,cq5dam.web.1280.1280.jpeg,cqdam.text.txt,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:51.238Z"
+        dam:relativePath="we-retail/en/activities/hiking-camping/hiker-anapurna.jpg"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:44:06.482Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="Hiker Anapurna">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:44:02.485Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}3.5999999046325684"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}5.400000095367432"
+            dam:Progressive="no"
+            dam:sha1="63e7bc17ce1bb93efa827f071af5fb9742691396"
+            dam:size="{Long}527074"
+            dc:description="Hiker on the trek in Himalayas, Anapurna valley, Nepal"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-03-12T12:11:36.472+01:00"
+            dc:title="Hiker Anapurna"
+            exif:ColorSpace="{Long}65535"
+            exif:ExifOffset="{Long}236"
+            exif:ExifVersion="0221"
+            exif:PixelXDimension="{Long}2880"
+            exif:PixelYDimension="{Long}1920"
+            jcr:lastModified="{Date}2016-09-12T17:17:03.133+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="Hiker Anapurna"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}1080"
+            tiff:ImageWidth="{Long}1620"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="300/1"
+            tiff:YResolution="300/1"
+            xmp:CreateDate="{Date}2016-03-02T16:04:25.000+01:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+            xmp:MetadataDate="{Date}2016-03-08T23:49:52.000+01:00"
+            xmp:ModifyDate="{Date}2016-03-08T23:49:52.000+01:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:7f4bf964-260e-1179-a410-b2db021fd2b8"
+            xmpMM:InstanceID="xmp.iid:dd954092-0c7c-4235-9976-e4a0f27cb466"
+            xmpMM:OriginalDocumentID="6F2257995DF18391D8BF5C93B2AA9D9E">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}2"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:baeaeaa8-c3f9-4791-b383-d0201a21334a"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-03-08T23:49:52.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:dd954092-0c7c-4235-9976-e4a0f27cb466"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-03-08T23:49:52.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:03.208Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <mountain
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.212Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7077255249023438"
+                    isCustom="{Boolean}false"
+                    name="mountain"/>
+                <hiking
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.213Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7008211612701416"
+                    isCustom="{Boolean}false"
+                    name="hiking"/>
+                <nature
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.213Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6878661513328552"
+                    isCustom="{Boolean}false"
+                    name="nature"/>
+                <adventure
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.214Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6696180701255798"
+                    isCustom="{Boolean}false"
+                    name="adventure"/>
+                <active
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.214Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6461755633354187"
+                    isCustom="{Boolean}false"
+                    name="active"/>
+                <people
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.215Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.623505711555481"
+                    isCustom="{Boolean}false"
+                    name="people"/>
+                <landscape
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.215Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6232528686523438"
+                    isCustom="{Boolean}false"
+                    name="landscape"/>
+                <girl
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.216Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6177898645401001"
+                    isCustom="{Boolean}false"
+                    name="girl"/>
+                <man
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.216Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6113873720169067"
+                    isCustom="{Boolean}false"
+                    name="man"/>
+                <woman
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.216Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6072374582290649"
+                    isCustom="{Boolean}false"
+                    name="woman"/>
+                <outdoors
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.217Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5981633067131042"
+                    isCustom="{Boolean}false"
+                    name="outdoors"/>
+                <travel
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.217Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5959519147872925"
+                    isCustom="{Boolean}false"
+                    name="travel"/>
+                <blue
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.218Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5927257537841797"
+                    isCustom="{Boolean}false"
+                    name="blue"/>
+                <sky
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.218Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5914936065673828"
+                    isCustom="{Boolean}false"
+                    name="sky"/>
+                <autumn
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.219Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5899280905723572"
+                    isCustom="{Boolean}false"
+                    name="autumn"/>
+                <female
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.219Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5850724577903748"
+                    isCustom="{Boolean}false"
+                    name="female"/>
+                <beautiful
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.219Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5770285129547119"
+                    isCustom="{Boolean}false"
+                    name="beautiful"/>
+                <activity
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.220Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5765492916107178"
+                    isCustom="{Boolean}false"
+                    name="activity"/>
+                <forest
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.220Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.575734555721283"
+                    isCustom="{Boolean}false"
+                    name="forest"/>
+                <grass
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.221Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5749479532241821"
+                    isCustom="{Boolean}false"
+                    name="grass"/>
+                <backpack
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.221Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5747737884521484"
+                    isCustom="{Boolean}false"
+                    name="backpack"/>
+                <hike
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.222Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5727999806404114"
+                    isCustom="{Boolean}false"
+                    name="hike"/>
+                <day
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.222Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5697538256645203"
+                    isCustom="{Boolean}false"
+                    name="day"/>
+                <park
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.223Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5694050788879395"
+                    isCustom="{Boolean}false"
+                    name="park"/>
+                <green
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.223Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5693536996841431"
+                    isCustom="{Boolean}false"
+                    name="green"/>
+            </predictedTags>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

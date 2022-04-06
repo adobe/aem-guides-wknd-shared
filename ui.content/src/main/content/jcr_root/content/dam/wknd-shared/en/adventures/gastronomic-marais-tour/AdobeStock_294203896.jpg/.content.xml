@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="5771d384-33fa-45a3-8943-232e7b825f1d">
+    <jcr:content
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:processingId="9c20eca4-6c18-4581-8417-9e312cf09a8b"
+        dam:processingRenditions="[cq5dam.thumbnail.319.319.png,cq5dam.zoom.2048.2048.jpeg,cqdam.metadata.xml,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.features.json,cqdam.text.txt,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png,cq5dam.web.1280.1280.jpeg]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:54.762Z"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:44:19.426Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:44:07.727Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="no"
+            dam:sha1="2d49811717eb061aceb8b91e1c798131c1147f87"
+            dam:size="{Long}415953"
+            dc:format="image/jpeg"
+            dc:rights="©Ekaterina Belova - stock.adobe.com"
+            dc:title="Cozy street with tables of cafe in Paris, France"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}657"
+            tiff:ImageWidth="{Long}1000"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Windows)"
+            xmpMM:DocumentID="xmp.did:68B61FFA0A5B11EBAE23BE8D2C701742"
+            xmpMM:InstanceID="xmp.iid:68B61FF90A5B11EBAE23BE8D2C701742"
+            xmpMM:OriginalDocumentID="AC92DE24718C0E44DD513F4EEA9892F0"
+            xmpRights:Marked="{Boolean}true">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="adobe:docid:photoshop:2b11a682-f7ca-304e-b8c5-e527265a77a2"
+                stRef:instanceID="xmp.iid:189e8b05-f188-4852-a430-9b33a00b5030"
+                xmpNodeType="xmpStruct"/>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <city
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.820Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6932696104049683"
+                    isCustom="{Boolean}false"
+                    name="city"/>
+                <street
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.821Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6753077507019043"
+                    isCustom="{Boolean}false"
+                    name="street"/>
+                <town
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.821Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.632862389087677"
+                    isCustom="{Boolean}false"
+                    name="town"/>
+                <architecture
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.822Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6270063519477844"
+                    isCustom="{Boolean}false"
+                    name="architecture"/>
+                <house
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.823Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6171399354934692"
+                    isCustom="{Boolean}false"
+                    name="house"/>
+                <tree
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.824Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6162042021751404"
+                    isCustom="{Boolean}false"
+                    name="tree"/>
+                <road
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.824Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.590566873550415"
+                    isCustom="{Boolean}false"
+                    name="road"/>
+                <summer
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.825Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5880915522575378"
+                    isCustom="{Boolean}false"
+                    name="summer"/>
+                <landscape
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.826Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5836424827575684"
+                    isCustom="{Boolean}false"
+                    name="landscape"/>
+                <beautiful
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.826Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5724600553512573"
+                    isCustom="{Boolean}false"
+                    name="beautiful"/>
+                <trees
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.827Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.572060227394104"
+                    isCustom="{Boolean}false"
+                    name="trees"/>
+                <palm
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.828Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5712868571281433"
+                    isCustom="{Boolean}false"
+                    name="palm"/>
+                <building
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.829Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5687229633331299"
+                    isCustom="{Boolean}false"
+                    name="building"/>
+                <sky
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.830Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.564504861831665"
+                    isCustom="{Boolean}false"
+                    name="sky"/>
+                <garden
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.830Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.559609055519104"
+                    isCustom="{Boolean}false"
+                    name="garden"/>
+                <park
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.831Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.554919421672821"
+                    isCustom="{Boolean}false"
+                    name="park"/>
+                <beach
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.832Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5530062913894653"
+                    isCustom="{Boolean}false"
+                    name="beach"/>
+                <outdoor
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.833Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5430866479873657"
+                    isCustom="{Boolean}false"
+                    name="outdoor"/>
+                <home
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.833Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5407207012176514"
+                    isCustom="{Boolean}false"
+                    name="home"/>
+                <square
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.834Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.530937910079956"
+                    isCustom="{Boolean}false"
+                    name="square"/>
+                <urban
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.834Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5286917090415955"
+                    isCustom="{Boolean}false"
+                    name="urban"/>
+                <green
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.835Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5280600190162659"
+                    isCustom="{Boolean}false"
+                    name="green"/>
+                <blue
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.836Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5258916616439819"
+                    isCustom="{Boolean}false"
+                    name="blue"/>
+                <spain
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.836Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5256755352020264"
+                    isCustom="{Boolean}false"
+                    name="spain"/>
+                <travel
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.837Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5237793326377869"
+                    isCustom="{Boolean}false"
+                    name="travel"/>
+            </predictedTags>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:13.701Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

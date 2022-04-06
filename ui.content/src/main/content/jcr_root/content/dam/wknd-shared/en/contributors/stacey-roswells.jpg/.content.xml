@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="142658f8-4029-4299-9cd6-51afd52345c0">
+    <jcr:content
+        cq:name="stacey-roswells.jpg"
+        cq:parentPath="/content/dam/wknd-shared/en/contributors"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/46/caa45d63-feda-40e6-8796-bfe10e27fc16_134"
+        dam:processingId="16cef4be-3477-49db-9165-3ac96979bcdc"
+        dam:processingRenditions="[cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.tags.json,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.features.json,cq5dam.thumbnail.48.48.png,cq5dam.thumbnail.319.319.png,cqdam.text.txt,cq5dam.web.1280.1280.jpeg,cqdam.metadata.xml]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:46:48.776Z"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:47:03.868Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="stacey-roswells.jpg">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:46:53.764Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}46.44444274902344"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}69.66666412353516"
+            dam:Progressive="no"
+            dam:sha1="317fb6e5d4ab85f1265f2421628d2b21c9137dfe"
+            dam:size="{Long}1679050"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2019-09-17T21:00:37.303-07:00"
+            jcr:lastModified="{Date}2019-10-25T16:49:28.813-07:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}3344"
+            tiff:ImageWidth="{Long}5016">
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <binoculars
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.167Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8323207497596741"
+                    isCustom="{Boolean}false"
+                    name="binoculars"/>
+                <isolated
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.168Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7740501165390015"
+                    isCustom="{Boolean}false"
+                    name="isolated"/>
+                <female
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.169Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7660278081893921"
+                    isCustom="{Boolean}false"
+                    name="female"/>
+                <girl
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.169Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7619175314903259"
+                    isCustom="{Boolean}false"
+                    name="girl"/>
+                <caucasian
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.170Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7527287006378174"
+                    isCustom="{Boolean}false"
+                    name="caucasian"/>
+                <woman
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.171Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7439267635345459"
+                    isCustom="{Boolean}false"
+                    name="woman"/>
+                <adult
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.171Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7399199604988098"
+                    isCustom="{Boolean}false"
+                    name="adult"/>
+                <look
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.172Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7018766403198242"
+                    isCustom="{Boolean}false"
+                    name="look"/>
+                <beautiful
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.172Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6914393901824951"
+                    isCustom="{Boolean}false"
+                    name="beautiful"/>
+                <business
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.174Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6901827454566956"
+                    isCustom="{Boolean}false"
+                    name="business"/>
+                <camera
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.174Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6891084909439087"
+                    isCustom="{Boolean}false"
+                    name="camera"/>
+                <white
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.175Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6864234209060669"
+                    isCustom="{Boolean}false"
+                    name="white"/>
+                <looking
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.175Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6803338527679443"
+                    isCustom="{Boolean}false"
+                    name="looking"/>
+                <young
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.176Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.668530285358429"
+                    isCustom="{Boolean}false"
+                    name="young"/>
+                <people
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.176Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6617457866668701"
+                    isCustom="{Boolean}false"
+                    name="people"/>
+                <background
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.176Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6601629257202148"
+                    isCustom="{Boolean}false"
+                    name="background"/>
+                <binocular
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.177Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6594853401184082"
+                    isCustom="{Boolean}false"
+                    name="binocular"/>
+                <person
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.177Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6575770378112793"
+                    isCustom="{Boolean}false"
+                    name="person"/>
+                <lens
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.177Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6544177532196045"
+                    isCustom="{Boolean}false"
+                    name="lens"/>
+                <beauty
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.178Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6380020976066589"
+                    isCustom="{Boolean}false"
+                    name="beauty"/>
+                <photographer
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.178Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6319023370742798"
+                    isCustom="{Boolean}false"
+                    name="photographer"/>
+                <child
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.178Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6228551864624023"
+                    isCustom="{Boolean}false"
+                    name="child"/>
+                <man
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.179Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6218355894088745"
+                    isCustom="{Boolean}false"
+                    name="man"/>
+                <face
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.179Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6197802424430847"
+                    isCustom="{Boolean}false"
+                    name="face"/>
+                <search
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.179Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6166701316833496"
+                    isCustom="{Boolean}false"
+                    name="search"/>
+            </predictedTags>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:47:00.182Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}1"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}1"
+                lastUsed="{Date}2019-10-02T12:21:08.379-07:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

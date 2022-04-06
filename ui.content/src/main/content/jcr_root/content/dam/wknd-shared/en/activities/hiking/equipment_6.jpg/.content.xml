@@ -1,0 +1,250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="e8d708f1-b295-454e-80ba-f298cf578699">
+    <jcr:content
+        cq:name="equipment_6.jpg"
+        cq:parentPath="/content/dam/we-retail/en/products/activities"
+        dam:assetID="aaid:2e166cef79f7449f9a768d978be37fe8"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:lastInvalidateCache="{Date}2016-01-16T23:35:41.808-05:00"
+        dam:processingId="030bae03-3bc2-4fb8-94af-c182e13bb15f"
+        dam:processingRenditions="[cqdam.metadata.xml,cqdam.text.txt,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.319.319.png,cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.48.48.png,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.features.json,cq5dam.thumbnail.140.100.png]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:51.359Z"
+        dam:relativePath="we-retail/en/products/activities/equipment_6.jpg"
+        dam:runPostProcess="{Boolean}true"
+        dam:s7damAnchorX="{Long}960"
+        dam:s7damAnchorY="{Long}540"
+        dam:s7damHeight="{Long}1080"
+        dam:s7damType="Image"
+        dam:s7damWidth="{Long}1920"
+        jcr:lastModified="{Date}2022-03-23T20:44:10.365Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="equipment_6.jpg">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:44:01.812Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}3.5999999046325684"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}6.400000095367432"
+            dam:Progressive="no"
+            dam:sha1="08e3af3600706f8b6133c73049a30e8512c8872a"
+            dam:size="{Long}457136"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-01-14T19:43:59.301-08:00"
+            exif:ColorSpace="{Long}65535"
+            exif:ExifOffset="{Long}236"
+            exif:ExifVersion="0221"
+            exif:PixelXDimension="{Long}1920"
+            exif:PixelYDimension="{Long}1080"
+            jcr:lastModified="{Date}2016-09-12T17:16:25.921+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}1080"
+            tiff:ImageWidth="{Long}1920"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="300/1"
+            tiff:YResolution="300/1"
+            xmp:CreateDate="{Date}2016-01-14T14:12:41.000-08:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+            xmp:MetadataDate="{Date}2016-01-14T14:13:57.000-08:00"
+            xmp:ModifyDate="{Date}2016-01-14T14:13:57.000+01:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:7fd2ec2c-fb9a-1178-a555-e9088ceaccc6"
+            xmpMM:InstanceID="xmp.iid:4f9e8d9e-0497-46ac-adfe-41d5f518a821"
+            xmpMM:OriginalDocumentID="285E4B50F8D110BFE64532E02ED1E3AE"
+            writebackEnable="{Boolean}true">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}2"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:2f145e7c-9e68-4fc3-85a9-eda3972037f0"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-01-14T14:13:57.000-08:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:4f9e8d9e-0497-46ac-adfe-41d5f518a821"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-01-14T14:13:57.000-08:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <food
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.083Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6105413436889648"
+                    isCustom="{Boolean}false"
+                    name="food"/>
+                <grass
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.083Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5713497400283813"
+                    isCustom="{Boolean}false"
+                    name="grass"/>
+                <green
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.084Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5670685768127441"
+                    isCustom="{Boolean}false"
+                    name="green"/>
+                <red
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.084Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5486303567886353"
+                    isCustom="{Boolean}false"
+                    name="red"/>
+                <gardening
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.085Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.543908953666687"
+                    isCustom="{Boolean}false"
+                    name="gardening"/>
+                <background
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.085Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5406071543693542"
+                    isCustom="{Boolean}false"
+                    name="background"/>
+                <gloves
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.086Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.536615252494812"
+                    isCustom="{Boolean}false"
+                    name="gloves"/>
+                <brown
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.086Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5358297824859619"
+                    isCustom="{Boolean}false"
+                    name="brown"/>
+                <basket
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.087Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5312251448631287"
+                    isCustom="{Boolean}false"
+                    name="basket"/>
+                <old
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.088Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5272334814071655"
+                    isCustom="{Boolean}false"
+                    name="old"/>
+                <vintage
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.088Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5237672328948975"
+                    isCustom="{Boolean}false"
+                    name="vintage"/>
+                <money
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.088Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.520434558391571"
+                    isCustom="{Boolean}false"
+                    name="money"/>
+                <currency
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.089Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.518429160118103"
+                    isCustom="{Boolean}false"
+                    name="currency"/>
+                <boots
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.089Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5148479342460632"
+                    isCustom="{Boolean}false"
+                    name="boots"/>
+                <isolated
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.090Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.514542818069458"
+                    isCustom="{Boolean}false"
+                    name="isolated"/>
+                <antique
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.090Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5096355676651001"
+                    isCustom="{Boolean}false"
+                    name="antique"/>
+                <bag
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.091Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5092338919639587"
+                    isCustom="{Boolean}false"
+                    name="bag"/>
+                <business
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.091Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5082370042800903"
+                    isCustom="{Boolean}false"
+                    name="business"/>
+                <nobody
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.091Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5017664432525635"
+                    isCustom="{Boolean}false"
+                    name="nobody"/>
+                <straw
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.092Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5007102489471436"
+                    isCustom="{Boolean}false"
+                    name="straw"/>
+            </predictedTags>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:08.095Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

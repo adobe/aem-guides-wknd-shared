@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:prismusagerights="http://prismstandard.org/namespaces/prismusagerights/2.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="ca41fef0-2c83-4bf8-bbea-358218eb8957">
+    <jcr:content
+        cq:name="AdobeStock_209250305.jpeg"
+        cq:parentPath="/content/dam/wknd-shared/en/adventures/beervana-portland"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:processingId="f7a296a8-88f1-41aa-95cd-bc965c98b136"
+        dam:processingRenditions="[cq5dam.thumbnail.48.48.png,cq5dam.web.1280.1280.jpeg,cqdam.text.txt,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.features.json,cq5dam.zoom.2048.2048.jpeg,cqdam.metadata.xml,cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.tags.json]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:55.014Z"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:44:19.682Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpeg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:DigitalCreationDate="{Long}20130201"
+            dam:DigitalCreationTime="160322-0800"
+            dam:extracted="{Date}2022-03-23T20:44:07.174Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}9.44444465637207"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}14.208333015441895"
+            dam:Progressive="no"
+            dam:sha1="df4f78b133c3991cca717b899e603fa003e468df"
+            dam:size="{Long}433468"
+            dam:TimeCreated="160322-0800"
+            dc:creator="[Lauren Grabelle,Lauren Grabelle,Lauren Grabelle,Lauren Grabelle,Lauren Grabelle,Lauren Grabelle,Lauren Grabelle,Lauren Grabelle,Lauren Grabelle,Lauren Grabelle,Lauren Grabelle,Lauren Grabelle,Lauren Grabelle,Lauren Grabelle,Lauren Grabelle]"
+            dc:creator_xmpArrayType="rdf:Seq"
+            dc:date="{Long}[20130201,20130201,20130201,20130201,20130201,20130201,20130201,20130201,20130201,20130201,20130201,20130201,20130201,20130201,20130201]"
+            dc:date_xmpArrayType="rdf:Seq"
+            dc:description="View of Mt. Hood across Portland from Pittock Mansion"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2019-10-24T15:49:24.231-07:00"
+            dc:rights="© 2013 Lauren Grabelle"
+            dc:subject="[mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa,mount hood,portland,oregon,mountain,mt hood,mt. hood,scenic,snow,city,urban,nature,tree,cityscape,landscape,outdoors,day,no people,nobody,united states,usa]"
+            dc:subject_xmpArrayType="rdf:Bag"
+            dc:title="View of Mount Hood and Portland in Oregon"
+            exif:ColorSpace="{Long}1"
+            exif:ComponentsConfiguration="{Long}[1,2,3,0]"
+            exif:ComponentsConfiguration_xmpArrayType="rdf:Seq"
+            exif:DateTimeOriginal="{Date}2013-02-01T16:03:22.000Z"
+            exif:ExifVersion="0230"
+            exif:FlashpixVersion="0100"
+            exif:PixelXDimension="{Long}1023"
+            exif:PixelYDimension="{Long}680"
+            jcr:lastModified="{Date}2019-10-25T16:48:36.223-07:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="View of Mount Hood and Portland in Oregon"
+            photoshop:AuthorsPosition="photographer"
+            photoshop:ColorMode="{Long}3"
+            photoshop:Country="United States of America"
+            photoshop:Credit="Lauren Grabelle - stock.adobe.co"
+            photoshop:DateCreated="{Date}2013-02-01T16:03:22.000-08:00"
+            photoshop:Headline="View of Mount Hood and Portland in Oregon"
+            photoshop:ICCProfile="sRGB IEC61966-2.1"
+            photoshop:LegacyIPTCDigest="3D64C793924EBB6800EC15CF83E530B1"
+            photoshop:Source="209250305"
+            prismusagerights:creditLine="[Lauren Grabelle - stock.adobe.com]"
+            prismusagerights:creditLine_xmpArrayType="rdf:Bag"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}680"
+            tiff:ImageWidth="{Long}1023"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="720000/10000"
+            tiff:YCbCrPositioning="{Long}1"
+            tiff:YCbCrSubSampling="{Long}[0]"
+            tiff:YCbCrSubSampling_xmpArrayType="rdf:Seq"
+            tiff:YResolution="720000/10000"
+            xmp:CreateDate="{Date}2013-02-01T16:03:22.000-08:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2019 (Macintosh)"
+            xmp:MetadataDate="{Date}2019-10-24T15:19:00.000-07:00"
+            xmp:ModifyDate="{Date}2019-10-24T15:19:00.000-07:00"
+            xmp:Rating="{Decimal}3"
+            xmpMM:DocumentID="xmp.did:f801f617-44ae-447d-bbe2-50e48320e1eb"
+            xmpMM:InstanceID="xmp.iid:71a0c297-7690-4b08-8963-f5919bb6cd12"
+            xmpMM:OriginalDocumentID="E2DA04A49758F31A3D35F9806598ABB3"
+            xmpRights:Marked="{Boolean}true"
+            xmpRights:UsageTerms="[For consideration only; no reproduction without prior permission]"
+            xmpRights:UsageTerms_xmpArrayType="rdf:Alt"
+            xmpRights:WebStatement="laurengrabelle.com"
+            lastTransferredForTagging="{Date}2019-10-24T15:48:51.844-07:00"
+            simsearchVersion="1.0.0">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="xmp.did:ec7a1204-dad8-4a05-90c3-3c83287992ae"
+                stRef:instanceID="xmp.iid:ec7a1204-dad8-4a05-90c3-3c83287992ae"
+                stRef:originalDocumentID="E2DA04A49758F31A3D35F9806598ABB3"
+                xmpNodeType="xmpStruct"/>
+            <Iptc4xmpCore:CreatorContactInfo
+                Iptc4xmpCore:CiAdrCity="Bigfork"
+                Iptc4xmpCore:CiAdrCtry="USA"
+                Iptc4xmpCore:CiAdrExtadr="34027 Redgate Lane"
+                Iptc4xmpCore:CiAdrPcode="59911"
+                Iptc4xmpCore:CiAdrRegion="Montana"
+                Iptc4xmpCore:CiEmailWork="lauren.lgphoto@gmail.com"
+                Iptc4xmpCore:CiTelWork="406-890-8395"
+                Iptc4xmpCore:CiUrlWork="laurengrabelle.com"
+                jcr:primaryType="nt:unstructured"
+                xmpNodeType="xmpStruct"/>
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}1"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:71a0c297-7690-4b08-8963-f5919bb6cd12"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2019 (Macintosh)"
+                    stEvt:when="{Date}2019-10-24T15:19:00.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:13.783Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <city
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.785Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8269135355949402"
+                    isCustom="{Boolean}false"
+                    name="city"/>
+                <landscape
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.785Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.723570704460144"
+                    isCustom="{Boolean}false"
+                    name="landscape"/>
+                <view
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.786Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7125861644744873"
+                    isCustom="{Boolean}false"
+                    name="view"/>
+                <cityscape
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.787Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.70599764585495"
+                    isCustom="{Boolean}false"
+                    name="cityscape"/>
+                <panorama
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.787Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6575044989585876"
+                    isCustom="{Boolean}false"
+                    name="panorama"/>
+                <sky
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.788Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.651419997215271"
+                    isCustom="{Boolean}false"
+                    name="sky"/>
+                <skyline
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.789Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6398332118988037"
+                    isCustom="{Boolean}false"
+                    name="skyline"/>
+                <architecture
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.789Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6385459303855896"
+                    isCustom="{Boolean}false"
+                    name="architecture"/>
+                <buildings
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.790Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6365969777107239"
+                    isCustom="{Boolean}false"
+                    name="buildings"/>
+                <sea
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.791Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.635349452495575"
+                    isCustom="{Boolean}false"
+                    name="sea"/>
+                <urban
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.792Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6324232816696167"
+                    isCustom="{Boolean}false"
+                    name="urban"/>
+                <mountain
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.792Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6263503432273865"
+                    isCustom="{Boolean}false"
+                    name="mountain"/>
+                <building
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.793Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6248384118080139"
+                    isCustom="{Boolean}false"
+                    name="building"/>
+                <town
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.794Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6210898756980896"
+                    isCustom="{Boolean}false"
+                    name="town"/>
+                <blue
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.794Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6161054968833923"
+                    isCustom="{Boolean}false"
+                    name="blue"/>
+                <travel
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.795Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6112263202667236"
+                    isCustom="{Boolean}false"
+                    name="travel"/>
+                <aerial
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.796Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6036664247512817"
+                    isCustom="{Boolean}false"
+                    name="aerial"/>
+                <mountains
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.796Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6022362112998962"
+                    isCustom="{Boolean}false"
+                    name="mountains"/>
+                <clouds
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.797Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5986706614494324"
+                    isCustom="{Boolean}false"
+                    name="clouds"/>
+                <hill
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.798Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5967104434967041"
+                    isCustom="{Boolean}false"
+                    name="hill"/>
+                <asia
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.798Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5921053290367126"
+                    isCustom="{Boolean}false"
+                    name="asia"/>
+                <coast
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.799Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5889080166816711"
+                    isCustom="{Boolean}false"
+                    name="coast"/>
+                <downtown
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.800Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5877109169960022"
+                    isCustom="{Boolean}false"
+                    name="downtown"/>
+                <tourism
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.800Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5854150652885437"
+                    isCustom="{Boolean}false"
+                    name="tourism"/>
+                <nature
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.801Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5823207497596741"
+                    isCustom="{Boolean}false"
+                    name="nature"/>
+            </predictedTags>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}1"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}1"
+                lastUsed="{Date}2019-10-25T10:01:59.692-07:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

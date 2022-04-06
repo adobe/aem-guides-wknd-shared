@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="b8b08a30-6ec5-495f-a078-356aab2482e6">
+    <jcr:content
+        cq:name="climber-gear-outdoor.jpg"
+        cq:parentPath="/content/dam/we-retail/en/activities/climbing"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:processingId="f9733add-1a3d-407d-9830-867133a64005"
+        dam:processingRenditions="[cq5dam.thumbnail.319.319.png,cqdam.metadata.xml,cq5dam.web.1280.1280.jpeg,cqdam.text.txt,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.features.json]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:51.263Z"
+        dam:relativePath="we-retail/en/activities/climbing/climber-gear-outdoor.jpg"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:44:05.094Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="Climber Gear Outdoor">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:44:02.020Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}3.5999999046325684"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}5.400000095367432"
+            dam:Progressive="no"
+            dam:sha1="df05bf295a0c81f195dc7b86b1a4e6b80e632fe9"
+            dam:size="{Long}292139"
+            dc:description="Collection of rock climbing gear attached to a climber's harness"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-03-07T00:34:05.189+01:00"
+            dc:title="Climber Gear Outdoor"
+            exif:ColorSpace="{Long}65535"
+            exif:ExifOffset="{Long}236"
+            exif:ExifVersion="0221"
+            exif:PixelXDimension="{Long}2880"
+            exif:PixelYDimension="{Long}1920"
+            jcr:lastModified="{Date}2016-09-12T17:16:24.087+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="Climber Gear Outdoor"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}1080"
+            tiff:ImageWidth="{Long}1620"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="300/1"
+            tiff:YResolution="300/1"
+            xmp:CreateDate="{Date}2016-02-10T12:02:08.000+01:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2015"
+            xmp:MetadataDate="{Date}2016-03-04T12:38:39.000+01:00"
+            xmp:ModifyDate="{Date}2016-03-04T12:38:39.000+01:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:106f7122-228c-1179-9fe2-dd6814746362"
+            xmpMM:InstanceID="xmp.iid:fec5119f-aa48-4780-86d8-b621d9458a79"
+            xmpMM:OriginalDocumentID="DD23D2F5C9F7D75B6A95288C7D7077DD">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}2"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:50a597b7-14ce-468f-be0b-ae9eeef0b064"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015"
+                    stEvt:when="{Date}2016-03-04T12:38:39.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:fec5119f-aa48-4780-86d8-b621d9458a79"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015"
+                    stEvt:when="{Date}2016-03-04T12:38:39.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <bike
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.942Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7509706020355225"
+                    isCustom="{Boolean}false"
+                    name="bike"/>
+                <bicycle
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.943Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7354774475097656"
+                    isCustom="{Boolean}false"
+                    name="bicycle"/>
+                <wheel
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.943Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6410011649131775"
+                    isCustom="{Boolean}false"
+                    name="wheel"/>
+                <city
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.944Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6198214292526245"
+                    isCustom="{Boolean}false"
+                    name="city"/>
+                <sport
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.984Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6048647165298462"
+                    isCustom="{Boolean}false"
+                    name="sport"/>
+                <transport
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.984Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5978348851203918"
+                    isCustom="{Boolean}false"
+                    name="transport"/>
+                <cycle
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.985Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5883264541625977"
+                    isCustom="{Boolean}false"
+                    name="cycle"/>
+                <street
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.985Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5836145877838135"
+                    isCustom="{Boolean}false"
+                    name="street"/>
+                <ride
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.986Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5723828077316284"
+                    isCustom="{Boolean}false"
+                    name="ride"/>
+                <man
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.986Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5721613764762878"
+                    isCustom="{Boolean}false"
+                    name="man"/>
+                <road
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.987Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.55814528465271"
+                    isCustom="{Boolean}false"
+                    name="road"/>
+                <travel
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.987Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5569796562194824"
+                    isCustom="{Boolean}false"
+                    name="travel"/>
+                <cycling
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.988Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5560965538024902"
+                    isCustom="{Boolean}false"
+                    name="cycling"/>
+                <urban
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.988Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5558876991271973"
+                    isCustom="{Boolean}false"
+                    name="urban"/>
+                <people
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.989Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5381391048431396"
+                    isCustom="{Boolean}false"
+                    name="people"/>
+                <transportation
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.989Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5201361775398254"
+                    isCustom="{Boolean}false"
+                    name="transportation"/>
+                <equipment
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.990Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5195952653884888"
+                    isCustom="{Boolean}false"
+                    name="equipment"/>
+                <old
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.990Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5162420272827148"
+                    isCustom="{Boolean}false"
+                    name="old"/>
+                <biking
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.991Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5154418349266052"
+                    isCustom="{Boolean}false"
+                    name="biking"/>
+                <speed
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.991Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5152220726013184"
+                    isCustom="{Boolean}false"
+                    name="speed"/>
+                <biker
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.991Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.511867344379425"
+                    isCustom="{Boolean}false"
+                    name="biker"/>
+                <cyclist
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.992Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5110492706298828"
+                    isCustom="{Boolean}false"
+                    name="cyclist"/>
+                <sports
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.992Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5048618912696838"
+                    isCustom="{Boolean}false"
+                    name="sports"/>
+                <motorcycle
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.993Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5047594904899597"
+                    isCustom="{Boolean}false"
+                    name="motorcycle"/>
+            </predictedTags>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:02.997Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

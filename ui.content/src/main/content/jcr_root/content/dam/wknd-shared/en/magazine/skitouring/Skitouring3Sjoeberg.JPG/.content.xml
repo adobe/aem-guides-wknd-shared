@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="7d816fd9-c17c-451a-a5fe-02e1f16e309c">
+    <jcr:content
+        cq:name="Skitouring3Sjoeberg.JPG"
+        cq:parentPath="/content/dam/wknd-shared/en/magazine/skitouring"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:processingId="b0082241-b205-491e-a17c-3712aee1a6e9"
+        dam:processingRenditions="[cqdam.machine.metadata.features.json,cq5dam.thumbnail.48.48.png,cqdam.metadata.xml,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.tags.json,cqdam.text.txt,cq5dam.zoom.2048.2048.jpeg,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.319.319.png]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:52.041Z"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:44:11.842Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:44:01.803Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}11.847222328186035"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}17.77777862548828"
+            dam:Progressive="no"
+            dam:sha1="dce70f66f3e37ce34e3ff960f40adcf287b65e8f"
+            dam:size="{Long}121327"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2019-10-25T16:49:45.457-07:00"
+            exif:ColorSpace="{Long}65535"
+            exif:ExifVersion="0221"
+            exif:PixelXDimension="{Long}1280"
+            exif:PixelYDimension="{Long}853"
+            jcr:lastModified="{Date}2019-10-25T16:49:45.457-07:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}853"
+            tiff:ImageWidth="{Long}1280"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="720000/10000"
+            tiff:YResolution="720000/10000"
+            xmp:CreateDate="{Date}2019-09-26T06:19:47.000-07:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2019 (Macintosh)"
+            xmp:MetadataDate="{Date}2019-10-01T15:24:45.000-07:00"
+            xmp:ModifyDate="{Date}2019-10-01T15:24:45.000-07:00"
+            xmpMM:DocumentID="AE8F541C7442B52467E515F1BD7678AC"
+            xmpMM:InstanceID="xmp.iid:15326c88-92b0-4aca-9099-8e998d7f5ecd"
+            xmpMM:OriginalDocumentID="AE8F541C7442B52467E515F1BD7678AC">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}1"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:15326c88-92b0-4aca-9099-8e998d7f5ecd"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2019 (Macintosh)"
+                    stEvt:when="{Date}2019-10-01T15:24:45.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:02.787Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <landscape
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.791Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7240799069404602"
+                    isCustom="{Boolean}false"
+                    name="landscape"/>
+                <sky
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.792Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7232167720794678"
+                    isCustom="{Boolean}false"
+                    name="sky"/>
+                <beach
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.792Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7035056352615356"
+                    isCustom="{Boolean}false"
+                    name="beach"/>
+                <sea
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.793Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6932038068771362"
+                    isCustom="{Boolean}false"
+                    name="sea"/>
+                <blue
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.794Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.68953537940979"
+                    isCustom="{Boolean}false"
+                    name="blue"/>
+                <nature
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.794Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6864781379699707"
+                    isCustom="{Boolean}false"
+                    name="nature"/>
+                <ocean
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.795Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.681380033493042"
+                    isCustom="{Boolean}false"
+                    name="ocean"/>
+                <mountain
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.796Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6812974214553833"
+                    isCustom="{Boolean}false"
+                    name="mountain"/>
+                <water
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.797Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6805483102798462"
+                    isCustom="{Boolean}false"
+                    name="water"/>
+                <sand
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.797Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6548935770988464"
+                    isCustom="{Boolean}false"
+                    name="sand"/>
+                <clouds
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.798Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6391059160232544"
+                    isCustom="{Boolean}false"
+                    name="clouds"/>
+                <lake
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.799Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6389269828796387"
+                    isCustom="{Boolean}false"
+                    name="lake"/>
+                <view
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.800Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.635692834854126"
+                    isCustom="{Boolean}false"
+                    name="view"/>
+                <coast
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.800Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6224729418754578"
+                    isCustom="{Boolean}false"
+                    name="coast"/>
+                <aerial
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.801Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6189844012260437"
+                    isCustom="{Boolean}false"
+                    name="aerial"/>
+                <travel
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.802Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6032286286354065"
+                    isCustom="{Boolean}false"
+                    name="travel"/>
+                <mountains
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.803Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5974085330963135"
+                    isCustom="{Boolean}false"
+                    name="mountains"/>
+                <island
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.803Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5835325717926025"
+                    isCustom="{Boolean}false"
+                    name="island"/>
+                <plane
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.804Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5695476531982422"
+                    isCustom="{Boolean}false"
+                    name="plane"/>
+                <snow
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.805Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.563401460647583"
+                    isCustom="{Boolean}false"
+                    name="snow"/>
+                <vacation
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.805Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5625064969062805"
+                    isCustom="{Boolean}false"
+                    name="vacation"/>
+                <desert
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.806Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5607169270515442"
+                    isCustom="{Boolean}false"
+                    name="desert"/>
+                <rock
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.807Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5580882430076599"
+                    isCustom="{Boolean}false"
+                    name="rock"/>
+                <coastline
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.807Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5573251247406006"
+                    isCustom="{Boolean}false"
+                    name="coastline"/>
+                <summer
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.808Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5539605617523193"
+                    isCustom="{Boolean}false"
+                    name="summer"/>
+            </predictedTags>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

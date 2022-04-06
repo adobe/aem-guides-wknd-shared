@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="ec50672d-96f4-443a-baa5-5b457ea798c7">
+    <jcr:content
+        cq:name="mx121.jpg"
+        cq:parentPath="/content/dam/we-retail/en/products/activities/biking/source"
+        dam:assetID="ec50672d-96f4-443a-baa5-5b457ea798c7"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:lastInvalidateCache="{Date}2016-01-16T23:34:49.387-05:00"
+        dam:processingId="d91bff93-7795-457c-a929-03db0263ca57"
+        dam:processingRenditions="[cqdam.metadata.xml,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.140.100.png,cqdam.text.txt,cq5dam.zoom.2048.2048.jpeg,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.features.json]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:51.401Z"
+        dam:relativePath="we-retail/en/products/activities/biking/source/MX121.jpg"
+        dam:runPostProcess="{Boolean}true"
+        dam:s7damAnchorX="{Long}806"
+        dam:s7damAnchorY="{Long}540"
+        dam:s7damHeight="{Long}1080"
+        dam:s7damType="Image"
+        dam:s7damWidth="{Long}1613"
+        jcr:lastModified="{Date}2022-03-23T20:44:04.858Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="Bike Pedals">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:44:02.425Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}3.5999999046325684"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}5.37666654586792"
+            dam:Progressive="no"
+            dam:sha1="d0761d299d9e10b89dd7159233120e6f1b1756da"
+            dam:size="{Long}106312"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-01-08T12:24:35.595-08:00"
+            exif:ColorSpace="{Long}65535"
+            exif:ExifOffset="{Long}236"
+            exif:ExifVersion="0221"
+            exif:PixelXDimension="{Long}1613"
+            exif:PixelYDimension="{Long}1080"
+            jcr:lastModified="{Date}2016-09-12T17:15:59.238+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}1080"
+            tiff:ImageWidth="{Long}1613"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="300/1"
+            tiff:YResolution="300/1"
+            xmp:CreateDate="{Date}2015-08-18T12:48:54.000-07:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+            xmp:MetadataDate="{Date}2015-09-17T10:03:23.000-07:00"
+            xmp:ModifyDate="{Date}2015-09-17T10:03:23.000+02:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:6e18c00a-9dec-1178-9766-b63121e358c9"
+            xmpMM:InstanceID="xmp.iid:fdde97b6-e1a2-4e71-b226-f28210bfc554"
+            xmpMM:OriginalDocumentID="FB233889FCE661C611895F738A3FDF83"
+            writebackEnable="{Boolean}true">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}2"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:ed46ea43-dbc6-44ee-9631-51ba629d9fdd"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2015-09-17T10:03:23.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:fdde97b6-e1a2-4e71-b226-f28210bfc554"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2015-09-17T10:03:23.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:03.076Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <isolated
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.081Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7200829982757568"
+                    isCustom="{Boolean}false"
+                    name="isolated"/>
+                <white
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.081Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6594412326812744"
+                    isCustom="{Boolean}false"
+                    name="white"/>
+                <equipment
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.082Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6487035751342773"
+                    isCustom="{Boolean}false"
+                    name="equipment"/>
+                <car
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.082Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6471734642982483"
+                    isCustom="{Boolean}false"
+                    name="car"/>
+                <black
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.083Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6339528560638428"
+                    isCustom="{Boolean}false"
+                    name="black"/>
+                <camera
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.083Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6178706288337708"
+                    isCustom="{Boolean}false"
+                    name="camera"/>
+                <background
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.083Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5974534749984741"
+                    isCustom="{Boolean}false"
+                    name="background"/>
+                <old
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.084Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5805972814559937"
+                    isCustom="{Boolean}false"
+                    name="old"/>
+                <technology
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.084Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5753070712089539"
+                    isCustom="{Boolean}false"
+                    name="technology"/>
+                <metal
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.085Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5717097520828247"
+                    isCustom="{Boolean}false"
+                    name="metal"/>
+                <tool
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.086Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5694550275802612"
+                    isCustom="{Boolean}false"
+                    name="tool"/>
+                <pedal
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.086Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5568844676017761"
+                    isCustom="{Boolean}false"
+                    name="pedal"/>
+                <power
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.087Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5535715222358704"
+                    isCustom="{Boolean}false"
+                    name="power"/>
+                <bike
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.087Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5498709678649902"
+                    isCustom="{Boolean}false"
+                    name="bike"/>
+                <film
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.088Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5475144386291504"
+                    isCustom="{Boolean}false"
+                    name="film"/>
+                <sport
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.088Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5474872589111328"
+                    isCustom="{Boolean}false"
+                    name="sport"/>
+                <bicycle
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.089Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5448549389839172"
+                    isCustom="{Boolean}false"
+                    name="bicycle"/>
+                <computer
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.089Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5368601679801941"
+                    isCustom="{Boolean}false"
+                    name="computer"/>
+                <auto
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.090Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5361629128456116"
+                    isCustom="{Boolean}false"
+                    name="auto"/>
+                <retro
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.090Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5359586477279663"
+                    isCustom="{Boolean}false"
+                    name="retro"/>
+                <electric
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.091Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.529864490032196"
+                    isCustom="{Boolean}false"
+                    name="electric"/>
+                <machine
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.091Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5258888602256775"
+                    isCustom="{Boolean}false"
+                    name="machine"/>
+                <digital
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.091Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5247166752815247"
+                    isCustom="{Boolean}false"
+                    name="digital"/>
+                <antique
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.092Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5244641304016113"
+                    isCustom="{Boolean}false"
+                    name="antique"/>
+                <new
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.092Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5224655866622925"
+                    isCustom="{Boolean}false"
+                    name="new"/>
+            </predictedTags>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

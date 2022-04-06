@@ -1,0 +1,104 @@
+<?xml version="1.0"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.2.4">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about=""
+        xmlns:dam="http://www.day.com/dam/1.0"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:exif="http://ns.adobe.com/exif/1.0/"
+        xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+        xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+        xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+        xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+        xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+      dam:Bitsperpixel="24"
+      dam:Fileformat="JPEG"
+      dam:MIMEtype="image/jpeg"
+      dam:Numberofimages="1"
+      dam:Numberoftextualcomments="0"
+      dam:Physicalheightindpi="300"
+      dam:Physicalheightininches="3.5999999046325684"
+      dam:Physicalwidthindpi="300"
+      dam:Physicalwidthininches="5.400000095367432"
+      dam:Progressive="no"
+      dam:extracted="2019-10-25T16:47:58.823-07:00"
+      dam:size="116881"
+      dam:sha1="04568f2400cb3702fa9edd517876907c50200b88"
+      dc:modified="2016-03-06T18:55:11.148+01:00"
+      dc:format="image/jpeg"
+      exif:ColorSpace="65535"
+      exif:ExifVersion="0221"
+      exif:PixelXDimension="2880"
+      exif:PixelYDimension="1920"
+      photoshop:ColorMode="3"
+      tiff:Orientation="1"
+      tiff:PhotometricInterpretation="2"
+      tiff:ResolutionUnit="2"
+      tiff:SamplesPerPixel="3"
+      tiff:XResolution="300/1"
+      tiff:YResolution="300/1"
+      tiff:ImageWidth="1620"
+      tiff:ImageLength="1080"
+      xmp:CreateDate="2016-02-09T16:22:21.000+01:00"
+      xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+      xmp:MetadataDate="2016-03-08T23:50:44.000+01:00"
+      xmp:ModifyDate="2016-03-08T23:50:44.000+01:00"
+      xmpMM:DocumentID="adobe:docid:photoshop:9de5ed4a-260e-1179-a410-b2db021fd2b8"
+      xmpMM:InstanceID="xmp.iid:0abb1512-3f6a-4c63-b763-d8d336d3ddb5"
+      xmpMM:OriginalDocumentID="350543FD81801DA6E46BC90790D2DBFB">
+      <dc:title>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Beach Walking</rdf:li>
+        </rdf:Alt>
+      </dc:title>
+      <dc:description>
+        <rdf:Bag>
+          <rdf:li>Young lady with surfboard going to the ocean at surf spot</rdf:li>
+        </rdf:Bag>
+      </dc:description>
+      <tiff:BitsPerSample>
+        <rdf:Seq>
+          <rdf:li>8</rdf:li>
+          <rdf:li>8</rdf:li>
+          <rdf:li>8</rdf:li>
+        </rdf:Seq>
+      </tiff:BitsPerSample>
+      <xmpMM:History>
+        <rdf:Seq>
+          <rdf:li
+            stEvt:action="saved"
+            stEvt:changed="/"
+            stEvt:instanceID="xmp.iid:2a0f74f8-70ee-46d2-899d-90ad304a7cad"
+            stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+            stEvt:when="2016-03-08T23:50:44.000+01:00"/>
+          <rdf:li
+            stEvt:action="saved"
+            stEvt:changed="/"
+            stEvt:instanceID="xmp.iid:0abb1512-3f6a-4c63-b763-d8d336d3ddb5"
+            stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+            stEvt:when="2016-03-08T23:50:44.000+01:00"/>
+        </rdf:Seq>
+      </xmpMM:History>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

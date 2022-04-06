@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="270f36be-9849-4ea9-baad-58e00f73aa9c">
+    <jcr:content
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:processingId="b225c38c-c8af-4c0e-89a4-b778b4e493fe"
+        dam:processingRenditions="[cqdam.text.txt,cqdam.machine.metadata.features.json,cqdam.metadata.xml,cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.48.48.png,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.tags.json,cq5dam.web.1280.1280.jpeg]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:54.084Z"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:44:19.105Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:44:05.188Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="no"
+            dam:sha1="1ca28e8ab19b81d78c78a38fe81a9b876eeff33e"
+            dam:size="{Long}289157"
+            dc:format="image/jpeg"
+            dc:rights="©Kyle T. Perry - stock.adobe.com"
+            dc:title="Mountain Bikes on the white rim trail"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}667"
+            tiff:ImageWidth="{Long}1000"
+            xmp:CreatorTool="Adobe Photoshop Lightroom 6.12 (Macintosh)"
+            xmpMM:DocumentID="xmp.did:0D02F4870A5D11EBAE23BE8D2C701742"
+            xmpMM:InstanceID="xmp.iid:0D02F4860A5D11EBAE23BE8D2C701742"
+            xmpMM:OriginalDocumentID="0AEA34BC0D2761A57E8B30C18DE720A1">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="xmp.did:b87014ae-f618-4523-8794-c9332e5326dd"
+                stRef:instanceID="xmp.iid:b87014ae-f618-4523-8794-c9332e5326dd"
+                xmpNodeType="xmpStruct"/>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <landscape
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.586Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7762064337730408"
+                    isCustom="{Boolean}false"
+                    name="landscape"/>
+                <desert
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.587Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7515474557876587"
+                    isCustom="{Boolean}false"
+                    name="desert"/>
+                <sky
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.588Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7330641150474548"
+                    isCustom="{Boolean}false"
+                    name="sky"/>
+                <nature
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.588Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7318935394287109"
+                    isCustom="{Boolean}false"
+                    name="nature"/>
+                <rock
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.589Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7048686742782593"
+                    isCustom="{Boolean}false"
+                    name="rock"/>
+                <blue
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.590Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6899220943450928"
+                    isCustom="{Boolean}false"
+                    name="blue"/>
+                <red
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.590Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.683833122253418"
+                    isCustom="{Boolean}false"
+                    name="red"/>
+                <rocks
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.591Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6643630266189575"
+                    isCustom="{Boolean}false"
+                    name="rocks"/>
+                <travel
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.591Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6515360474586487"
+                    isCustom="{Boolean}false"
+                    name="travel"/>
+                <clouds
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.592Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6466330289840698"
+                    isCustom="{Boolean}false"
+                    name="clouds"/>
+                <sand
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.593Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6385031342506409"
+                    isCustom="{Boolean}false"
+                    name="sand"/>
+                <stone
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.593Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6379226446151733"
+                    isCustom="{Boolean}false"
+                    name="stone"/>
+                <mountain
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.594Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6353839039802551"
+                    isCustom="{Boolean}false"
+                    name="mountain"/>
+                <canyon
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.594Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6245155334472656"
+                    isCustom="{Boolean}false"
+                    name="canyon"/>
+                <arizona
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.595Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6224588751792908"
+                    isCustom="{Boolean}false"
+                    name="arizona"/>
+                <sea
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.596Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6221458911895752"
+                    isCustom="{Boolean}false"
+                    name="sea"/>
+                <sunset
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.596Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6128286123275757"
+                    isCustom="{Boolean}false"
+                    name="sunset"/>
+                <beach
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.597Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5891464352607727"
+                    isCustom="{Boolean}false"
+                    name="beach"/>
+                <cliff
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.597Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.586171567440033"
+                    isCustom="{Boolean}false"
+                    name="cliff"/>
+                <ocean
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.598Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5842173099517822"
+                    isCustom="{Boolean}false"
+                    name="ocean"/>
+                <outdoors
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.599Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5805593729019165"
+                    isCustom="{Boolean}false"
+                    name="outdoors"/>
+                <view
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.599Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5715020895004272"
+                    isCustom="{Boolean}false"
+                    name="view"/>
+                <scenic
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.600Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5700967907905579"
+                    isCustom="{Boolean}false"
+                    name="scenic"/>
+                <valley
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.600Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5653984546661377"
+                    isCustom="{Boolean}false"
+                    name="valley"/>
+                <sandstone
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.601Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5652410387992859"
+                    isCustom="{Boolean}false"
+                    name="sandstone"/>
+            </predictedTags>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:13.604Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

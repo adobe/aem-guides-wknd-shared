@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="77d670de-b9f5-4c71-aeff-70db1b49c4a1">
+    <jcr:content
+        cq:name="camp-summer-night.jpg"
+        cq:parentPath="/content/dam/we-retail/en/activities/hiking-camping"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:processingId="26d588b1-ebed-47c7-b3a3-6ecdf48ee7ca"
+        dam:processingRenditions="[cq5dam.thumbnail.140.100.png,cq5dam.zoom.2048.2048.jpeg,cqdam.metadata.xml,cqdam.text.txt,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.features.json,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.319.319.png,cq5dam.web.1280.1280.jpeg]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:51.364Z"
+        dam:relativePath="we-retail/en/activities/hiking-camping/camp-summer-night.jpg"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:44:10.231Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="Camp Summer Night">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:44:02.552Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}3.5999999046325684"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}5.400000095367432"
+            dam:Progressive="no"
+            dam:sha1="8035ad374bfbd015728e59815aa8f5ec422f9f72"
+            dam:size="{Long}437736"
+            dc:description="Tent and the Milky Way with mountain scenery"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-03-12T12:11:17.603+01:00"
+            dc:title="Camp Summer Night"
+            exif:ColorSpace="{Long}65535"
+            exif:ExifOffset="{Long}236"
+            exif:ExifVersion="0221"
+            exif:PixelXDimension="{Long}2880"
+            exif:PixelYDimension="{Long}1920"
+            jcr:lastModified="{Date}2016-09-12T17:16:58.368+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="Camp Summer Night"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}1080"
+            tiff:ImageWidth="{Long}1620"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="300/1"
+            tiff:YResolution="300/1"
+            xmp:CreateDate="{Date}2016-03-07T09:51:50.000+01:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2015"
+            xmp:MetadataDate="{Date}2016-03-12T09:20:11.000+01:00"
+            xmp:ModifyDate="{Date}2016-03-12T09:20:11.000+01:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:aa532509-28b9-1179-8c5c-c0ba55897e51"
+            xmpMM:InstanceID="xmp.iid:a73095b7-297b-4714-923f-28d8ca60a65b"
+            xmpMM:OriginalDocumentID="D04606C7CFAF896D41476D872129C84A">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}2"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:61edd281-128d-4d8d-994b-fa8e43a8aa3d"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-03-12T09:20:11.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:a73095b7-297b-4714-923f-28d8ca60a65b"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-03-12T09:20:11.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <sky
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.394Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7085933685302734"
+                    isCustom="{Boolean}false"
+                    name="sky"/>
+                <sunset
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.394Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6996842622756958"
+                    isCustom="{Boolean}false"
+                    name="sunset"/>
+                <fire
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.394Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6525166630744934"
+                    isCustom="{Boolean}false"
+                    name="fire"/>
+                <sun
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.395Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.651278018951416"
+                    isCustom="{Boolean}false"
+                    name="sun"/>
+                <night
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.395Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6474098563194275"
+                    isCustom="{Boolean}false"
+                    name="night"/>
+                <landscape
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.396Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6425142288208008"
+                    isCustom="{Boolean}false"
+                    name="landscape"/>
+                <clouds
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.396Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6403104066848755"
+                    isCustom="{Boolean}false"
+                    name="clouds"/>
+                <background
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.397Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6401023268699646"
+                    isCustom="{Boolean}false"
+                    name="background"/>
+                <evening
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.397Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6359450817108154"
+                    isCustom="{Boolean}false"
+                    name="evening"/>
+                <nature
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.397Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6288241147994995"
+                    isCustom="{Boolean}false"
+                    name="nature"/>
+                <red
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.398Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6278232932090759"
+                    isCustom="{Boolean}false"
+                    name="red"/>
+                <planet
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.398Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6229755878448486"
+                    isCustom="{Boolean}false"
+                    name="planet"/>
+                <dark
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.399Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5985373258590698"
+                    isCustom="{Boolean}false"
+                    name="dark"/>
+                <moon
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.399Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5961855053901672"
+                    isCustom="{Boolean}false"
+                    name="moon"/>
+                <mountain
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.399Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5924228429794312"
+                    isCustom="{Boolean}false"
+                    name="mountain"/>
+                <blue
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.400Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5882343053817749"
+                    isCustom="{Boolean}false"
+                    name="blue"/>
+                <tree
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.400Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.584572970867157"
+                    isCustom="{Boolean}false"
+                    name="tree"/>
+                <cloud
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.401Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5821694135665894"
+                    isCustom="{Boolean}false"
+                    name="cloud"/>
+                <orange
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.401Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5812200903892517"
+                    isCustom="{Boolean}false"
+                    name="orange"/>
+                <space
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.402Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5794471502304077"
+                    isCustom="{Boolean}false"
+                    name="space"/>
+                <sunrise
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.402Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5754042863845825"
+                    isCustom="{Boolean}false"
+                    name="sunrise"/>
+                <rock
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.403Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5692434310913086"
+                    isCustom="{Boolean}false"
+                    name="rock"/>
+                <heat
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.403Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5687801241874695"
+                    isCustom="{Boolean}false"
+                    name="heat"/>
+                <light
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.403Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5656705498695374"
+                    isCustom="{Boolean}false"
+                    name="light"/>
+                <color
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.404Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5584623217582703"
+                    isCustom="{Boolean}false"
+                    name="color"/>
+            </predictedTags>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:08.826Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,510 @@
+<?xml version="1.0"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.2.4">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about=""
+        xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+        xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+        xmlns:dam="http://www.day.com/dam/1.0"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:exif="http://ns.adobe.com/exif/1.0/"
+        xmlns:exifEX="http://cipa.jp/exif/1.0/"
+        xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+        xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+        xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+        xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+        xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+        xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+        xmlns:pur="http://prismstandard.org/namespaces/prismusagerights/2.1/"
+        xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+      aux:ApproximateFocusDistance="322/5"
+      aux:DistortionCorrectionAlreadyApplied="True"
+      aux:Firmware="1.00"
+      aux:FlashCompensation="0/1"
+      aux:LateralChromaticAberrationCorrectionAlreadyApplied="True"
+      aux:Lens="8.8-36.8 mm"
+      aux:LensInfo="44/5 184/5 0/0 0/0"
+      crs:AlreadyApplied="True"
+      crs:AutoLateralCA="1"
+      crs:Blacks2012="0"
+      crs:BlueHue="0"
+      crs:BlueSaturation="0"
+      crs:CameraProfile="Adobe Standard"
+      crs:CameraProfileDigest="1E4F81470A6232BAF5C2806953239317"
+      crs:Clarity2012="20"
+      crs:ColorNoiseReduction="25"
+      crs:ColorNoiseReductionDetail="50"
+      crs:ColorNoiseReductionSmoothness="50"
+      crs:Contrast2012="0"
+      crs:ConvertToGrayscale="False"
+      crs:DefringeGreenAmount="0"
+      crs:DefringeGreenHueHi="60"
+      crs:DefringeGreenHueLo="40"
+      crs:DefringePurpleAmount="0"
+      crs:DefringePurpleHueHi="70"
+      crs:DefringePurpleHueLo="30"
+      crs:Exposure2012="0.20"
+      crs:GrainAmount="0"
+      crs:GreenHue="0"
+      crs:GreenSaturation="0"
+      crs:HasCrop="False"
+      crs:HasSettings="True"
+      crs:Highlights2012="-50"
+      crs:HueAdjustmentAqua="0"
+      crs:HueAdjustmentBlue="0"
+      crs:HueAdjustmentGreen="0"
+      crs:HueAdjustmentMagenta="0"
+      crs:HueAdjustmentOrange="0"
+      crs:HueAdjustmentPurple="0"
+      crs:HueAdjustmentRed="0"
+      crs:HueAdjustmentYellow="0"
+      crs:LensManualDistortionAmount="0"
+      crs:LensProfileEnable="1"
+      crs:LensProfileSetup="LensDefaults"
+      crs:LuminanceAdjustmentAqua="0"
+      crs:LuminanceAdjustmentBlue="0"
+      crs:LuminanceAdjustmentGreen="0"
+      crs:LuminanceAdjustmentMagenta="0"
+      crs:LuminanceAdjustmentOrange="0"
+      crs:LuminanceAdjustmentPurple="0"
+      crs:LuminanceAdjustmentRed="0"
+      crs:LuminanceAdjustmentYellow="0"
+      crs:LuminanceSmoothing="0"
+      crs:ParametricDarks="0"
+      crs:ParametricHighlightSplit="75"
+      crs:ParametricHighlights="0"
+      crs:ParametricLights="0"
+      crs:ParametricMidtoneSplit="50"
+      crs:ParametricShadowSplit="25"
+      crs:ParametricShadows="0"
+      crs:PerspectiveAspect="0"
+      crs:PerspectiveHorizontal="0"
+      crs:PerspectiveRotate="0.0"
+      crs:PerspectiveScale="100"
+      crs:PerspectiveUpright="0"
+      crs:PerspectiveVertical="0"
+      crs:PostCropVignetteAmount="0"
+      crs:ProcessVersion="10.0"
+      crs:RawFileName="IMG_4472.CR2"
+      crs:RedHue="0"
+      crs:RedSaturation="0"
+      crs:SaturationAdjustmentAqua="0"
+      crs:SaturationAdjustmentBlue="0"
+      crs:SaturationAdjustmentGreen="0"
+      crs:SaturationAdjustmentMagenta="0"
+      crs:SaturationAdjustmentOrange="0"
+      crs:SaturationAdjustmentPurple="0"
+      crs:SaturationAdjustmentRed="0"
+      crs:SaturationAdjustmentYellow="0"
+      crs:ShadowTint="0"
+      crs:Shadows2012="22"
+      crs:SharpenDetail="25"
+      crs:SharpenEdgeMasking="0"
+      crs:SharpenRadius="1.0"
+      crs:SplitToningBalance="0"
+      crs:SplitToningHighlightHue="0"
+      crs:SplitToningHighlightSaturation="0"
+      crs:SplitToningShadowHue="0"
+      crs:SplitToningShadowSaturation="0"
+      crs:Tint="-3"
+      crs:ToneCurveName="Linear"
+      crs:ToneCurveName2012="Medium Contrast"
+      crs:UprightCenterMode="0"
+      crs:UprightCenterNormX="0.5"
+      crs:UprightCenterNormY="0.5"
+      crs:UprightFocalLength35mm="35"
+      crs:UprightFocalMode="0"
+      crs:UprightPreview="False"
+      crs:UprightTransformCount="6"
+      crs:UprightVersion="151388160"
+      crs:Version="10.5"
+      crs:Vibrance="14"
+      crs:VignetteAmount="0"
+      crs:Whites2012="30"
+      dam:Bitsperpixel="24"
+      dam:DigitalCreationDate="20180219"
+      dam:DigitalCreationTime="152940-0800"
+      dam:Fileformat="JPEG"
+      dam:MIMEtype="image/jpeg"
+      dam:Numberofimages="1"
+      dam:Numberoftextualcomments="0"
+      dam:Physicalheightindpi="72"
+      dam:Physicalheightininches="12.166666984558105"
+      dam:Physicalwidthindpi="72"
+      dam:Physicalwidthininches="18.23611068725586"
+      dam:Progressive="no"
+      dam:TimeCreated="152940-0800"
+      dam:extracted="2019-10-25T16:47:57.471-07:00"
+      dam:size="231892"
+      dam:sha1="208cebf17a726fd84107f052e8584dc27d1e4476"
+      dc:modified="2019-10-24T15:50:29.749-07:00"
+      dc:format="image/jpeg"
+      dc:rights="©Per - stock.adobe.com"
+      exif:ApertureValue="40761/8200"
+      exif:ColorSpace="1"
+      exif:CustomRendered="0"
+      exif:DateTimeOriginal="2018-02-19T15:29:40.9"
+      exif:DigitalZoomRatio="1/1"
+      exif:ExifVersion="0230"
+      exif:ExposureBiasValue="2/3"
+      exif:ExposureMode="1"
+      exif:ExposureTime="1/400"
+      exif:FNumber="28/5"
+      exif:FileSource="3"
+      exif:FlashpixVersion="0100"
+      exif:FocalLength="151/10"
+      exif:FocalPlaneResolutionUnit="3"
+      exif:FocalPlaneXResolution="45600/11"
+      exif:FocalPlaneYResolution="45600/11"
+      exif:MaxApertureValue="28165/10653"
+      exif:MeteringMode="5"
+      exif:PixelXDimension="1313"
+      exif:PixelYDimension="876"
+      exif:Saturation="2"
+      exif:SceneCaptureType="0"
+      exif:SensingMethod="2"
+      exif:Sharpness="2"
+      exif:ShutterSpeedValue="17305/2002"
+      exif:WhiteBalance="0"
+      exifEX:LensModel="8.8-36.8 mm"
+      exifEX:PhotographicSensitivity="125"
+      exifEX:RecommendedExposureIndex="125"
+      exifEX:SensitivityType="2"
+      photoshop:ColorMode="3"
+      photoshop:DateCreated="2018-02-19T15:29:40.000-08:00"
+      photoshop:ICCProfile="sRGB IEC61966-2.1"
+      photoshop:LegacyIPTCDigest="65FB10FD0D30FE4A39A4130E0C7C8957"
+      photoshop:Source="222643220"
+      photoshop:Credit="Per - stock.adobe.com"
+      photoshop:Country="Sweden"
+      tiff:Make="Canon"
+      tiff:Model="Canon PowerShot G5 X"
+      tiff:Orientation="1"
+      tiff:PhotometricInterpretation="2"
+      tiff:ResolutionUnit="2"
+      tiff:SamplesPerPixel="3"
+      tiff:XResolution="720000/10000"
+      tiff:YCbCrPositioning="1"
+      tiff:YResolution="720000/10000"
+      tiff:ImageWidth="1313"
+      tiff:ImageLength="876"
+      xmp:CreateDate="2018-02-19T15:29:40.000-08:00"
+      xmp:CreatorTool="Adobe Photoshop CC 2019 (Macintosh)"
+      xmp:MetadataDate="2019-10-24T15:34:24.000-07:00"
+      xmp:ModifyDate="2019-10-24T15:34:24.000-07:00"
+      xmpMM:DocumentID="xmp.did:34c0b5f3-4752-439f-94b8-e06131ed43f0"
+      xmpMM:InstanceID="xmp.iid:bef843a0-94fe-48aa-9340-140c5936429c"
+      xmpMM:OriginalDocumentID="D282F668DDD801D05384156B887BAD85">
+      <crs:ToneCurvePV2012Red>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Red>
+      <crs:ToneCurveBlue>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurveBlue>
+      <crs:ToneCurve>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurve>
+      <crs:ToneCurvePV2012Blue>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Blue>
+      <crs:ToneCurveGreen>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurveGreen>
+      <crs:ToneCurvePV2012>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>32, 22</rdf:li>
+          <rdf:li>64, 56</rdf:li>
+          <rdf:li>128, 128</rdf:li>
+          <rdf:li>192, 196</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012>
+      <crs:ToneCurvePV2012Green>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Green>
+      <crs:ToneCurveRed>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurveRed>
+      <crs:RetouchAreas>
+        <rdf:Seq>
+          <rdf:li>
+            <rdf:Description
+              crs:Feather="0.503262"
+              crs:Method="gaussian"
+              crs:OffsetY="0.833424"
+              crs:Opacity="1.000000"
+              crs:Seed="2"
+              crs:SourceState="sourceAutoComputed"
+              crs:SourceX="0.505920"
+              crs:SpotType="heal">
+            <crs:Masks>
+              <rdf:Seq>
+                <rdf:li>
+                  <rdf:Description
+                    crs:CenterWeight="0.500000"
+                    crs:Flow="1.000000"
+                    crs:MaskValue="1.000000"
+                    crs:Radius="0.027309"
+                    crs:What="Mask/Paint">
+                  <crs:Dabs>
+                    <rdf:Seq>
+                      <rdf:li>d 0.229239 0.694444</rdf:li>
+                      <rdf:li>d 0.228385 0.694224</rdf:li>
+                      <rdf:li>d 0.220311 0.692140</rdf:li>
+                      <rdf:li>d 0.212237 0.690057</rdf:li>
+                      <rdf:li>d 0.209653 0.689173</rdf:li>
+                      <rdf:li>d 0.208794 0.688960</rdf:li>
+                      <rdf:li>d 0.200711 0.686956</rdf:li>
+                      <rdf:li>d 0.198356 0.685985</rdf:li>
+                      <rdf:li>d 0.190456 0.682729</rdf:li>
+                      <rdf:li>d 0.185623 0.678653</rdf:li>
+                      <rdf:li>d 0.182155 0.675676</rdf:li>
+                      <rdf:li>d 0.181616 0.675353</rdf:li>
+                      <rdf:li>d 0.174007 0.670798</rdf:li>
+                      <rdf:li>d 0.168690 0.668970</rdf:li>
+                      <rdf:li>d 0.163326 0.668005</rdf:li>
+                      <rdf:li>d 0.161926 0.667826</rdf:li>
+                      <rdf:li>d 0.161830 0.667811</rdf:li>
+                      <rdf:li>d 0.153680 0.666551</rdf:li>
+                      <rdf:li>d 0.147659 0.664901</rdf:li>
+                      <rdf:li>d 0.145836 0.664565</rdf:li>
+                      <rdf:li>d 0.144848 0.664456</rdf:li>
+                      <rdf:li>d 0.136677 0.663558</rdf:li>
+                      <rdf:li>d 0.131303 0.663383</rdf:li>
+                      <rdf:li>d 0.127203 0.663332</rdf:li>
+                      <rdf:li>d 0.125658 0.663320</rdf:li>
+                      <rdf:li>d 0.117466 0.663259</rdf:li>
+                      <rdf:li>d 0.113607 0.659520</rdf:li>
+                      <rdf:li>d 0.110017 0.655468</rdf:li>
+                      <rdf:li>d 0.108203 0.653487</rdf:li>
+                      <rdf:li>d 0.101581 0.646254</rdf:li>
+                      <rdf:li>d 0.100948 0.645922</rdf:li>
+                      <rdf:li>d 0.093215 0.641866</rdf:li>
+                      <rdf:li>d 0.087145 0.640860</rdf:li>
+                      <rdf:li>d 0.082976 0.640842</rdf:li>
+                      <rdf:li>d 0.080498 0.641060</rdf:li>
+                      <rdf:li>d 0.075430 0.641297</rdf:li>
+                      <rdf:li>d 0.071621 0.639947</rdf:li>
+                      <rdf:li>d 0.066648 0.637646</rdf:li>
+                      <rdf:li>d 0.064409 0.636543</rdf:li>
+                      <rdf:li>d 0.063023 0.635808</rdf:li>
+                      <rdf:li>d 0.055299 0.631711</rdf:li>
+                      <rdf:li>d 0.050358 0.629035</rdf:li>
+                      <rdf:li>d 0.045544 0.625454</rdf:li>
+                      <rdf:li>d 0.041033 0.620274</rdf:li>
+                      <rdf:li>d 0.037075 0.615216</rdf:li>
+                      <rdf:li>d 0.033816 0.611300</rdf:li>
+                      <rdf:li>d 0.032929 0.610395</rdf:li>
+                      <rdf:li>d 0.026154 0.603486</rdf:li>
+                      <rdf:li>d 0.024602 0.602296</rdf:li>
+                      <rdf:li>d 0.017307 0.596703</rdf:li>
+                      <rdf:li>d 0.015171 0.595925</rdf:li>
+                      <rdf:li>d 0.013270 0.595447</rdf:li>
+                      <rdf:li>d 0.012100 0.595203</rdf:li>
+                      <rdf:li>d 0.011149 0.595021</rdf:li>
+                      <rdf:li>d 0.009914 0.594736</rdf:li>
+                      <rdf:li>d 0.008477 0.594435</rdf:li>
+                      <rdf:li>d 0.006257 0.594038</rdf:li>
+                      <rdf:li>d 0.002806 0.593499</rdf:li>
+                      <rdf:li>d 0.002664 0.594217</rdf:li>
+                      <rdf:li>d 0.002254 0.597073</rdf:li>
+                      <rdf:li>d 0.002037 0.599652</rdf:li>
+                      <rdf:li>d 0.001932 0.602235</rdf:li>
+                      <rdf:li>d 0.002115 0.605339</rdf:li>
+                      <rdf:li>d 0.002489 0.608765</rdf:li>
+                      <rdf:li>d 0.003179 0.612726</rdf:li>
+                      <rdf:li>d 0.004275 0.616985</rdf:li>
+                      <rdf:li>d 0.005923 0.621626</rdf:li>
+                      <rdf:li>d 0.007733 0.625896</rdf:li>
+                      <rdf:li>d 0.009966 0.630661</rdf:li>
+                      <rdf:li>d 0.012210 0.634492</rdf:li>
+                      <rdf:li>d 0.014445 0.638137</rdf:li>
+                      <rdf:li>d 0.017076 0.641167</rdf:li>
+                      <rdf:li>d 0.019274 0.643159</rdf:li>
+                      <rdf:li>d 0.022490 0.644910</rdf:li>
+                      <rdf:li>d 0.026804 0.646055</rdf:li>
+                      <rdf:li>d 0.031837 0.647397</rdf:li>
+                      <rdf:li>d 0.037046 0.649154</rdf:li>
+                      <rdf:li>d 0.041906 0.651691</rdf:li>
+                      <rdf:li>d 0.046122 0.654075</rdf:li>
+                      <rdf:li>d 0.053787 0.658411</rdf:li>
+                      <rdf:li>d 0.060983 0.664163</rdf:li>
+                      <rdf:li>d 0.068105 0.669806</rdf:li>
+                      <rdf:li>d 0.073557 0.674419</rdf:li>
+                      <rdf:li>d 0.077958 0.677511</rdf:li>
+                      <rdf:li>d 0.080305 0.678848</rdf:li>
+                      <rdf:li>d 0.087964 0.683209</rdf:li>
+                      <rdf:li>d 0.094796 0.685244</rdf:li>
+                      <rdf:li>d 0.100807 0.686103</rdf:li>
+                      <rdf:li>d 0.106263 0.686817</rdf:li>
+                      <rdf:li>d 0.111760 0.688120</rdf:li>
+                      <rdf:li>d 0.112101 0.688232</rdf:li>
+                      <rdf:li>d 0.120104 0.690856</rdf:li>
+                      <rdf:li>d 0.125952 0.692448</rdf:li>
+                      <rdf:li>d 0.132207 0.694770</rdf:li>
+                      <rdf:li>d 0.132967 0.695118</rdf:li>
+                      <rdf:li>d 0.140802 0.698708</rdf:li>
+                      <rdf:li>d 0.145572 0.700744</rdf:li>
+                      <rdf:li>d 0.150405 0.702249</rdf:li>
+                      <rdf:li>d 0.152338 0.702775</rdf:li>
+                      <rdf:li>d 0.160400 0.704968</rdf:li>
+                      <rdf:li>d 0.166416 0.705890</rdf:li>
+                      <rdf:li>d 0.172472 0.706695</rdf:li>
+                      <rdf:li>d 0.173481 0.706972</rdf:li>
+                      <rdf:li>d 0.181540 0.709184</rdf:li>
+                    </rdf:Seq>
+                  </crs:Dabs>
+                  </rdf:Description>
+                </rdf:li>
+              </rdf:Seq>
+            </crs:Masks>
+            </rdf:Description>
+          </rdf:li>
+        </rdf:Seq>
+      </crs:RetouchAreas>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>Chamonix</rdf:li>
+          <rdf:li>Splitboard</rdf:li>
+          <rdf:li>Chamonix</rdf:li>
+          <rdf:li>Splitboard</rdf:li>
+          <rdf:li>Chamonix</rdf:li>
+          <rdf:li>Splitboard</rdf:li>
+          <rdf:li>Chamonix</rdf:li>
+          <rdf:li>Splitboard</rdf:li>
+          <rdf:li>Chamonix</rdf:li>
+          <rdf:li>Splitboard</rdf:li>
+          <rdf:li>Chamonix</rdf:li>
+          <rdf:li>Splitboard</rdf:li>
+          <rdf:li>Chamonix</rdf:li>
+          <rdf:li>Splitboard</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <dc:date>
+        <rdf:Seq>
+          <rdf:li>20180219</rdf:li>
+          <rdf:li>20180219</rdf:li>
+          <rdf:li>20180219</rdf:li>
+        </rdf:Seq>
+      </dc:date>
+      <dc:title>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">splitboarding in chamonix in the french alps</rdf:li>
+        </rdf:Alt>
+      </dc:title>
+      <exif:ISOSpeedRatings>
+        <rdf:Seq>
+          <rdf:li>125</rdf:li>
+        </rdf:Seq>
+      </exif:ISOSpeedRatings>
+      <exif:ComponentsConfiguration>
+        <rdf:Seq>
+          <rdf:li>1</rdf:li>
+          <rdf:li>2</rdf:li>
+          <rdf:li>3</rdf:li>
+          <rdf:li>0</rdf:li>
+        </rdf:Seq>
+      </exif:ComponentsConfiguration>
+      <exif:Flash
+        exif:Fired="False"
+        exif:Function="False"
+        exif:Mode="2"
+        exif:RedEyeMode="False"
+        exif:Return="0"/>
+      <exifEX:LensSpecification>
+        <rdf:Seq>
+          <rdf:li>44/5</rdf:li>
+          <rdf:li>184/5</rdf:li>
+          <rdf:li>0/0</rdf:li>
+          <rdf:li>0/0</rdf:li>
+        </rdf:Seq>
+      </exifEX:LensSpecification>
+      <tiff:BitsPerSample>
+        <rdf:Seq>
+          <rdf:li>8</rdf:li>
+          <rdf:li>8</rdf:li>
+          <rdf:li>8</rdf:li>
+        </rdf:Seq>
+      </tiff:BitsPerSample>
+      <tiff:YCbCrSubSampling>
+        <rdf:Seq>
+          <rdf:li>0</rdf:li>
+        </rdf:Seq>
+      </tiff:YCbCrSubSampling>
+      <xmpMM:DerivedFrom
+        stRef:documentID="D282F668DDD801D05384156B887BAD85"
+        stRef:originalDocumentID="D282F668DDD801D05384156B887BAD85"/>
+      <xmpMM:History>
+        <rdf:Seq>
+          <rdf:li
+            stEvt:action="derived"
+            stEvt:parameters="converted from image/x-canon-cr2 to image/jpeg, saved to new location"/>
+          <rdf:li
+            stEvt:action="saved"
+            stEvt:changed="/"
+            stEvt:instanceID="xmp.iid:34c0b5f3-4752-439f-94b8-e06131ed43f0"
+            stEvt:softwareAgent="Adobe Photoshop Lightroom Classic 7.5 (Macintosh)"
+            stEvt:when="2018-09-15T16:43:35.000+02:00"/>
+          <rdf:li
+            stEvt:action="saved"
+            stEvt:changed="/"
+            stEvt:instanceID="xmp.iid:bef843a0-94fe-48aa-9340-140c5936429c"
+            stEvt:softwareAgent="Adobe Photoshop CC 2019 (Macintosh)"
+            stEvt:when="2019-10-24T15:34:24.000-07:00"/>
+        </rdf:Seq>
+      </xmpMM:History>
+      <pur:creditLine>
+        <rdf:Bag>
+          <rdf:li>Per - stock.adobe.com</rdf:li>
+        </rdf:Bag>
+      </pur:creditLine>
+      <xmpRights:UsageTerms>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Thank you for your interest in Adobe’s products and services! The images in this demo website are from Adobe Stock and are Third Party Material as  defined in the Demo Asset Additional Terms   at https://www.adobe.com/legal/terms.html.  </rdf:li>
+        </rdf:Alt>
+      </xmpRights:UsageTerms>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

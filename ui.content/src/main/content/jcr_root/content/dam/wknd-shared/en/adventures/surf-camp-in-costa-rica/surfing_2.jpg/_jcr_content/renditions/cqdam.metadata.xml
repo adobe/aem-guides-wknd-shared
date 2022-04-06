@@ -1,0 +1,94 @@
+<?xml version="1.0"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.2.4">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about=""
+        xmlns:dam="http://www.day.com/dam/1.0"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:exif="http://ns.adobe.com/exif/1.0/"
+        xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+        xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+        xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+        xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+        xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+      dam:Bitsperpixel="24"
+      dam:Fileformat="JPEG"
+      dam:MIMEtype="image/jpeg"
+      dam:Numberofimages="1"
+      dam:Numberoftextualcomments="0"
+      dam:Physicalheightindpi="300"
+      dam:Physicalheightininches="3.5999999046325684"
+      dam:Physicalwidthindpi="300"
+      dam:Physicalwidthininches="6.400000095367432"
+      dam:Progressive="no"
+      dam:extracted="2019-10-24T14:31:46.137-07:00"
+      dam:size="263051"
+      dam:sha1="1a2fe8c35826df5cb3f420cb79503b19dddc3bb8"
+      dc:modified="2016-01-14T14:22:14.742-08:00"
+      dc:format="image/jpeg"
+      exif:ColorSpace="65535"
+      exif:ExifVersion="0221"
+      exif:PixelXDimension="1920"
+      exif:PixelYDimension="1080"
+      photoshop:ColorMode="3"
+      tiff:Orientation="1"
+      tiff:PhotometricInterpretation="2"
+      tiff:ResolutionUnit="2"
+      tiff:SamplesPerPixel="3"
+      tiff:XResolution="300/1"
+      tiff:YResolution="300/1"
+      tiff:ImageWidth="1920"
+      tiff:ImageLength="1080"
+      xmp:CreateDate="2015-07-22T12:06:00.000-07:00"
+      xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+      xmp:MetadataDate="2016-01-14T11:07:27.000-08:00"
+      xmp:ModifyDate="2016-01-14T11:07:27.000+01:00"
+      xmpMM:DocumentID="adobe:docid:photoshop:735ac593-fb80-1178-9b17-8a9c853140bd"
+      xmpMM:InstanceID="xmp.iid:973fdee6-b25d-4070-899b-e1960e7ff8f8"
+      xmpMM:OriginalDocumentID="5EB0BDB2DCAD9443BC076E7F18506B1A">
+      <tiff:BitsPerSample>
+        <rdf:Seq>
+          <rdf:li>8</rdf:li>
+          <rdf:li>8</rdf:li>
+          <rdf:li>8</rdf:li>
+        </rdf:Seq>
+      </tiff:BitsPerSample>
+      <xmpMM:History>
+        <rdf:Seq>
+          <rdf:li
+            stEvt:action="saved"
+            stEvt:changed="/"
+            stEvt:instanceID="xmp.iid:7f26b4db-974a-4c8f-a56d-cd8375aa06bc"
+            stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+            stEvt:when="2016-01-14T11:07:27.000-08:00"/>
+          <rdf:li
+            stEvt:action="saved"
+            stEvt:changed="/"
+            stEvt:instanceID="xmp.iid:973fdee6-b25d-4070-899b-e1960e7ff8f8"
+            stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+            stEvt:when="2016-01-14T11:07:27.000-08:00"/>
+        </rdf:Seq>
+      </xmpMM:History>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

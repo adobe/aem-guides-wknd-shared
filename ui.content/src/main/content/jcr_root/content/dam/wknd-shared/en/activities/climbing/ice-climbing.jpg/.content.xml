@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="868c2a49-c1a3-46e7-b606-a962534ba1fc">
+    <jcr:content
+        cq:name="ice-climbing.jpg"
+        cq:parentPath="/content/dam/we-retail/en/activities/skiing"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:processingId="5a6119b9-8ed2-40b5-ac5b-b466a1bf1da4"
+        dam:processingRenditions="[cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.features.json,cq5dam.thumbnail.319.319.png,cq5dam.zoom.2048.2048.jpeg,cqdam.metadata.xml,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.48.48.png,cqdam.text.txt]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:51.358Z"
+        dam:relativePath="we-retail/en/activities/skiing/ice-climbing.jpg"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:44:05.177Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="Ice Climbing">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:44:02.379Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}3.5999999046325684"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}5.400000095367432"
+            dam:Progressive="no"
+            dam:sha1="0e4db7db0e945b0fc73bed32b357ba449240be5d"
+            dam:size="{Long}166077"
+            dc:description="Mountaineer on a route of snow and rock during the winter. Western Alps, Italy, Europe"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-03-06T22:27:38.506+01:00"
+            dc:title="Ice Climbing"
+            exif:ColorSpace="{Long}65535"
+            exif:ExifOffset="{Long}236"
+            exif:ExifVersion="0221"
+            exif:PixelXDimension="{Long}2880"
+            exif:PixelYDimension="{Long}1920"
+            jcr:lastModified="{Date}2016-09-12T17:16:47.344+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="Ice Climbing"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}1080"
+            tiff:ImageWidth="{Long}1620"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="300/1"
+            tiff:YResolution="300/1"
+            xmp:CreateDate="{Date}2016-02-10T12:05:36.000+01:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+            xmp:MetadataDate="{Date}2016-03-08T23:50:32.000+01:00"
+            xmp:ModifyDate="{Date}2016-03-08T23:50:32.000+01:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:974a3716-260e-1179-a410-b2db021fd2b8"
+            xmpMM:InstanceID="xmp.iid:ee925a38-1a11-4ef4-b888-6244ef57c201"
+            xmpMM:OriginalDocumentID="FD6ACBA763D3FB44EF1FC674507E9D11">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}2"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:903c0b35-685e-4973-8aeb-87d5953336c3"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-03-08T23:50:32.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:ee925a38-1a11-4ef4-b888-6244ef57c201"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-03-08T23:50:32.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <snow
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.999Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8347268104553223"
+                    isCustom="{Boolean}false"
+                    name="snow"/>
+                <mountain
+                    jcr:lastModified="{Date}2022-03-23T20:44:02.999Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7984349131584167"
+                    isCustom="{Boolean}false"
+                    name="mountain"/>
+                <winter
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.000Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.797318696975708"
+                    isCustom="{Boolean}false"
+                    name="winter"/>
+                <ski
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.000Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7429331541061401"
+                    isCustom="{Boolean}false"
+                    name="ski"/>
+                <sport
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.001Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.737960934638977"
+                    isCustom="{Boolean}false"
+                    name="sport"/>
+                <cold
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.001Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7143849730491638"
+                    isCustom="{Boolean}false"
+                    name="cold"/>
+                <extreme
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.002Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7007490992546082"
+                    isCustom="{Boolean}false"
+                    name="extreme"/>
+                <man
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.002Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6821107864379883"
+                    isCustom="{Boolean}false"
+                    name="man"/>
+                <skiing
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.003Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6808812022209167"
+                    isCustom="{Boolean}false"
+                    name="skiing"/>
+                <blue
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.003Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6736365556716919"
+                    isCustom="{Boolean}false"
+                    name="blue"/>
+                <active
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.004Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6701582670211792"
+                    isCustom="{Boolean}false"
+                    name="active"/>
+                <skier
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.005Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6621284484863281"
+                    isCustom="{Boolean}false"
+                    name="skier"/>
+                <nature
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.006Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6550371050834656"
+                    isCustom="{Boolean}false"
+                    name="nature"/>
+                <climbing
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.006Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6531471014022827"
+                    isCustom="{Boolean}false"
+                    name="climbing"/>
+                <snowboard
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.007Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6488006711006165"
+                    isCustom="{Boolean}false"
+                    name="snowboard"/>
+                <sky
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.007Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6467107534408569"
+                    isCustom="{Boolean}false"
+                    name="sky"/>
+                <adult
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.008Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6413713097572327"
+                    isCustom="{Boolean}false"
+                    name="adult"/>
+                <adventure
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.008Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.637152910232544"
+                    isCustom="{Boolean}false"
+                    name="adventure"/>
+                <white
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.009Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6290889382362366"
+                    isCustom="{Boolean}false"
+                    name="white"/>
+                <outdoors
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.009Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6277380585670471"
+                    isCustom="{Boolean}false"
+                    name="outdoors"/>
+                <landscape
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.010Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.61989426612854"
+                    isCustom="{Boolean}false"
+                    name="landscape"/>
+                <fun
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.010Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.619059681892395"
+                    isCustom="{Boolean}false"
+                    name="fun"/>
+                <activity
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.011Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6172428131103516"
+                    isCustom="{Boolean}false"
+                    name="activity"/>
+                <mountains
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.011Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6126536726951599"
+                    isCustom="{Boolean}false"
+                    name="mountains"/>
+                <jump
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.012Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.612644612789154"
+                    isCustom="{Boolean}false"
+                    name="jump"/>
+            </predictedTags>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:03.016Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

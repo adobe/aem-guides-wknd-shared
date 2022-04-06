@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="4bfd2200-f9f8-44f6-8ff8-8401be3dfadc">
+    <jcr:content
+        cq:name="ayo-ogunseinde-237739.jpg"
+        cq:parentPath="/content/dam/asset-share-commons/en/public/pictures"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/46/caa45d63-feda-40e6-8796-bfe10e27fc16_134"
+        dam:copiedAt="{Date}2017-10-17T11:32:07.783-04:00"
+        dam:parentAssetID="ac52b4c9-8591-4e9e-ad46-130ecb691c2e"
+        dam:processingId="6d37cbb8-2c62-491e-82a4-cf5bd8bd16ba"
+        dam:processingRenditions="[cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.features.json,cq5dam.thumbnail.140.100.png,cq5dam.zoom.2048.2048.jpeg,cq5dam.web.1280.1280.jpeg,cqdam.metadata.xml,cqdam.text.txt]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:46:48.855Z"
+        dam:relativePath="asset-share-commons/en/public/pictures/ayo-ogunseinde-237739.jpg"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:47:03.823Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="ayo-ogunseinde-237739.jpg">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            cq:tags="[properties:style/color,properties:orientation/portrait]"
+            cq:tags_xmpArrayType="rdf:Bag"
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:47:03.098Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="yes"
+            dam:sha1="c7aacc294d1e8fb3d41200b649095e395b66112a"
+            dam:size="{Long}446258"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2017-10-17T10:51:11.664-04:00"
+            jcr:lastModified="{Date}2019-10-27T20:31:32.908-07:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}3840"
+            tiff:ImageWidth="{Long}2950"
+            simsearchVersion="1.0.0">
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <woman
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.451Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7959897518157959"
+                    isCustom="{Boolean}false"
+                    name="woman"/>
+                <girl
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.451Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.759626030921936"
+                    isCustom="{Boolean}false"
+                    name="girl"/>
+                <female
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.452Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.752332329750061"
+                    isCustom="{Boolean}false"
+                    name="female"/>
+                <beautiful
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.452Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.739182710647583"
+                    isCustom="{Boolean}false"
+                    name="beautiful"/>
+                <portrait
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.452Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7152324914932251"
+                    isCustom="{Boolean}false"
+                    name="portrait"/>
+                <young
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.453Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6990140676498413"
+                    isCustom="{Boolean}false"
+                    name="young"/>
+                <beauty
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.453Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6823148131370544"
+                    isCustom="{Boolean}false"
+                    name="beauty"/>
+                <city
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.453Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6755707859992981"
+                    isCustom="{Boolean}false"
+                    name="city"/>
+                <fashion
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.454Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6704124808311462"
+                    isCustom="{Boolean}false"
+                    name="fashion"/>
+                <outdoors
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.454Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6571311354637146"
+                    isCustom="{Boolean}false"
+                    name="outdoors"/>
+                <attractive
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.455Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6464508771896362"
+                    isCustom="{Boolean}false"
+                    name="attractive"/>
+                <face
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.455Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6429514288902283"
+                    isCustom="{Boolean}false"
+                    name="face"/>
+                <caucasian
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.455Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6407736539840698"
+                    isCustom="{Boolean}false"
+                    name="caucasian"/>
+                <adult
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.456Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6366974711418152"
+                    isCustom="{Boolean}false"
+                    name="adult"/>
+                <people
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.456Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6326939463615417"
+                    isCustom="{Boolean}false"
+                    name="people"/>
+                <model
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.456Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6117303967475891"
+                    isCustom="{Boolean}false"
+                    name="model"/>
+                <hair
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.457Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6108847856521606"
+                    isCustom="{Boolean}false"
+                    name="hair"/>
+                <women
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.457Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6035555601119995"
+                    isCustom="{Boolean}false"
+                    name="women"/>
+                <cute
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.457Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.602556586265564"
+                    isCustom="{Boolean}false"
+                    name="cute"/>
+                <street
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.458Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6021984815597534"
+                    isCustom="{Boolean}false"
+                    name="street"/>
+                <outdoor
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.458Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5982303023338318"
+                    isCustom="{Boolean}false"
+                    name="outdoor"/>
+                <pretty
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.459Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5935207009315491"
+                    isCustom="{Boolean}false"
+                    name="pretty"/>
+                <urban
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.459Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5909583568572998"
+                    isCustom="{Boolean}false"
+                    name="urban"/>
+                <happy
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.460Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5905921459197998"
+                    isCustom="{Boolean}false"
+                    name="happy"/>
+                <lady
+                    jcr:lastModified="{Date}2022-03-23T20:47:03.460Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.590429961681366"
+                    isCustom="{Boolean}false"
+                    name="lady"/>
+            </predictedTags>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:47:03.463Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}1"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}1"
+                lastUsed="{Date}2019-10-27T20:41:31.960-07:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

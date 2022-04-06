@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="fcdbbc12-8057-4d1f-aff8-9325e25dda32">
+    <jcr:content
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:processingId="27c1c9dc-935c-4df9-92a0-ea09cf3600f3"
+        dam:processingRenditions="[cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.features.json,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.tags.json,cqdam.text.txt,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.48.48.png,cqdam.metadata.xml,cq5dam.zoom.2048.2048.jpeg]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:54.115Z"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:44:22.422Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:44:06.497Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}-1"
+            dam:Physicalheightininches="{Decimal}-1.0"
+            dam:Physicalwidthindpi="{Long}-1"
+            dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:Progressive="no"
+            dam:sha1="9754df45e75c9d35333e08ae7638c406f24ba02b"
+            dam:size="{Long}322355"
+            dc:format="image/jpeg"
+            dc:rights="©annapustynnikova - stock.adobe.com"
+            dc:title="Duck legs confit with potato gratin and mushroom on a plate. Close up."
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            tiff:ImageLength="{Long}667"
+            tiff:ImageWidth="{Long}1000"
+            xmp:CreatorTool="Adobe Photoshop CC 2018 (Macintosh)"
+            xmpMM:DocumentID="xmp.did:914D70A00A5B11EBAE23BE8D2C701742"
+            xmpMM:InstanceID="xmp.iid:914D709F0A5B11EBAE23BE8D2C701742"
+            xmpMM:OriginalDocumentID="E15929FEBEA25028D6253125CC413B39">
+            <xmpMM:DerivedFrom
+                jcr:primaryType="nt:unstructured"
+                stRef:documentID="adobe:docid:photoshop:1951264b-1c90-e641-bbc3-78c8d18acabf"
+                stRef:instanceID="xmp.iid:8f762e01-4f18-4536-beb2-fdc009499f87"
+                xmpNodeType="xmpStruct"/>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <food
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.520Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8470896482467651"
+                    isCustom="{Boolean}false"
+                    name="food"/>
+                <meat
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.521Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7415622472763062"
+                    isCustom="{Boolean}false"
+                    name="meat"/>
+                <dinner
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.521Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7248700857162476"
+                    isCustom="{Boolean}false"
+                    name="dinner"/>
+                <meal
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.522Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.693554162979126"
+                    isCustom="{Boolean}false"
+                    name="meal"/>
+                <plate
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.522Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6859241127967834"
+                    isCustom="{Boolean}false"
+                    name="plate"/>
+                <cheese
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.523Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6402291655540466"
+                    isCustom="{Boolean}false"
+                    name="cheese"/>
+                <dish
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.523Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6260210275650024"
+                    isCustom="{Boolean}false"
+                    name="dish"/>
+                <red
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.523Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6202505826950073"
+                    isCustom="{Boolean}false"
+                    name="red"/>
+                <chicken
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.524Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6194361448287964"
+                    isCustom="{Boolean}false"
+                    name="chicken"/>
+                <sauce
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.524Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6166736483573914"
+                    isCustom="{Boolean}false"
+                    name="sauce"/>
+                <beef
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.525Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.614028811454773"
+                    isCustom="{Boolean}false"
+                    name="beef"/>
+                <grilled
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.525Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6124507784843445"
+                    isCustom="{Boolean}false"
+                    name="grilled"/>
+                <cuisine
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.526Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6093462705612183"
+                    isCustom="{Boolean}false"
+                    name="cuisine"/>
+                <vegetable
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.572Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6083088517189026"
+                    isCustom="{Boolean}false"
+                    name="vegetable"/>
+                <barbecue
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.573Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6040776371955872"
+                    isCustom="{Boolean}false"
+                    name="barbecue"/>
+                <tomato
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.574Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6022672057151794"
+                    isCustom="{Boolean}false"
+                    name="tomato"/>
+                <fresh
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.574Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.599334180355072"
+                    isCustom="{Boolean}false"
+                    name="fresh"/>
+                <fish
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.575Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5954991579055786"
+                    isCustom="{Boolean}false"
+                    name="fish"/>
+                <nobody
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.576Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5950466990470886"
+                    isCustom="{Boolean}false"
+                    name="nobody"/>
+                <salad
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.576Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.594894528388977"
+                    isCustom="{Boolean}false"
+                    name="salad"/>
+                <lunch
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.577Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.592287540435791"
+                    isCustom="{Boolean}false"
+                    name="lunch"/>
+                <green
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.577Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5890986919403076"
+                    isCustom="{Boolean}false"
+                    name="green"/>
+                <diet
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.577Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5879141092300415"
+                    isCustom="{Boolean}false"
+                    name="diet"/>
+                <pork
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.578Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5855247378349304"
+                    isCustom="{Boolean}false"
+                    name="pork"/>
+                <eating
+                    jcr:lastModified="{Date}2022-03-23T20:44:13.579Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5768412351608276"
+                    isCustom="{Boolean}false"
+                    name="eating"/>
+            </predictedTags>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:13.581Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

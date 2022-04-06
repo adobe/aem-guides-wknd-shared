@@ -1,0 +1,333 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:exifEX="http://cipa.jp/exif/1.0/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:psAux="http://ns.adobe.com/exif/1.0/aux/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:prismusagerights="http://prismstandard.org/namespaces/prismusagerights/2.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:mixinTypes="[mix:referenceable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="2c1ec7ab-0bc3-441e-8451-9c98aab57eae">
+    <jcr:content
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:processingId="e137996b-4a05-4285-b00d-63732f27751f"
+        dam:processingRenditions="[cq5dam.web.1280.1280.jpeg,cq5dam.zoom.2048.2048.jpeg,cqdam.text.txt,cq5dam.thumbnail.48.48.png,cq5dam.thumbnail.319.319.png,cqdam.metadata.xml,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.features.json,cqdam.machine.metadata.tags.json]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:53.581Z"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:44:17.981Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpeg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:44:02.541Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}11.847222328186035"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}17.77777862548828"
+            dam:Progressive="no"
+            dam:sha1="578ba8b3f47d5e81a0950bb4e92cf9fd6a2d1805"
+            dam:size="{Long}387029"
+            dam:TimeCreated="135332+0000"
+            dc:date="{Long}[20160701]"
+            dc:date_xmpArrayType="rdf:Seq"
+            dc:format="image/jpeg"
+            dc:rights="©Andre Silva - stock.adobe.com"
+            dc:subject="[surf,surfer,water,surfing,sea,ocean,sport,beach,wave,surfboard,action,waves,board,fun,extreme,summer,blue,active,boy,portugal,arrifana]"
+            dc:subject_xmpArrayType="rdf:Bag"
+            dc:title="Longboarding"
+            exif:ApertureValue="8321/1482"
+            exif:ColorSpace="{Long}1"
+            exif:ComponentsConfiguration="{Long}[1,2,3,0]"
+            exif:ComponentsConfiguration_xmpArrayType="rdf:Seq"
+            exif:DateTimeOriginal="{Date}2016-07-01T13:53:32.000Z"
+            exif:ExifVersion="0220"
+            exif:ExposureBiasValue="0/1"
+            exif:ExposureMode="{Long}1"
+            exif:ExposureProgram="{Long}1"
+            exif:ExposureTime="1/2000"
+            exif:FileSource="{Long}3"
+            exif:FlashpixVersion="0100"
+            exif:FNumber="71/10"
+            exif:FocalLength="70/1"
+            exif:FocalPlaneResolutionUnit="{Long}2"
+            exif:FocalPlaneXResolution="382423/97"
+            exif:FocalPlaneYResolution="320000/81"
+            exif:GPSVersionID="2.3.0.0"
+            exif:ISOSpeedRatings="{Long}[800]"
+            exif:ISOSpeedRatings_xmpArrayType="rdf:Seq"
+            exif:MeteringMode="{Long}2"
+            exif:PixelXDimension="{Long}1280"
+            exif:PixelYDimension="{Long}853"
+            exif:SceneType="{Long}1"
+            exif:ShutterSpeedValue="11/1"
+            exif:SubjectDistance="0/1"
+            exif:WhiteBalance="{Long}0"
+            exifEX:BodySerialNumber="{Long}193020002348"
+            exifEX:LensSpecification="[24/1,70/1,0/0,0/0]"
+            exifEX:LensSpecification_xmpArrayType="rdf:Seq"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="Longboarding"
+            photoshop:ColorMode="{Long}3"
+            photoshop:Country="United Kingdom of Great Britain and Northern Ireland"
+            photoshop:Credit="Andre Silva - stock.adobe.com"
+            photoshop:DateCreated="{Date}2016-07-01T13:53:32.000Z"
+            photoshop:ICCProfile="sRGB IEC61966-2.1"
+            photoshop:LegacyIPTCDigest="1E81CCBE8196ABBA158B9AD68A678346"
+            photoshop:Source="164735399"
+            prismusagerights:creditLine="[Andre Silva - stock.adobe.com]"
+            prismusagerights:creditLine_xmpArrayType="rdf:Bag"
+            psAux:ApproximateFocusDistance="0/1"
+            psAux:Firmware="Firmware Version 1.2.3"
+            psAux:FlashCompensation="0/1"
+            psAux:Lens="EF24-70mm f/2.8L II USM"
+            psAux:LensInfo="24/1 70/1 0/0 0/0"
+            psAux:SerialNumber="193020002348"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}853"
+            tiff:ImageWidth="{Long}1280"
+            tiff:Make="Canon"
+            tiff:Model="Canon EOS 5D Mark III"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="720000/10000"
+            tiff:YCbCrPositioning="{Long}1"
+            tiff:YCbCrSubSampling="{Long}[0]"
+            tiff:YCbCrSubSampling_xmpArrayType="rdf:Seq"
+            tiff:YResolution="720000/10000"
+            xmp:CreateDate="{Date}2016-07-01T13:53:32.000Z"
+            xmp:CreatorTool="Adobe Photoshop CC 2019 (Macintosh)"
+            xmp:MetadataDate="{Date}2019-10-24T15:36:05.000-07:00"
+            xmp:ModifyDate="{Date}2019-10-24T15:36:05.000-07:00"
+            xmpMM:DocumentID="2EFE53500003E82333FD88526FC9846A"
+            xmpMM:InstanceID="xmp.iid:cf5be8a8-5608-4dcd-82d3-15bcef3f5249"
+            xmpMM:OriginalDocumentID="2EFE53500003E82333FD88526FC9846A">
+            <exif:Flash
+                exif:Fired="{Boolean}false"
+                exif:Function="{Boolean}false"
+                exif:Mode="{Long}2"
+                exif:RedEyeMode="{Boolean}false"
+                exif:Return="{Long}0"
+                jcr:primaryType="nt:unstructured"
+                xmpNodeType="xmpStruct"/>
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}2"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:53b1ce1d-a3ec-4882-a4f6-a46093412018"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-07-15T18:16:03.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:cf5be8a8-5608-4dcd-82d3-15bcef3f5249"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2019 (Macintosh)"
+                    stEvt:when="{Date}2019-10-24T15:36:05.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:14.877Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <water
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.878Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8142090439796448"
+                    isCustom="{Boolean}false"
+                    name="water"/>
+                <ocean
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.879Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8063196539878845"
+                    isCustom="{Boolean}false"
+                    name="ocean"/>
+                <surfing
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.879Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7892791628837585"
+                    isCustom="{Boolean}false"
+                    name="surfing"/>
+                <surfer
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.880Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7885657548904419"
+                    isCustom="{Boolean}false"
+                    name="surfer"/>
+                <surf
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.880Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7873429656028748"
+                    isCustom="{Boolean}false"
+                    name="surf"/>
+                <sea
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.881Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7859963178634644"
+                    isCustom="{Boolean}false"
+                    name="sea"/>
+                <beach
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.881Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7459827661514282"
+                    isCustom="{Boolean}false"
+                    name="beach"/>
+                <wave
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.881Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7259412407875061"
+                    isCustom="{Boolean}false"
+                    name="wave"/>
+                <sport
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.882Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7025765180587769"
+                    isCustom="{Boolean}false"
+                    name="sport"/>
+                <man
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.882Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6599659323692322"
+                    isCustom="{Boolean}false"
+                    name="man"/>
+                <waves
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.883Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.655230700969696"
+                    isCustom="{Boolean}false"
+                    name="waves"/>
+                <surfboard
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.883Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6454989910125732"
+                    isCustom="{Boolean}false"
+                    name="surfboard"/>
+                <blue
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.884Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6442632675170898"
+                    isCustom="{Boolean}false"
+                    name="blue"/>
+                <summer
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.884Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6425199508666992"
+                    isCustom="{Boolean}false"
+                    name="summer"/>
+                <fun
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.884Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6418541073799133"
+                    isCustom="{Boolean}false"
+                    name="fun"/>
+                <board
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.885Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6067209243774414"
+                    isCustom="{Boolean}false"
+                    name="board"/>
+                <extreme
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.885Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.59852135181427"
+                    isCustom="{Boolean}false"
+                    name="extreme"/>
+                <speed
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.886Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5871005654335022"
+                    isCustom="{Boolean}false"
+                    name="speed"/>
+                <vacation
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.886Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5864031910896301"
+                    isCustom="{Boolean}false"
+                    name="vacation"/>
+                <boy
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.886Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5855948328971863"
+                    isCustom="{Boolean}false"
+                    name="boy"/>
+                <nature
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.887Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5813469886779785"
+                    isCustom="{Boolean}false"
+                    name="nature"/>
+                <holiday
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.887Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5691057443618774"
+                    isCustom="{Boolean}false"
+                    name="holiday"/>
+                <sky
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.888Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5682085156440735"
+                    isCustom="{Boolean}false"
+                    name="sky"/>
+                <sports
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.888Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5671365261077881"
+                    isCustom="{Boolean}false"
+                    name="sports"/>
+                <recreation
+                    jcr:lastModified="{Date}2022-03-23T20:44:14.888Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5629525184631348"
+                    isCustom="{Boolean}false"
+                    name="recreation"/>
+            </predictedTags>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}2"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}2"
+                lastUsed="{Date}2019-10-25T17:41:58.383-07:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

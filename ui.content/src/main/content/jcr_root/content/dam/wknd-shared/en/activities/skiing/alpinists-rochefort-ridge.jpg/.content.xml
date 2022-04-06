@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="ef7a22bc-0b30-4fc4-a29e-73675a9b69e1">
+    <jcr:content
+        cq:name="alpinists-rochefort-ridge.jpg"
+        cq:parentPath="/content/dam/we-retail/en/activities/hiking-camping"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:processingId="11abb7d4-e9f9-463c-8856-c37c64cf4d70"
+        dam:processingRenditions="[cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.48.48.png,cqdam.metadata.xml,cqdam.text.txt,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.features.json,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.319.319.png,cq5dam.zoom.2048.2048.jpeg]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:51.419Z"
+        dam:relativePath="we-retail/en/activities/hiking-camping/alpinists-rochefort-ridge.jpg"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:44:09.934Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="Alpinists Rochefort Ridge">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:44:02.099Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}3.5999999046325684"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}5.400000095367432"
+            dam:Progressive="no"
+            dam:sha1="342ef17d29132f58492743b79b0629a82cd0aaed"
+            dam:size="{Long}308399"
+            dc:description="Team of two alpinists on Rochefort Ridge, France"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-03-04T15:01:02.408+01:00"
+            dc:title="Alpinists Rochefort Ridge"
+            exif:ColorSpace="{Long}65535"
+            exif:ExifOffset="{Long}236"
+            exif:ExifVersion="0221"
+            exif:PixelXDimension="{Long}2880"
+            exif:PixelYDimension="{Long}1920"
+            jcr:lastModified="{Date}2016-09-12T17:16:52.334+05:30"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="Alpinists Rochefort Ridge"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}1080"
+            tiff:ImageWidth="{Long}1620"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="300/1"
+            tiff:YResolution="300/1"
+            xmp:CreateDate="{Date}2016-02-10T12:00:53.000+01:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+            xmp:MetadataDate="{Date}2016-03-08T23:50:00.000+01:00"
+            xmp:ModifyDate="{Date}2016-03-08T23:50:00.000+01:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:83dd2534-260e-1179-a410-b2db021fd2b8"
+            xmpMM:InstanceID="xmp.iid:769347eb-a5a5-4dad-849b-b77e96d7d139"
+            xmpMM:OriginalDocumentID="014DB48998ABF38279171C35ED815789">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}2"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:fba3aaec-b756-45b5-be3c-03e61bdb8019"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-03-08T23:50:00.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:769347eb-a5a5-4dad-849b-b77e96d7d139"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-03-08T23:50:00.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:03.033Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <snow
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.773Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8725935816764832"
+                    isCustom="{Boolean}false"
+                    name="snow"/>
+                <mountain
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.774Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8257607817649841"
+                    isCustom="{Boolean}false"
+                    name="mountain"/>
+                <winter
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.774Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8211530447006226"
+                    isCustom="{Boolean}false"
+                    name="winter"/>
+                <landscape
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.775Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7826491594314575"
+                    isCustom="{Boolean}false"
+                    name="landscape"/>
+                <cold
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.775Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7536301612854004"
+                    isCustom="{Boolean}false"
+                    name="cold"/>
+                <sky
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.776Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.741266131401062"
+                    isCustom="{Boolean}false"
+                    name="sky"/>
+                <mountains
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.776Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7395186424255371"
+                    isCustom="{Boolean}false"
+                    name="mountains"/>
+                <blue
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.777Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7309039831161499"
+                    isCustom="{Boolean}false"
+                    name="blue"/>
+                <nature
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.778Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7261523604393005"
+                    isCustom="{Boolean}false"
+                    name="nature"/>
+                <white
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.778Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7124223113059998"
+                    isCustom="{Boolean}false"
+                    name="white"/>
+                <alps
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.779Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.702487587928772"
+                    isCustom="{Boolean}false"
+                    name="alps"/>
+                <ski
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.779Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6868325471878052"
+                    isCustom="{Boolean}false"
+                    name="ski"/>
+                <ice
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.780Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6640087366104126"
+                    isCustom="{Boolean}false"
+                    name="ice"/>
+                <skiing
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.780Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.637418270111084"
+                    isCustom="{Boolean}false"
+                    name="skiing"/>
+                <peak
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.781Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6171178817749023"
+                    isCustom="{Boolean}false"
+                    name="peak"/>
+                <background
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.782Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6141811013221741"
+                    isCustom="{Boolean}false"
+                    name="background"/>
+                <glacier
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.782Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6115471720695496"
+                    isCustom="{Boolean}false"
+                    name="glacier"/>
+                <panorama
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.783Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.609950840473175"
+                    isCustom="{Boolean}false"
+                    name="panorama"/>
+                <beautiful
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.783Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5984243154525757"
+                    isCustom="{Boolean}false"
+                    name="beautiful"/>
+                <high
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.784Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5969967246055603"
+                    isCustom="{Boolean}false"
+                    name="high"/>
+                <frost
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.785Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5968472361564636"
+                    isCustom="{Boolean}false"
+                    name="frost"/>
+                <travel
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.785Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5965858101844788"
+                    isCustom="{Boolean}false"
+                    name="travel"/>
+                <sun
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.786Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5873896479606628"
+                    isCustom="{Boolean}false"
+                    name="sun"/>
+                <beauty
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.786Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5857585072517395"
+                    isCustom="{Boolean}false"
+                    name="beauty"/>
+                <season
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.786Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5808529257774353"
+                    isCustom="{Boolean}false"
+                    name="season"/>
+            </predictedTags>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

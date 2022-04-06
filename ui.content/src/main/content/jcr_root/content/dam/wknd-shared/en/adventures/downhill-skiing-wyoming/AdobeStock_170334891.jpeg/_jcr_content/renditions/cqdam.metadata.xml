@@ -1,0 +1,553 @@
+<?xml version="1.0"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.2.4">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about=""
+        xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+        xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/"
+        xmlns:dam="http://www.day.com/dam/1.0"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+        xmlns:exif="http://ns.adobe.com/exif/1.0/"
+        xmlns:exifEX="http://cipa.jp/exif/1.0/"
+        xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+        xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+        xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+        xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+        xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+        xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+        xmlns:pur="http://prismstandard.org/namespaces/prismusagerights/2.1/"
+        xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/"
+      aux:ApproximateFocusDistance="2147483647/1"
+      aux:ImageNumber="10145"
+      aux:Lens="18.0-55.0 mm f/3.5-5.6"
+      aux:LensID="162"
+      aux:LensInfo="18/1 55/1 7/2 28/5"
+      aux:SerialNumber="2613919"
+      crs:AlreadyApplied="True"
+      crs:AutoLateralCA="0"
+      crs:AutoWhiteVersion="134348800"
+      crs:Blacks2012="-37"
+      crs:BlueHue="0"
+      crs:BlueSaturation="0"
+      crs:CameraProfile="Adobe Standard"
+      crs:Clarity2012="27"
+      crs:ColorNoiseReduction="25"
+      crs:ColorNoiseReductionDetail="50"
+      crs:ColorNoiseReductionSmoothness="50"
+      crs:Contrast2012="0"
+      crs:ConvertToGrayscale="False"
+      crs:CropAngle="0"
+      crs:CropConstrainToWarp="0"
+      crs:DefringeGreenAmount="0"
+      crs:DefringeGreenHueHi="60"
+      crs:DefringeGreenHueLo="40"
+      crs:DefringePurpleAmount="0"
+      crs:DefringePurpleHueHi="70"
+      crs:DefringePurpleHueLo="30"
+      crs:Exposure2012="0.00"
+      crs:GrainAmount="0"
+      crs:GreenHue="0"
+      crs:GreenSaturation="0"
+      crs:HasCrop="True"
+      crs:HasSettings="True"
+      crs:Highlights2012="9"
+      crs:HueAdjustmentAqua="0"
+      crs:HueAdjustmentBlue="0"
+      crs:HueAdjustmentGreen="0"
+      crs:HueAdjustmentMagenta="0"
+      crs:HueAdjustmentOrange="0"
+      crs:HueAdjustmentPurple="0"
+      crs:HueAdjustmentRed="0"
+      crs:HueAdjustmentYellow="0"
+      crs:LensManualDistortionAmount="0"
+      crs:LensProfileChromaticAberrationScale="100"
+      crs:LensProfileDigest="3409F7C7A5E7641373AFB69680F44FB0"
+      crs:LensProfileDistortionScale="100"
+      crs:LensProfileEnable="1"
+      crs:LensProfileFilename="NIKON D300 (Nikon AF-S DX NIKKOR 18-55mm f3.5-5.6G VR II) - RAW.lcp"
+      crs:LensProfileName="Adobe (Nikon AF-S DX NIKKOR 18-55mm f/3.5-5.6G VR II)"
+      crs:LensProfileSetup="LensDefaults"
+      crs:LensProfileVignettingScale="100"
+      crs:LuminanceAdjustmentAqua="0"
+      crs:LuminanceAdjustmentBlue="0"
+      crs:LuminanceAdjustmentGreen="0"
+      crs:LuminanceAdjustmentMagenta="0"
+      crs:LuminanceAdjustmentOrange="0"
+      crs:LuminanceAdjustmentPurple="0"
+      crs:LuminanceAdjustmentRed="0"
+      crs:LuminanceAdjustmentYellow="0"
+      crs:LuminanceSmoothing="0"
+      crs:ParametricDarks="0"
+      crs:ParametricHighlightSplit="75"
+      crs:ParametricHighlights="0"
+      crs:ParametricLights="0"
+      crs:ParametricMidtoneSplit="50"
+      crs:ParametricShadowSplit="25"
+      crs:ParametricShadows="0"
+      crs:PerspectiveAspect="0"
+      crs:PerspectiveHorizontal="0"
+      crs:PerspectiveRotate="0.0"
+      crs:PerspectiveScale="100"
+      crs:PerspectiveUpright="0"
+      crs:PerspectiveVertical="0"
+      crs:PostCropVignetteAmount="0"
+      crs:ProcessVersion="6.7"
+      crs:RedHue="0"
+      crs:RedSaturation="0"
+      crs:SaturationAdjustmentAqua="0"
+      crs:SaturationAdjustmentBlue="0"
+      crs:SaturationAdjustmentGreen="0"
+      crs:SaturationAdjustmentMagenta="0"
+      crs:SaturationAdjustmentOrange="0"
+      crs:SaturationAdjustmentPurple="0"
+      crs:SaturationAdjustmentRed="0"
+      crs:SaturationAdjustmentYellow="0"
+      crs:ShadowTint="0"
+      crs:Shadows2012="-9"
+      crs:SharpenDetail="25"
+      crs:SharpenEdgeMasking="0"
+      crs:SharpenRadius="1.0"
+      crs:SplitToningBalance="0"
+      crs:SplitToningHighlightHue="0"
+      crs:SplitToningHighlightSaturation="0"
+      crs:SplitToningShadowHue="0"
+      crs:SplitToningShadowSaturation="0"
+      crs:Tint="5"
+      crs:ToneCurveName="Linear"
+      crs:ToneCurveName2012="Linear"
+      crs:Version="8.7.1"
+      crs:Vibrance="42"
+      crs:VignetteAmount="0"
+      crs:Whites2012="35"
+      dam:Bitsperpixel="24"
+      dam:DigitalCreationDate="20161215"
+      dam:DigitalCreationTime="170039-0800"
+      dam:Fileformat="JPEG"
+      dam:MIMEtype="image/jpeg"
+      dam:Numberofimages="1"
+      dam:Numberoftextualcomments="0"
+      dam:Physicalheightindpi="72"
+      dam:Physicalheightininches="12.541666984558105"
+      dam:Physicalwidthindpi="72"
+      dam:Physicalwidthininches="18.81944465637207"
+      dam:Progressive="no"
+      dam:TimeCreated="170039-0800"
+      dam:extracted="2019-10-25T16:47:21.212-07:00"
+      dam:size="355971"
+      dam:sha1="ad3bf9ccb439bb5cf8c691cf17cd79bebb2a803d"
+      dc:modified="2019-10-24T15:47:10.120-07:00"
+      dc:format="image/jpeg"
+      dc:rights="©Finn - stock.adobe.com"
+      exif:ApertureValue="10717/2018"
+      exif:ColorSpace="65535"
+      exif:Contrast="0"
+      exif:CustomRendered="0"
+      exif:DateTimeOriginal="2016-12-15T17:00:39.6"
+      exif:DigitalZoomRatio="1/1"
+      exif:ExifVersion="0230"
+      exif:ExposureBiasValue="-8/3"
+      exif:ExposureMode="1"
+      exif:ExposureProgram="1"
+      exif:ExposureTime="1/125"
+      exif:FNumber="63/10"
+      exif:FileSource="3"
+      exif:FlashpixVersion="0100"
+      exif:FocalLength="55/1"
+      exif:FocalLengthIn35mmFilm="82"
+      exif:FocalPlaneResolutionUnit="3"
+      exif:FocalPlaneXResolution="335182/131"
+      exif:FocalPlaneYResolution="335182/131"
+      exif:GainControl="0"
+      exif:LightSource="0"
+      exif:MaxApertureValue="18325/3649"
+      exif:MeteringMode="2"
+      exif:PixelXDimension="1355"
+      exif:PixelYDimension="903"
+      exif:Saturation="0"
+      exif:SceneCaptureType="0"
+      exif:SceneType="1"
+      exif:SensingMethod="2"
+      exif:Sharpness="0"
+      exif:ShutterSpeedValue="49471/7102"
+      exif:SubjectDistanceRange="0"
+      exif:WhiteBalance="0"
+      exifEX:BodySerialNumber="2613919"
+      exifEX:LensModel="18.0-55.0 mm f/3.5-5.6"
+      exifEX:PhotographicSensitivity="160"
+      exifEX:SensitivityType="2"
+      photoshop:ColorMode="3"
+      photoshop:DateCreated="2016-12-15T17:00:39.000-08:00"
+      photoshop:LegacyIPTCDigest="68771A48588174810111D578C9AEF012"
+      photoshop:Source="170334891"
+      photoshop:Credit="Finn - stock.adobe.com"
+      photoshop:Country="United States of America"
+      tiff:Make="NIKON CORPORATION"
+      tiff:Model="NIKON D5300"
+      tiff:Orientation="1"
+      tiff:PhotometricInterpretation="2"
+      tiff:ResolutionUnit="2"
+      tiff:SamplesPerPixel="3"
+      tiff:XResolution="720000/10000"
+      tiff:YCbCrPositioning="1"
+      tiff:YResolution="720000/10000"
+      tiff:ImageWidth="1355"
+      tiff:ImageLength="903"
+      xmp:CreateDate="2016-12-15T17:00:39.000-08:00"
+      xmp:CreatorTool="Adobe Photoshop CC 2019 (Macintosh)"
+      xmp:MetadataDate="2019-10-24T15:20:12.000-07:00"
+      xmp:ModifyDate="2019-10-24T15:20:12.000-07:00"
+      xmpMM:DocumentID="xmp.did:32c47ec9-ba51-4f09-8566-3351ac8f727e"
+      xmpMM:InstanceID="xmp.iid:1840679b-8932-4efb-981a-2cd91e2f0e34"
+      xmpMM:OriginalDocumentID="53DCE29592FD7112F907B560214292A6">
+      <crs:ToneCurvePV2012Red>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Red>
+      <crs:ToneCurveBlue>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurveBlue>
+      <crs:ToneCurve>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurve>
+      <crs:ToneCurvePV2012Blue>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Blue>
+      <crs:ToneCurveGreen>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurveGreen>
+      <crs:ToneCurvePV2012>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012>
+      <crs:ToneCurvePV2012Green>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurvePV2012Green>
+      <crs:ToneCurveRed>
+        <rdf:Seq>
+          <rdf:li>0, 0</rdf:li>
+          <rdf:li>255, 255</rdf:li>
+        </rdf:Seq>
+      </crs:ToneCurveRed>
+      <dc:subject>
+        <rdf:Bag>
+          <rdf:li>winter</rdf:li>
+          <rdf:li>ski</rdf:li>
+          <rdf:li>snow</rdf:li>
+          <rdf:li>mountain</rdf:li>
+          <rdf:li>lift</rdf:li>
+          <rdf:li>sky</rdf:li>
+          <rdf:li>resort</rdf:li>
+          <rdf:li>mountains</rdf:li>
+          <rdf:li>skiing</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>sport</rdf:li>
+          <rdf:li>cold</rdf:li>
+          <rdf:li>chairlift</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>alps</rdf:li>
+          <rdf:li>travel</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>cable</rdf:li>
+          <rdf:li>chair</rdf:li>
+          <rdf:li>snowboard</rdf:li>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>sun</rdf:li>
+          <rdf:li>ski lift</rdf:li>
+          <rdf:li>tree</rdf:li>
+          <rdf:li>winter</rdf:li>
+          <rdf:li>ski</rdf:li>
+          <rdf:li>snow</rdf:li>
+          <rdf:li>mountain</rdf:li>
+          <rdf:li>lift</rdf:li>
+          <rdf:li>sky</rdf:li>
+          <rdf:li>resort</rdf:li>
+          <rdf:li>mountains</rdf:li>
+          <rdf:li>skiing</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>sport</rdf:li>
+          <rdf:li>cold</rdf:li>
+          <rdf:li>chairlift</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>alps</rdf:li>
+          <rdf:li>travel</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>cable</rdf:li>
+          <rdf:li>chair</rdf:li>
+          <rdf:li>snowboard</rdf:li>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>sun</rdf:li>
+          <rdf:li>ski lift</rdf:li>
+          <rdf:li>tree</rdf:li>
+          <rdf:li>winter</rdf:li>
+          <rdf:li>ski</rdf:li>
+          <rdf:li>snow</rdf:li>
+          <rdf:li>mountain</rdf:li>
+          <rdf:li>lift</rdf:li>
+          <rdf:li>sky</rdf:li>
+          <rdf:li>resort</rdf:li>
+          <rdf:li>mountains</rdf:li>
+          <rdf:li>skiing</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>sport</rdf:li>
+          <rdf:li>cold</rdf:li>
+          <rdf:li>chairlift</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>alps</rdf:li>
+          <rdf:li>travel</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>cable</rdf:li>
+          <rdf:li>chair</rdf:li>
+          <rdf:li>snowboard</rdf:li>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>sun</rdf:li>
+          <rdf:li>ski lift</rdf:li>
+          <rdf:li>tree</rdf:li>
+          <rdf:li>winter</rdf:li>
+          <rdf:li>ski</rdf:li>
+          <rdf:li>snow</rdf:li>
+          <rdf:li>mountain</rdf:li>
+          <rdf:li>lift</rdf:li>
+          <rdf:li>sky</rdf:li>
+          <rdf:li>resort</rdf:li>
+          <rdf:li>mountains</rdf:li>
+          <rdf:li>skiing</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>sport</rdf:li>
+          <rdf:li>cold</rdf:li>
+          <rdf:li>chairlift</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>alps</rdf:li>
+          <rdf:li>travel</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>cable</rdf:li>
+          <rdf:li>chair</rdf:li>
+          <rdf:li>snowboard</rdf:li>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>sun</rdf:li>
+          <rdf:li>ski lift</rdf:li>
+          <rdf:li>tree</rdf:li>
+          <rdf:li>winter</rdf:li>
+          <rdf:li>ski</rdf:li>
+          <rdf:li>snow</rdf:li>
+          <rdf:li>mountain</rdf:li>
+          <rdf:li>lift</rdf:li>
+          <rdf:li>sky</rdf:li>
+          <rdf:li>resort</rdf:li>
+          <rdf:li>mountains</rdf:li>
+          <rdf:li>skiing</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>sport</rdf:li>
+          <rdf:li>cold</rdf:li>
+          <rdf:li>chairlift</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>alps</rdf:li>
+          <rdf:li>travel</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>cable</rdf:li>
+          <rdf:li>chair</rdf:li>
+          <rdf:li>snowboard</rdf:li>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>sun</rdf:li>
+          <rdf:li>ski lift</rdf:li>
+          <rdf:li>tree</rdf:li>
+          <rdf:li>winter</rdf:li>
+          <rdf:li>ski</rdf:li>
+          <rdf:li>snow</rdf:li>
+          <rdf:li>mountain</rdf:li>
+          <rdf:li>lift</rdf:li>
+          <rdf:li>sky</rdf:li>
+          <rdf:li>resort</rdf:li>
+          <rdf:li>mountains</rdf:li>
+          <rdf:li>skiing</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>sport</rdf:li>
+          <rdf:li>cold</rdf:li>
+          <rdf:li>chairlift</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>alps</rdf:li>
+          <rdf:li>travel</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>cable</rdf:li>
+          <rdf:li>chair</rdf:li>
+          <rdf:li>snowboard</rdf:li>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>sun</rdf:li>
+          <rdf:li>ski lift</rdf:li>
+          <rdf:li>tree</rdf:li>
+          <rdf:li>winter</rdf:li>
+          <rdf:li>ski</rdf:li>
+          <rdf:li>snow</rdf:li>
+          <rdf:li>mountain</rdf:li>
+          <rdf:li>lift</rdf:li>
+          <rdf:li>sky</rdf:li>
+          <rdf:li>resort</rdf:li>
+          <rdf:li>mountains</rdf:li>
+          <rdf:li>skiing</rdf:li>
+          <rdf:li>blue</rdf:li>
+          <rdf:li>sport</rdf:li>
+          <rdf:li>cold</rdf:li>
+          <rdf:li>chairlift</rdf:li>
+          <rdf:li>landscape</rdf:li>
+          <rdf:li>alps</rdf:li>
+          <rdf:li>travel</rdf:li>
+          <rdf:li>nature</rdf:li>
+          <rdf:li>white</rdf:li>
+          <rdf:li>cable</rdf:li>
+          <rdf:li>chair</rdf:li>
+          <rdf:li>snowboard</rdf:li>
+          <rdf:li>forest</rdf:li>
+          <rdf:li>sun</rdf:li>
+          <rdf:li>ski lift</rdf:li>
+          <rdf:li>tree</rdf:li>
+        </rdf:Bag>
+      </dc:subject>
+      <dc:date>
+        <rdf:Seq>
+          <rdf:li>20161215</rdf:li>
+          <rdf:li>20161215</rdf:li>
+          <rdf:li>20161215</rdf:li>
+        </rdf:Seq>
+      </dc:date>
+      <dc:title>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Jackson Hole Tram</rdf:li>
+        </rdf:Alt>
+      </dc:title>
+      <dc:description>
+        <rdf:Bag>
+          <rdf:li>Jackson Hole Tram</rdf:li>
+        </rdf:Bag>
+      </dc:description>
+      <exif:ISOSpeedRatings>
+        <rdf:Seq>
+          <rdf:li>160</rdf:li>
+        </rdf:Seq>
+      </exif:ISOSpeedRatings>
+      <exif:ComponentsConfiguration>
+        <rdf:Seq>
+          <rdf:li>1</rdf:li>
+          <rdf:li>2</rdf:li>
+          <rdf:li>3</rdf:li>
+          <rdf:li>0</rdf:li>
+        </rdf:Seq>
+      </exif:ComponentsConfiguration>
+      <exif:Flash
+        exif:Fired="False"
+        exif:Function="False"
+        exif:Mode="0"
+        exif:RedEyeMode="False"
+        exif:Return="0"/>
+      <exif:CFAPattern>
+        <rdf:Description
+          exif:Columns="2"
+          exif:Rows="2">
+        <exif:Values>
+          <rdf:Seq>
+            <rdf:li>0</rdf:li>
+            <rdf:li>1</rdf:li>
+            <rdf:li>1</rdf:li>
+            <rdf:li>2</rdf:li>
+          </rdf:Seq>
+        </exif:Values>
+        </rdf:Description>
+      </exif:CFAPattern>
+      <exifEX:LensSpecification>
+        <rdf:Seq>
+          <rdf:li>18/1</rdf:li>
+          <rdf:li>55/1</rdf:li>
+          <rdf:li>7/2</rdf:li>
+          <rdf:li>28/5</rdf:li>
+        </rdf:Seq>
+      </exifEX:LensSpecification>
+      <tiff:BitsPerSample>
+        <rdf:Seq>
+          <rdf:li>8</rdf:li>
+          <rdf:li>8</rdf:li>
+          <rdf:li>8</rdf:li>
+        </rdf:Seq>
+      </tiff:BitsPerSample>
+      <tiff:YCbCrSubSampling>
+        <rdf:Seq>
+          <rdf:li>0</rdf:li>
+        </rdf:Seq>
+      </tiff:YCbCrSubSampling>
+      <xmpMM:DerivedFrom
+        stRef:documentID="53DCE29592FD7112F907B560214292A6"
+        stRef:originalDocumentID="53DCE29592FD7112F907B560214292A6"/>
+      <xmpMM:History>
+        <rdf:Seq>
+          <rdf:li
+            stEvt:action="derived"
+            stEvt:parameters="converted from image/x-nikon-nef to image/jpeg, saved to new location"/>
+          <rdf:li
+            stEvt:action="saved"
+            stEvt:changed="/"
+            stEvt:instanceID="xmp.iid:32c47ec9-ba51-4f09-8566-3351ac8f727e"
+            stEvt:softwareAgent="Adobe Photoshop Lightroom 5.7.1 (Macintosh)"
+            stEvt:when="2016-12-20T12:57:56.000-08:00"/>
+          <rdf:li
+            stEvt:action="saved"
+            stEvt:changed="/"
+            stEvt:instanceID="xmp.iid:1840679b-8932-4efb-981a-2cd91e2f0e34"
+            stEvt:softwareAgent="Adobe Photoshop CC 2019 (Macintosh)"
+            stEvt:when="2019-10-24T15:20:12.000-07:00"/>
+        </rdf:Seq>
+      </xmpMM:History>
+      <pur:creditLine>
+        <rdf:Bag>
+          <rdf:li>Finn - stock.adobe.com</rdf:li>
+        </rdf:Bag>
+      </pur:creditLine>
+      <xmpRights:UsageTerms>
+        <rdf:Alt>
+          <rdf:li xml:lang="x-default">Thank you for your interest in Adobe’s products and services! The images in this demo website are from Adobe Stock and are Third Party Material as  defined in the Demo Asset Additional Terms   at https://www.adobe.com/legal/terms.html.  </rdf:li>
+        </rdf:Alt>
+      </xmpRights:UsageTerms>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

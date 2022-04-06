@@ -1,0 +1,144 @@
+<?xml version="1.0"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 6.2.4">
+  <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+    <rdf:Description rdf:about=""
+        xmlns:aux="http://ns.adobe.com/exif/1.0/aux/"
+        xmlns:exif="http://ns.adobe.com/exif/1.0/"
+        xmlns:exifEX="http://cipa.jp/exif/1.0/"
+        xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/"
+        xmlns:tiff="http://ns.adobe.com/tiff/1.0/"
+        xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+        xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+        xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+        xmlns:dam="http://www.day.com/dam/1.0"
+        xmlns:dc="http://purl.org/dc/elements/1.1/"
+      aux:Firmware="Firmware Version 2.1.2"
+      aux:FlashCompensation="0/1"
+      aux:Lens="Canon EF 70-200mm f/2.8L IS II USM"
+      aux:LensID="251"
+      aux:LensInfo="70/1 200/1 0/0 0/0"
+      aux:SerialNumber="220100767"
+      exif:ApertureValue="45/8"
+      exif:ColorSpace="1"
+      exif:CustomRendered="0"
+      exif:DateTimeOriginal="2019-05-28T18:52:26.39"
+      exif:ExifVersion="0221"
+      exif:ExposureBiasValue="0/1"
+      exif:ExposureMode="1"
+      exif:ExposureProgram="1"
+      exif:ExposureTime="1/1250"
+      exif:FNumber="71/10"
+      exif:FlashpixVersion="0100"
+      exif:FocalLength="200/1"
+      exif:FocalPlaneResolutionUnit="2"
+      exif:FocalPlaneXResolution="1762939/458"
+      exif:FocalPlaneYResolution="1872000/479"
+      exif:MaxApertureValue="55440/19601"
+      exif:MeteringMode="2"
+      exif:PixelXDimension="1280"
+      exif:PixelYDimension="853"
+      exif:SceneCaptureType="0"
+      exif:ShutterSpeedValue="83/8"
+      exif:WhiteBalance="0"
+      exifEX:Gamma="11/5"
+      photoshop:ColorMode="3"
+      photoshop:DateCreated="2019-05-28T18:52:26"
+      photoshop:ICCProfile="sRGB IEC61966-2.1"
+      photoshop:LegacyIPTCDigest="904C51186D6F550612837E581B91FE89"
+      tiff:Make="Canon"
+      tiff:Model="Canon EOS 5D Mark II"
+      tiff:Orientation="1"
+      tiff:PhotometricInterpretation="2"
+      tiff:ResolutionUnit="2"
+      tiff:SamplesPerPixel="3"
+      tiff:XResolution="720000/10000"
+      tiff:YResolution="720000/10000"
+      tiff:ImageWidth="1280"
+      tiff:ImageLength="853"
+      xmp:CreateDate="2019-05-28T18:52:26"
+      xmp:CreatorTool="Adobe Photoshop CC 2019 (Macintosh)"
+      xmp:MetadataDate="2019-10-27T17:25:42-07:00"
+      xmp:ModifyDate="2019-10-27T17:25:42-07:00"
+      xmpMM:DocumentID="223C9823D26AC5A4F77F3F7FF3DE469C"
+      xmpMM:InstanceID="xmp.iid:fb58900c-c39d-4b80-b0a0-66c304b8cafb"
+      xmpMM:OriginalDocumentID="223C9823D26AC5A4F77F3F7FF3DE469C"
+      dam:Physicalwidthindpi="72"
+      dam:MIMEtype="image/jpeg"
+      dam:Physicalheightininches="11.847222328186035"
+      dam:DigitalCreationDate="20190528"
+      dam:Physicalheightindpi="72"
+      dam:Physicalwidthininches="17.77777862548828"
+      dam:Bitsperpixel="24"
+      dam:Progressive="no"
+      dam:size="230677"
+      dam:Numberoftextualcomments="0"
+      dam:sha1="9b29e051797f1024588d3a589ebcc97f20f1627f"
+      dam:Numberofimages="1"
+      dam:TimeCreated="185226+0000"
+      dam:Fileformat="JPEG"
+      dc:format="image/jpeg">
+      <exif:ISOSpeedRatings>
+        <rdf:Seq>
+          <rdf:li>320</rdf:li>
+        </rdf:Seq>
+      </exif:ISOSpeedRatings>
+      <exif:ComponentsConfiguration>
+        <rdf:Seq>
+          <rdf:li>1</rdf:li>
+          <rdf:li>2</rdf:li>
+          <rdf:li>3</rdf:li>
+          <rdf:li>0</rdf:li>
+        </rdf:Seq>
+      </exif:ComponentsConfiguration>
+      <exif:Flash
+        exif:Fired="False"
+        exif:Function="False"
+        exif:Mode="2"
+        exif:RedEyeMode="False"
+        exif:Return="0"/>
+      <tiff:BitsPerSample>
+        <rdf:Seq>
+          <rdf:li>8</rdf:li>
+          <rdf:li>8</rdf:li>
+          <rdf:li>8</rdf:li>
+        </rdf:Seq>
+      </tiff:BitsPerSample>
+      <xmpMM:History>
+        <rdf:Seq>
+          <rdf:li
+            stEvt:action="saved"
+            stEvt:changed="/"
+            stEvt:instanceID="xmp.iid:fb58900c-c39d-4b80-b0a0-66c304b8cafb"
+            stEvt:softwareAgent="Adobe Photoshop CC 2019 (Macintosh)"
+            stEvt:when="2019-10-27T17:25:42-07:00"/>
+        </rdf:Seq>
+      </xmpMM:History>
+      <dc:date>
+        <rdf:Bag>
+          <rdf:li>20190528</rdf:li>
+        </rdf:Bag>
+      </dc:date>
+    </rdf:Description>
+  </rdf:RDF>
+</x:xmpmeta>

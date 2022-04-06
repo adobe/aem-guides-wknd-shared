@@ -1,0 +1,282 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="cb7d92cd-4857-48a5-8370-6449f3006d0d">
+    <jcr:content
+        cq:name="beach-walking.jpg"
+        cq:parentPath="/content/dam/wknd-shared/en/adventures/surf-camp-in-costa-rica"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:processingId="0f94d7e3-d6e2-443d-a04e-af60a9ad5023"
+        dam:processingRenditions="[cqdam.machine.metadata.tags.json,cqdam.machine.metadata.features.json,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.48.48.png,cqdam.metadata.xml,cqdam.text.txt,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.319.319.png,cq5dam.zoom.2048.2048.jpeg]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:51.351Z"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:44:12.357Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="Beach Walking">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:44:02.496Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}300"
+            dam:Physicalheightininches="{Decimal}3.5999999046325684"
+            dam:Physicalwidthindpi="{Long}300"
+            dam:Physicalwidthininches="{Decimal}5.400000095367432"
+            dam:Progressive="no"
+            dam:sha1="04568f2400cb3702fa9edd517876907c50200b88"
+            dam:size="{Long}116881"
+            dc:description="Young lady with surfboard going to the ocean at surf spot"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2016-03-06T18:55:11.148+01:00"
+            dc:title="Beach Walking"
+            exif:ColorSpace="{Long}65535"
+            exif:ExifVersion="0221"
+            exif:PixelXDimension="{Long}2880"
+            exif:PixelYDimension="{Long}1920"
+            jcr:lastModified="{Date}2019-10-25T16:48:09.266-07:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="Beach Walking"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}1080"
+            tiff:ImageWidth="{Long}1620"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="300/1"
+            tiff:YResolution="300/1"
+            xmp:CreateDate="{Date}2016-02-09T16:22:21.000+01:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2015 (Macintosh)"
+            xmp:MetadataDate="{Date}2016-03-08T23:50:44.000+01:00"
+            xmp:ModifyDate="{Date}2016-03-08T23:50:44.000+01:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:9de5ed4a-260e-1179-a410-b2db021fd2b8"
+            xmpMM:InstanceID="xmp.iid:0abb1512-3f6a-4c63-b763-d8d336d3ddb5"
+            xmpMM:OriginalDocumentID="350543FD81801DA6E46BC90790D2DBFB">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}2"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:2a0f74f8-70ee-46d2-899d-90ad304a7cad"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-03-08T23:50:44.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:0abb1512-3f6a-4c63-b763-d8d336d3ddb5"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2015 (Macintosh)"
+                    stEvt:when="{Date}2016-03-08T23:50:44.000+01:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <beach
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.200Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8193063735961914"
+                    isCustom="{Boolean}false"
+                    name="beach"/>
+                <sea
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.201Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.764948308467865"
+                    isCustom="{Boolean}false"
+                    name="sea"/>
+                <water
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.201Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7206050753593445"
+                    isCustom="{Boolean}false"
+                    name="water"/>
+                <ocean
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.202Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7204470634460449"
+                    isCustom="{Boolean}false"
+                    name="ocean"/>
+                <sky
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.203Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7099741697311401"
+                    isCustom="{Boolean}false"
+                    name="sky"/>
+                <sand
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.203Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6961955428123474"
+                    isCustom="{Boolean}false"
+                    name="sand"/>
+                <blue
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.204Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6933543682098389"
+                    isCustom="{Boolean}false"
+                    name="blue"/>
+                <nature
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.204Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6751287579536438"
+                    isCustom="{Boolean}false"
+                    name="nature"/>
+                <landscape
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.205Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6634746789932251"
+                    isCustom="{Boolean}false"
+                    name="landscape"/>
+                <coast
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.206Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6304587721824646"
+                    isCustom="{Boolean}false"
+                    name="coast"/>
+                <travel
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.206Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6028890013694763"
+                    isCustom="{Boolean}false"
+                    name="travel"/>
+                <man
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.207Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5959324836730957"
+                    isCustom="{Boolean}false"
+                    name="man"/>
+                <island
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.208Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5946327447891235"
+                    isCustom="{Boolean}false"
+                    name="island"/>
+                <summer
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.208Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5940475463867188"
+                    isCustom="{Boolean}false"
+                    name="summer"/>
+                <horizon
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.209Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5922372937202454"
+                    isCustom="{Boolean}false"
+                    name="horizon"/>
+                <clouds
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.209Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5911977291107178"
+                    isCustom="{Boolean}false"
+                    name="clouds"/>
+                <lake
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.210Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.589590311050415"
+                    isCustom="{Boolean}false"
+                    name="lake"/>
+                <shore
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.210Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5636301636695862"
+                    isCustom="{Boolean}false"
+                    name="shore"/>
+                <girl
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.211Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5631353855133057"
+                    isCustom="{Boolean}false"
+                    name="girl"/>
+                <sun
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.211Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5629339814186096"
+                    isCustom="{Boolean}false"
+                    name="sun"/>
+                <white
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.212Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5613351464271545"
+                    isCustom="{Boolean}false"
+                    name="white"/>
+                <vacation
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.212Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5585407614707947"
+                    isCustom="{Boolean}false"
+                    name="vacation"/>
+                <sunset
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.213Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5506836771965027"
+                    isCustom="{Boolean}false"
+                    name="sunset"/>
+                <cloud
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.214Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5488576292991638"
+                    isCustom="{Boolean}false"
+                    name="cloud"/>
+                <holiday
+                    jcr:lastModified="{Date}2022-03-23T20:44:03.214Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5441823601722717"
+                    isCustom="{Boolean}false"
+                    name="holiday"/>
+            </predictedTags>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:07.126Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}6"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}6"
+                lastUsed="{Date}2019-10-25T17:41:31.986-07:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>

@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="ac6994f8-dcdf-453b-bb7c-c3abe1ab06e9">
+    <jcr:content
+        cq:name="jacob_wester.jpg"
+        cq:parentPath="/content/dam/wknd-shared/en/contributors"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/46/caa45d63-feda-40e6-8796-bfe10e27fc16_134"
+        dam:processingId="bf489c55-ed88-46d5-835b-1e9306ef6e40"
+        dam:processingRenditions="[cq5dam.web.1280.1280.jpeg,cq5dam.zoom.2048.2048.jpeg,cqdam.metadata.xml,cqdam.machine.metadata.tags.json,cqdam.text.txt,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.features.json]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:46:48.777Z"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:47:00.536Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:extracted="{Date}2022-03-23T20:46:53.816Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}14.18055534362793"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}9.44444465637207"
+            dam:Progressive="no"
+            dam:sha1="18f182f94c23ecfc0d30d40761690a2664c7b689"
+            dam:size="{Long}140844"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2019-10-25T16:50:37.791-07:00"
+            exif:ColorSpace="{Long}65535"
+            exif:ExifVersion="0221"
+            exif:PixelXDimension="{Long}680"
+            exif:PixelYDimension="{Long}1021"
+            jcr:lastModified="{Date}2019-10-25T16:50:37.791-07:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            photoshop:ColorMode="{Long}3"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}1021"
+            tiff:ImageWidth="{Long}680"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="720000/10000"
+            tiff:YResolution="720000/10000"
+            xmp:CreateDate="{Date}2016-02-12T05:07:10.000-08:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2019 (Macintosh)"
+            xmp:MetadataDate="{Date}2019-10-02T12:27:29.000-07:00"
+            xmp:ModifyDate="{Date}2019-10-02T12:27:29.000-07:00"
+            xmpMM:DocumentID="adobe:docid:photoshop:429df3ab-f617-1b46-907f-00565bd9712f"
+            xmpMM:InstanceID="xmp.iid:2d466422-2ab0-4733-a9fd-f94b640c0136"
+            xmpMM:OriginalDocumentID="7D3747D01FA7236751620A37F00BE1E0">
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}2"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:d8035821-5e1d-4691-833c-5e70c7f903c1"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2019 (Macintosh)"
+                    stEvt:when="{Date}2019-10-02T12:02:30.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:2d466422-2ab0-4733-a9fd-f94b640c0136"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2019 (Macintosh)"
+                    stEvt:when="{Date}2019-10-02T12:27:29.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <man
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.184Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8695205450057983"
+                    isCustom="{Boolean}false"
+                    name="man"/>
+                <portrait
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.184Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8437919020652771"
+                    isCustom="{Boolean}false"
+                    name="portrait"/>
+                <face
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.184Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8021564483642578"
+                    isCustom="{Boolean}false"
+                    name="face"/>
+                <male
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.185Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.8012878894805908"
+                    isCustom="{Boolean}false"
+                    name="male"/>
+                <adult
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.185Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7742956280708313"
+                    isCustom="{Boolean}false"
+                    name="adult"/>
+                <young
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.185Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7676661014556885"
+                    isCustom="{Boolean}false"
+                    name="young"/>
+                <handsome
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.186Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7491799592971802"
+                    isCustom="{Boolean}false"
+                    name="handsome"/>
+                <caucasian
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.186Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7394675016403198"
+                    isCustom="{Boolean}false"
+                    name="caucasian"/>
+                <people
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.186Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7373437285423279"
+                    isCustom="{Boolean}false"
+                    name="people"/>
+                <casual
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.187Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7113214731216431"
+                    isCustom="{Boolean}false"
+                    name="casual"/>
+                <guy
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.187Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7095109224319458"
+                    isCustom="{Boolean}false"
+                    name="guy"/>
+                <person
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.187Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7017443776130676"
+                    isCustom="{Boolean}false"
+                    name="person"/>
+                <white
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.188Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.699290931224823"
+                    isCustom="{Boolean}false"
+                    name="white"/>
+                <men
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.188Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6742606163024902"
+                    isCustom="{Boolean}false"
+                    name="men"/>
+                <closeup
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.188Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6728361248970032"
+                    isCustom="{Boolean}false"
+                    name="closeup"/>
+                <attractive
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.189Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6686948537826538"
+                    isCustom="{Boolean}false"
+                    name="attractive"/>
+                <background
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.189Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6510308980941772"
+                    isCustom="{Boolean}false"
+                    name="background"/>
+                <close-up
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.189Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6462779641151428"
+                    isCustom="{Boolean}false"
+                    name="close-up"/>
+                <eyes
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.190Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6458319425582886"
+                    isCustom="{Boolean}false"
+                    name="eyes"/>
+                <isolated
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.190Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6443356275558472"
+                    isCustom="{Boolean}false"
+                    name="isolated"/>
+                <hair
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.191Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6392409205436707"
+                    isCustom="{Boolean}false"
+                    name="hair"/>
+                <one
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.191Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6363226771354675"
+                    isCustom="{Boolean}false"
+                    name="one"/>
+                <beauty
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.191Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6317833662033081"
+                    isCustom="{Boolean}false"
+                    name="beauty"/>
+                <fashion
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.192Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6277536153793335"
+                    isCustom="{Boolean}false"
+                    name="fashion"/>
+                <head
+                    jcr:lastModified="{Date}2022-03-23T20:47:00.192Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6269322037696838"
+                    isCustom="{Boolean}false"
+                    name="head"/>
+            </predictedTags>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:47:00.194Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+        <usages
+            dam:score="{Long}1"
+            jcr:primaryType="nt:unstructured"
+            usedBy="[aem]">
+            <aem
+                jcr:primaryType="nt:unstructured"
+                count="{Long}1"
+                lastUsed="{Date}2019-10-02T12:43:14.184-07:00"/>
+        </usages>
+    </jcr:content>
+</jcr:root>
