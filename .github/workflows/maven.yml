@@ -14,7 +14,6 @@ jobs:
       matrix:
         os: [ ubuntu-latest ]
         java: [8, 11]
-        profile: [ '', '-Pclassic']
 
     steps:
       # Check out Git repository
@@ -37,4 +36,4 @@ jobs:
             ${{ runner.os }}-maven-
       # Build & Test
       - name: Build & Test with Maven
-        run: mvn clean install ${{ matrix.profile }}
+        run: mvn clean install
