@@ -25,7 +25,7 @@ Add the WKND Shared artifact as a dependency to other WKND project's `all/pom.xm
 <dependencies>
     ...
     <dependency>
-        <groupId>com.adobe.aem.guides.wknd-shared</groupId>
+        <groupId>com.adobe.aem.guides</groupId>
         <artifactId>aem-guides-wknd-shared.all</artifactId>
         <version>1.0.0</version>
         <type>zip</type>
@@ -47,7 +47,7 @@ Then embed the `aem-guides-wknd-shared.all` artifact in the other WKND project's
             <embeddeds>
                 ...
                 <embedded>
-                    <groupId>com.adobe.aem.guides.wknd-shared</groupId>
+                    <groupId>com.adobe.aem.guides</groupId>
                     <artifactId>aem-guides-wknd-shared.all</artifactId>
                     <type>zip</type>
                     <target>/apps/the-wknd-app-packages/content/install</target>
