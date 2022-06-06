@@ -60,8 +60,8 @@
         <bnd.version>5.1.2</bnd.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <aem.sdk.api>2022.3.6698.20220318T233218Z-220100</aem.sdk.api>
-        <aemanalyser.version>1.4.0</aemanalyser.version>
+        <aem.sdk.api>2022.5.7575.20220530T152407Z-220401</aem.sdk.api>
+        <aemanalyser.version>1.4.10</aemanalyser.version>
         <componentGroupName>WKND Shared</componentGroupName>
     </properties>
 
@@ -89,15 +89,23 @@
         <plugins>
             <!-- Maven Release Plugin -->
             <plugin>
-                <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-release-plugin</artifactId>
-                <version>2.5.3</version>
+                <version>3.0.0-M5</version>
                 <configuration>
                     <scmCommentPrefix>[maven-scm] :</scmCommentPrefix>
                     <preparationGoals>clean install</preparationGoals>
-                    <goals>install</goals>
+                    <goals>deploy</goals>
                     <releaseProfiles>release</releaseProfiles>
+                    <autoVersionSubmodules>true</autoVersionSubmodules>
+                    <projectVersionPolicyId>OddEvenVersionPolicy</projectVersionPolicyId>
                 </configuration>
+                <dependencies>
+                    <dependency>
+                        <groupId>org.apache.maven.release</groupId>
+                        <artifactId>maven-release-oddeven-policy</artifactId>
+                        <version>3.0.0-M5</version>
+                    </dependency>
+                </dependencies>
             </plugin>
             <!-- Maven Enforcer Plugin -->
             <plugin>
@@ -466,13 +474,6 @@ Bundle-DocURL:
         </pluginManagement>
     </build>
 
-    <distributionManagement>
-        <snapshotRepository>
-            <id>ossrh</id>
-            <url>https://s01.oss.sonatype.org/content/repositories/snapshots</url>
-        </snapshotRepository>
-    </distributionManagement>
-
     <profiles>
         <!-- Development profile: install only the bundle -->
         <profile>
@@ -661,4 +662,15 @@ Bundle-DocURL:
         </dependencies>
     </dependencyManagement>
 
+    <distributionManagement>
+        <repository>
+            <id>${releaseRepository-Id}</id>
+            <url>${releaseRepository-URL}</url>
+        </repository>
+        <snapshotRepository>
+            <id>${snapshotRepository-Id}</id>
+            <url>${snapshotRepository-URL}</url>
+            <uniqueVersion>false</uniqueVersion>
+        </snapshotRepository>
+    </distributionManagement>
 </project>
