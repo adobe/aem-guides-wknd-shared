@@ -24,5 +24,5 @@
     <filter root="/conf/wknd-shared" mode="update"/>
     <filter root="/content/cq:tags/wknd-shared" mode="update"/>
     <filter root="/content/dam/wknd-shared" mode="update"/>
-    <filter root="/content/cq:graphql/wknd-shared" mode="update"/>
+    <filter root="/content/cq:graphql" mode="update"/>
 </workspaceFilter>
