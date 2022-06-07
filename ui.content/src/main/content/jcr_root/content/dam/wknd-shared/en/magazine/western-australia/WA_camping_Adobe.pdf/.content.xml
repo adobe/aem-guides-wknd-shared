@@ -26,7 +26,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="1f576d62-a6b7-4f96-a1e2-3e328e63b585">
     <jcr:content
-        cq:name="WA_camping_Adobe.pdf"
+        cq:name="wa_camping_adobe.pdf"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/western-australia"
         dam:assetState="processed"
         dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
