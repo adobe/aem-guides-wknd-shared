@@ -26,7 +26,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="b6ae783f-ecf7-49a5-b4f0-1f7fabd30c96">
     <jcr:content
-        cq:name="Skitouring1Sjoeberg.JPG"
+        cq:name="skitouring1sjoeberg"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/skitouring"
         dam:assetState="processed"
         dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"

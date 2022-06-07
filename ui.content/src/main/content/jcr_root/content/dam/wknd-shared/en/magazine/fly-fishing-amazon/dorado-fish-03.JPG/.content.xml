@@ -26,7 +26,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="a518cec3-d1a3-4625-bc58-80217d7b9d38">
     <jcr:content
-        cq:name="dorado-fish-03.JPG"
+        cq:name="dorado-fish-03.jpg"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/fly-fishing-amazon"
         dam:assetState="processed"
         dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"

@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:Iptc4xmpExt="http://iptc.org/std/Iptc4xmpExt/2008-02-29/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:prismusagerights="http://prismstandard.org/namespaces/prismusagerights/2.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="5913888c-7234-4d55-9c54-46e4e4357c89">
+    <jcr:content
+        cq:name="adobestock-277768563.jpeg"
+        cq:parentPath="/content/dam/wknd-shared/en/adventures/climbing-new-zealand"
+        dam:assetState="processed"
+        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:processingId="24d374f5-10f2-4324-b46f-5158858d1b5a"
+        dam:processingRenditions="[cq5dam.thumbnail.48.48.png,cqdam.metadata.xml,cqdam.machine.metadata.tags.json,cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.140.100.png,cq5dam.web.1280.1280.jpeg,cqdam.text.txt,cqdam.machine.metadata.features.json]"
+        dam:processingRequestedDate="{Date}2022-03-23T20:43:54.735Z"
+        dam:runPostProcess="{Boolean}true"
+        jcr:lastModified="{Date}2022-03-23T20:44:18.863Z"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent">
+        <dam:failedRenditions jcr:primaryType="nt:unstructured">
+            <cqdam.text.txt
+                jcr:primaryType="nt:unstructured"
+                message="Text extraction (fmt=txt) is not supported for jpeg files"
+                reason="RenditionFormatUnsupported"/>
+        </dam:failedRenditions>
+        <metadata
+            dam:Bitsperpixel="{Long}24"
+            dam:DigitalCreationDate="{Long}20190608"
+            dam:DigitalCreationTime="191058-0700"
+            dam:extracted="{Date}2022-03-23T20:44:06.897Z"
+            dam:Fileformat="JPEG"
+            dam:MIMEtype="image/jpeg"
+            dam:Numberofimages="{Long}1"
+            dam:Numberoftextualcomments="{Long}0"
+            dam:Physicalheightindpi="{Long}72"
+            dam:Physicalheightininches="{Decimal}13.38888931274414"
+            dam:Physicalwidthindpi="{Long}72"
+            dam:Physicalwidthininches="{Decimal}20.09722137451172"
+            dam:Progressive="no"
+            dam:sha1="d7cb8e901b0af156f572843ad43479d667bb1ed4"
+            dam:size="{Long}174300"
+            dam:TimeCreated="191058-0700"
+            dc:creator="[Fran Mares]"
+            dc:creator_xmpArrayType="rdf:Seq"
+            dc:date="{Long}[20190608]"
+            dc:date_xmpArrayType="rdf:Seq"
+            dc:description="Back view of woman in hat and coat standing on high peak holding hands apart against majestic terrain with lake and mountains"
+            dc:format="image/jpeg"
+            dc:modified="{Date}2019-10-24T15:53:31.793-07:00"
+            dc:rights="Fran Mares"
+            dc:subject="[woman,mountain,freedom,peak,hands apart,travel,trekking,sky,adventure,nature,landscape,posture,explore,happy,rock,tourist,view,hat,activity,peace,vacation,height,altitude,achievement,coat,top,climb,hike,journey,tourism,destination,valley,gesture,standing,back view,copy space,anonymous,unrecognizable,blurred background,horizontal,new zealand,rosy peak,fm,woman,mountain,freedom,peak,hands apart,travel,trekking,sky,adventure,nature,landscape,posture,explore,happy,rock,tourist,view,hat,activity,peace,vacation,height,altitude,achievement,coat,top,climb,hike,journey,tourism,destination,valley,gesture,standing,back view,copy space,anonymous,unrecognizable,blurred background,horizontal,new zealand,rosy peak,fm,woman,mountain,freedom,peak,hands apart,travel,trekking,sky,adventure,nature,landscape,posture,explore,happy,rock,tourist,view,hat,activity,peace,vacation,height,altitude,achievement,coat,top,climb,hike,journey,tourism,destination,valley,gesture,standing,back view,copy space,anonymous,unrecognizable,blurred background,horizontal,new zealand,rosy peak,fm]"
+            dc:subject_xmpArrayType="rdf:Bag"
+            dc:title="Woman with hands apart against mountain valley"
+            exif:ColorSpace="{Long}1"
+            exif:ComponentsConfiguration="{Long}[1,2,3,0]"
+            exif:ComponentsConfiguration_xmpArrayType="rdf:Seq"
+            exif:DateTimeOriginal="{Date}2019-06-08T19:10:58.000Z"
+            exif:ExifVersion="0231"
+            exif:FlashpixVersion="0100"
+            exif:PixelXDimension="{Long}1447"
+            exif:PixelYDimension="{Long}964"
+            Iptc4xmpExt:AddlModelInfo="MR_MartaRipoll.jpg, MR_MariaGarcia.jpg, MR_FranMares.jpg, MR_SaraAntolin.jpg"
+            jcr:lastModified="{Date}2019-10-25T16:47:38.855-07:00"
+            jcr:lastModifiedBy="admin"
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"
+            jcr:title="Woman with hands apart against mountain valley"
+            photoshop:ColorMode="{Long}3"
+            photoshop:Country="Spain"
+            photoshop:Credit="Fran Mares/ADDICTIVE STOCK - sto"
+            photoshop:DateCreated="{Date}2019-06-08T19:10:58.000-07:00"
+            photoshop:Headline="MR_MartaRipoll.jpg, MR_MariaGarcia.jpg, MR_FranMares.jpg, MR_SaraAntolin.jpg"
+            photoshop:ICCProfile="sRGB IEC61966-2.1"
+            photoshop:LegacyIPTCDigest="B7D87D1AC479E8EC42E040CBA48968F9"
+            photoshop:Source="277768563"
+            prismusagerights:creditLine="[Fran Mares/ADDICTIVE STOCK - stock.adobe.com]"
+            prismusagerights:creditLine_xmpArrayType="rdf:Bag"
+            tiff:BitsPerSample="{Long}[8,8,8]"
+            tiff:BitsPerSample_xmpArrayType="rdf:Seq"
+            tiff:ImageLength="{Long}964"
+            tiff:ImageWidth="{Long}1447"
+            tiff:Orientation="{Long}1"
+            tiff:PhotometricInterpretation="{Long}2"
+            tiff:ResolutionUnit="{Long}2"
+            tiff:SamplesPerPixel="{Long}3"
+            tiff:XResolution="720000/10000"
+            tiff:YCbCrPositioning="{Long}1"
+            tiff:YCbCrSubSampling="{Long}[0]"
+            tiff:YCbCrSubSampling_xmpArrayType="rdf:Seq"
+            tiff:YResolution="720000/10000"
+            xmp:CreateDate="{Date}2019-06-08T19:10:58.000-07:00"
+            xmp:CreatorTool="Adobe Photoshop CC 2019 (Macintosh)"
+            xmp:MetadataDate="{Date}2019-10-24T15:21:40.000-07:00"
+            xmp:ModifyDate="{Date}2019-10-24T15:21:40.000-07:00"
+            xmpMM:DocumentID="607C45A48854FB1E132F7C2692696052"
+            xmpMM:InstanceID="xmp.iid:e0415e2c-f6cf-47d0-b763-a3bcb8479783"
+            xmpMM:OriginalDocumentID="607C45A48854FB1E132F7C2692696052"
+            xmpRights:Marked="{Boolean}true"
+            xmpRights:UsageTerms="[Thank you for your interest in Adobe’s products and services! The images in this demo website are from Adobe Stock and are Third Party Material as  defined in the Demo Asset Additional Terms   at https://www.adobe.com/legal/terms.html.  ]"
+            xmpRights:UsageTerms_xmpArrayType="rdf:Alt"
+            lastTransferredForTagging="{Date}2019-10-24T15:53:16.614-07:00"
+            simsearchVersion="1.0.0">
+            <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
+            <xmpMM:History
+                jcr:primaryType="nt:unstructured"
+                xmpArraySize="{Long}3"
+                xmpArrayType="rdf:Seq"
+                xmpNodeType="xmpArray">
+                <_x0031_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/metadata"
+                    stEvt:instanceID="xmp.iid:e5843507-ee15-4367-a475-26fb681c4b2c"
+                    stEvt:softwareAgent="Adobe Photoshop Camera Raw 11.3"
+                    stEvt:when="{Date}2019-06-21T13:42:34.000+02:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0032_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/metadata"
+                    stEvt:instanceID="xmp.iid:41bd3897-1dd6-490b-8222-b482298d89cb"
+                    stEvt:softwareAgent="Adobe Photoshop Camera Raw 11.3.1 (Macintosh)"
+                    stEvt:when="{Date}2019-06-21T13:42:34.000+02:00"
+                    xmpNodeType="xmpStruct"/>
+                <_x0033_
+                    jcr:primaryType="nt:unstructured"
+                    stEvt:action="saved"
+                    stEvt:changed="/"
+                    stEvt:instanceID="xmp.iid:e0415e2c-f6cf-47d0-b763-a3bcb8479783"
+                    stEvt:softwareAgent="Adobe Photoshop CC 2019 (Macintosh)"
+                    stEvt:when="{Date}2019-10-24T15:21:40.000-07:00"
+                    xmpNodeType="xmpStruct"/>
+            </xmpMM:History>
+            <predictedTags jcr:primaryType="nt:unstructured">
+                <mountain
+                    jcr:lastModified="{Date}2022-03-23T20:44:07.993Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.7091294527053833"
+                    isCustom="{Boolean}false"
+                    name="mountain"/>
+                <man
+                    jcr:lastModified="{Date}2022-03-23T20:44:07.993Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.706454873085022"
+                    isCustom="{Boolean}false"
+                    name="man"/>
+                <sky
+                    jcr:lastModified="{Date}2022-03-23T20:44:07.994Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6994034051895142"
+                    isCustom="{Boolean}false"
+                    name="sky"/>
+                <nature
+                    jcr:lastModified="{Date}2022-03-23T20:44:07.994Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6664481163024902"
+                    isCustom="{Boolean}false"
+                    name="nature"/>
+                <freedom
+                    jcr:lastModified="{Date}2022-03-23T20:44:07.995Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6563165187835693"
+                    isCustom="{Boolean}false"
+                    name="freedom"/>
+                <sea
+                    jcr:lastModified="{Date}2022-03-23T20:44:07.995Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6426178216934204"
+                    isCustom="{Boolean}false"
+                    name="sea"/>
+                <silhouette
+                    jcr:lastModified="{Date}2022-03-23T20:44:07.995Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6354942917823792"
+                    isCustom="{Boolean}false"
+                    name="silhouette"/>
+                <beach
+                    jcr:lastModified="{Date}2022-03-23T20:44:07.996Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6291994452476501"
+                    isCustom="{Boolean}false"
+                    name="beach"/>
+                <blue
+                    jcr:lastModified="{Date}2022-03-23T20:44:07.997Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6265393495559692"
+                    isCustom="{Boolean}false"
+                    name="blue"/>
+                <rock
+                    jcr:lastModified="{Date}2022-03-23T20:44:07.998Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.622164785861969"
+                    isCustom="{Boolean}false"
+                    name="rock"/>
+                <sunset
+                    jcr:lastModified="{Date}2022-03-23T20:44:07.998Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6217894554138184"
+                    isCustom="{Boolean}false"
+                    name="sunset"/>
+                <woman
+                    jcr:lastModified="{Date}2022-03-23T20:44:07.999Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.6117320656776428"
+                    isCustom="{Boolean}false"
+                    name="woman"/>
+                <business
+                    jcr:lastModified="{Date}2022-03-23T20:44:07.999Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5814298987388611"
+                    isCustom="{Boolean}false"
+                    name="business"/>
+                <landscape
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.000Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5790345668792725"
+                    isCustom="{Boolean}false"
+                    name="landscape"/>
+                <businessman
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.001Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5700740814208984"
+                    isCustom="{Boolean}false"
+                    name="businessman"/>
+                <happy
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.001Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5675064325332642"
+                    isCustom="{Boolean}false"
+                    name="happy"/>
+                <people
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.002Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5661131739616394"
+                    isCustom="{Boolean}false"
+                    name="people"/>
+                <men
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.003Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5604438781738281"
+                    isCustom="{Boolean}false"
+                    name="men"/>
+                <standing
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.004Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5561860799789429"
+                    isCustom="{Boolean}false"
+                    name="standing"/>
+                <water
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.004Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5555869340896606"
+                    isCustom="{Boolean}false"
+                    name="water"/>
+                <adult
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.005Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5555487871170044"
+                    isCustom="{Boolean}false"
+                    name="adult"/>
+                <happiness
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.006Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5549013614654541"
+                    isCustom="{Boolean}false"
+                    name="happiness"/>
+                <ocean
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.007Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5540040135383606"
+                    isCustom="{Boolean}false"
+                    name="ocean"/>
+                <success
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.007Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5496425628662109"
+                    isCustom="{Boolean}false"
+                    name="success"/>
+                <beautiful
+                    jcr:lastModified="{Date}2022-03-23T20:44:08.008Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.5496039390563965"
+                    isCustom="{Boolean}false"
+                    name="beautiful"/>
+            </predictedTags>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-03-23T20:44:13.505Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+        </metadata>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

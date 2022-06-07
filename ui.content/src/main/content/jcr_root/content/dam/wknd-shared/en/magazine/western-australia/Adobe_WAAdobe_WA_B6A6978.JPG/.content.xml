@@ -26,7 +26,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="0cabb561-f5cb-45ca-b95a-3e744ce790db">
     <jcr:content
-        cq:name="Adobe_WAAdobe_WA_B6A6978.JPG"
+        cq:name="adobe_waadobe_wa_b6a6978.jpg"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/western-australia"
         dam:assetState="processed"
         dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"

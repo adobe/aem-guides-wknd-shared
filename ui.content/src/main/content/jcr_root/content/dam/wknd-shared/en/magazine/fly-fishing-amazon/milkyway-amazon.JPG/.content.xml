@@ -26,7 +26,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="ed58ad67-1709-44cb-b08c-d2ecda7135d6">
     <jcr:content
-        cq:name="milkyway-amazon.JPG"
+        cq:name="milkyway-amazon.jpg"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/fly-fishing-amazon"
         dam:assetState="processed"
         dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"

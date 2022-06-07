@@ -26,7 +26,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="82b254c9-b8ab-497a-b6e4-f37c4cd19148">
     <jcr:content
-        cq:name="surfer-wave-02.JPG"
+        cq:name="surfer-wave-02.jpg"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/arctic-surfing"
         dam:assetState="processed"
         dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"

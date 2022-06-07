@@ -26,7 +26,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="b56212a0-ee3e-446a-a9e1-74d959b9e4d8">
     <jcr:content
-        cq:name="plane.JPG"
+        cq:name="plane.jpg"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/alaska-adventure"
         dam:assetState="processed"
         dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"

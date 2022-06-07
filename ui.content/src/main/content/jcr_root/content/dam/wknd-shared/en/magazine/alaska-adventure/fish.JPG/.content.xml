@@ -26,7 +26,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="fb9628be-8c23-4e1b-a4ed-78fc1361e50d">
     <jcr:content
-        cq:name="fish.JPG"
+        cq:name="fish.jpg"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/alaska-adventure"
         dam:assetState="processed"
         dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"

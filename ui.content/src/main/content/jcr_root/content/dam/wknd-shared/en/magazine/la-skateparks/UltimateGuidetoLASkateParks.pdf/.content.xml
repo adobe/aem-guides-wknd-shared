@@ -26,7 +26,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="8b070548-46c1-4249-9b92-7805629fbb8f">
     <jcr:content
-        cq:name="UltimateGuidetoLASkateParks.pdf"
+        cq:name="ultimateguidetolaskateparks.pdf"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/la-skateparks"
         dam:assetState="processed"
         dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
