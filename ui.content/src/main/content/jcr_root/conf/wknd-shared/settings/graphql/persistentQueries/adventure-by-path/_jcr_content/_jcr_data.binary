@@ -1,6 +1,6 @@
 # Get an adventure by path
 # Expects query variables like:
-# {"adventurePath": "/content/dam/wknd/en/adventures/bali-surf-camp/bali-surf-camp"}
+# {"adventurePath": "/content/dam/wknd-shared/en/adventures/bali-surf-camp/bali-surf-camp"}
 query getAdventureByPath($adventurePath: String!) {
   adventureByPath(_path: $adventurePath) {
     item {
