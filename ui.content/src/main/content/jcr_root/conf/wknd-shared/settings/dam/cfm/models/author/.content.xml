@@ -25,15 +25,16 @@
     allowedPaths="[/content/entities(/.*)?]"
     ranking="{Long}100">
     <jcr:content
-        cq:lastModified="{Date}2022-06-01T10:17:19.470-07:00"
+        cq:lastModified="{Date}2022-05-27T14:26:35.544-07:00"
         cq:lastModifiedBy="admin"
-        cq:scaffolding="/conf/wknd-shared/settings/dam/cfm/models/article/jcr:content/model"
+        cq:scaffolding="/conf/wknd-shared/settings/dam/cfm/models/author/jcr:content/model"
         cq:templateType="/libs/settings/dam/cfm/model-types/fragment"
-        jcr:description="Travel Article"
         jcr:primaryType="cq:PageContent"
-        jcr:title="Article"
+        jcr:title="Author"
         sling:resourceSuperType="dam/cfm/models/console/components/data/entity"
-        sling:resourceType="dam/cfm/models/console/components/data/entity/default">
+        sling:resourceType="dam/cfm/models/console/components/data/entity/default"
+        status="enabled">
+        <metadata jcr:primaryType="nt:unstructured"/>
         <model
             cq:targetPath="/content/entities"
             jcr:primaryType="cq:PageContent"
@@ -44,58 +45,52 @@
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="cq/gui/components/authoring/dialog">
                 <content
-                    jcr:lastModified="{Date}2022-06-01T10:17:19.470-07:00"
+                    jcr:lastModified="{Date}2022-05-27T14:26:35.544-07:00"
                     jcr:lastModifiedBy="admin"
                     jcr:primaryType="nt:unstructured"
                     sling:resourceType="granite/ui/components/coral/foundation/fixedcolumns">
                     <items
                         jcr:primaryType="nt:unstructured"
                         maxGeneratedOrder="20">
-                        <_x0031_653589924762
+                        <_x0031_653426681708
                             jcr:primaryType="nt:unstructured"
                             sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
-                            fieldLabel="Title"
+                            fieldLabel="First Name"
                             listOrder="1"
                             maxlength="255"
                             metaType="text-single"
-                            name="title"
-                            renderReadOnly="false"
-                            showEmptyInReadOnly="true"
-                            translatable="true"
-                            valueType="string">
-                            <granite:data jcr:primaryType="nt:unstructured"/>
-                        </_x0031_653589924762>
-                        <_x0031_654102303800
-                            jcr:primaryType="nt:unstructured"
-                            sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
-                            emptyText="Short path to uniquely identify the article"
-                            fieldDescription="A short path to be used to uniquely identify the article. Can be used for pathing in client applications."
-                            fieldLabel="Slug"
-                            listOrder="1"
-                            maxlength="255"
-                            metaType="text-single"
-                            name="slug"
+                            name="firstName"
                             renderReadOnly="false"
                             required="on"
                             showEmptyInReadOnly="true"
-                            unique="true"
-                            validation="cfm.validation.custom"
                             valueType="string">
-                            <granite:data
-                                jcr:primaryType="nt:unstructured"
-                                customErrorMsg="Slug must be at least 5 characters in length, lower case, using only letters and numbers and no spaces. Only special characters that can be used are dashes and underscore."
-                                validationRegex="^[a-z0-9\\-_]{5,40}$"/>
-                        </_x0031_654102303800>
-                        <_x0031_653685896712
+                            <granite:data jcr:primaryType="nt:unstructured"/>
+                        </_x0031_653426681708>
+                        <_x0031_653426688473
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="granite/ui/components/coral/foundation/form/textfield"
+                            fieldLabel="Last Name"
+                            listOrder="1"
+                            maxlength="255"
+                            metaType="text-single"
+                            name="lastName"
+                            renderReadOnly="false"
+                            required="on"
+                            showEmptyInReadOnly="true"
+                            valueType="string">
+                            <granite:data jcr:primaryType="nt:unstructured"/>
+                        </_x0031_653426688473>
+                        <_x0031_653427438847
                             jcr:primaryType="nt:unstructured"
                             sling:resourceType="dam/cfm/models/editor/components/contentreference"
-                            fieldLabel="Featured Image"
+                            fieldLabel="Profile Picture"
                             filter="hierarchy"
                             listOrder="8"
                             metaType="reference"
-                            name="featuredImage"
+                            name="profilePicture"
                             nameSuffix="contentReference"
                             renderReadOnly="false"
+                            required="on"
                             rootPath="/content/dam/wknd"
                             showEmptyInReadOnly="true"
                             showThumbnail="true"
@@ -105,41 +100,90 @@
                                 jcr:primaryType="nt:unstructured"
                                 showThumbnail="true"
                                 thumbnail-validation="cfm.validation.thumbnail.show"/>
-                        </_x0031_653685896712>
-                        <_x0031_653589942228
+                        </_x0031_653427438847>
+                        <_x0031_653585498810
                             jcr:primaryType="nt:unstructured"
-                            sling:resourceType="dam/cfm/models/editor/components/fragmentreference"
-                            allowNew="{Boolean}true"
-                            fieldLabel="Author"
-                            filter="hierarchy"
-                            fragmentmodelreference="/conf/wknd-shared/settings/dam/cfm/models/author"
-                            listOrder="9"
-                            metaType="fragment-reference"
-                            name="authorFragment"
-                            nameSuffix="contentReference"
+                            sling:resourceType="dam/cfm/models/editor/components/datatypes/datepicker"
+                            displayedFormat="YYYY-MM-DD HH:mm"
+                            emptyText="[YYYY-MM-DD HH:mm,YYYY-MM-DD HH:mm]"
+                            fieldLabel="Birth Day"
+                            listOrder="5"
+                            metaType="date"
+                            name="birthDay"
                             renderReadOnly="false"
-                            rootPath="/content/dam/wknd"
                             showEmptyInReadOnly="true"
-                            valueType="string/content-fragment">
-                            <field
+                            type="datetime"
+                            valueFormat="YYYY-MM-DD[T]HH:mm:ss.000Z"
+                            valueType="calendar/datetime">
+                            <granite:data
                                 jcr:primaryType="nt:unstructured"
-                                rootPath="/content/dam/wknd"/>
-                            <granite:data jcr:primaryType="nt:unstructured"/>
-                        </_x0031_653589942228>
-                        <_x0031_569504252173
+                                typeHint="Date"/>
+                        </_x0031_653585498810>
+                        <_x0031_653427483451
                             jcr:primaryType="nt:unstructured"
                             sling:resourceType="dam/cfm/admin/components/authoring/contenteditor/multieditor"
-                            cfm-element="Main"
+                            cfm-element="Biography"
                             checked="true"
                             default-mime-type="text/html"
                             fragmentmodelreference="[/conf/wknd-shared/settings/dam/cfm/models/adventure,/conf/wknd-shared/settings/dam/cfm/models/article]"
                             listOrder="2"
                             metaType="text-multi"
-                            name="main"
+                            name="biography"
                             renderReadOnly="false"
                             showEmptyInReadOnly="true"
                             translatable="true"
-                            valueType="string"/>
+                            valueType="string/multiline"/>
+                        <_x0031_653427609216
+                            jcr:primaryType="nt:unstructured"
+                            sling:resourceType="dam/cfm/admin/components/authoring/contenteditor/multicheckbox"
+                            emptyOption="{Boolean}true"
+                            fieldLabel="Occupations"
+                            listOrder="6"
+                            metaType="enumeration"
+                            name="occupations"
+                            renderReadOnly="false"
+                            showEmptyInReadOnly="true"
+                            valueType="string[]">
+                            <optionsmultifield jcr:primaryType="nt:unstructured">
+                                <item0
+                                    jcr:primaryType="nt:unstructured"
+                                    fieldLabel="Artist"
+                                    fieldValue="Artist"/>
+                                <item1
+                                    jcr:primaryType="nt:unstructured"
+                                    fieldLabel="Blogger"
+                                    fieldValue="Blogger"/>
+                                <item2
+                                    jcr:primaryType="nt:unstructured"
+                                    fieldLabel="Influencer"
+                                    fieldValue="Influencer"/>
+                                <item3
+                                    jcr:primaryType="nt:unstructured"
+                                    fieldLabel="Photographer"
+                                    fieldValue="Photographer"/>
+                                <item4
+                                    jcr:primaryType="nt:unstructured"
+                                    fieldLabel="Surfer"
+                                    fieldValue="Surfer"/>
+                                <item5
+                                    jcr:primaryType="nt:unstructured"
+                                    fieldLabel="Traveler"
+                                    fieldValue="Traveler"/>
+                                <item6
+                                    jcr:primaryType="nt:unstructured"
+                                    fieldLabel="Writer"
+                                    fieldValue="Writer"/>
+                                <item7
+                                    jcr:primaryType="nt:unstructured"
+                                    fieldLabel="YouTuber"
+                                    fieldValue="YouTuber"/>
+                            </optionsmultifield>
+                            <datasource
+                                jcr:primaryType="nt:unstructured"
+                                sling:resourceType="dam/cfm/admin/components/datasources/optionrendererenumeration"
+                                variant="default"/>
+                            <granite:data jcr:primaryType="nt:unstructured"/>
+                        </_x0031_653427609216>
                     </items>
                 </content>
             </cq:dialog>

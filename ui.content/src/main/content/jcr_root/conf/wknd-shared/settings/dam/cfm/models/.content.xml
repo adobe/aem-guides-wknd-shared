@@ -24,4 +24,5 @@
     jcr:primaryType="cq:Page">
     <article/>
     <adventure/>
+    <author/>
 </jcr:root>
