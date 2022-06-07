@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  ~   Copyright (c) 2022 Adobe
+  ~
+  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~   this software and associated documentation files (the "Software"), to deal in
+  ~   the Software without restriction, including without limitation the rights to
+  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~   the Software, and to permit persons to whom the Software is furnished to do so,
+  ~   subject to the following conditions:
+  ~
+  ~   The above copyright notice and this permission notice shall be included in all
+  ~   copies or substantial portions of the Software.
+  ~
+  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  -->
+
+<jcr:root xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
+    jcr:isCheckedOut="{Boolean}true"
+    jcr:mixinTypes="[mix:referenceable,mix:versionable]"
+    jcr:primaryType="dam:Asset"
+    jcr:uuid="ab7967b4-257c-4785-8753-3c19b94447c8">
+    <jcr:content
+        cq:name="sofia-sj-berg"
+        cq:parentPath="/content/dam/wknd-shared/en/contributors"
+        jcr:lastModified="{Date}2022-05-26T14:18:03.026-07:00"
+        jcr:lastModifiedBy="admin"
+        jcr:primaryType="dam:AssetContent"
+        jcr:title="Sofia Sjöberg"
+        contentFragment="{Boolean}true"
+        lastFragmentSave="{Date}2022-05-26T14:18:03.026-07:00">
+        <data
+            cq:model="/conf/wknd-shared/settings/dam/cfm/models/author"
+            jcr:primaryType="nt:unstructured">
+            <master
+                jcr:mixinTypes="[cq:Taggable,dam:cfVariationNode]"
+                jcr:primaryType="nt:unstructured"
+                biography_x0040_ContentType="text/html"
+                biography_x0040_LastModified="{Date}2022-05-26T14:18:02.998-07:00"
+                birthDay_x0040_LastModified="{Date}2022-05-26T14:17:29.460-07:00"
+                firstName="Sofia"
+                firstName_x0040_LastModified="{Date}2022-05-26T14:18:02.996-07:00"
+                lastName="Sjöberg"
+                lastName_x0040_LastModified="{Date}2022-05-26T14:18:02.997-07:00"
+                occupations="[Photographer,YouTuber]"
+                occupations_x0040_LastModified="{Date}2022-05-26T14:18:02.998-07:00"
+                profilePicture="/content/dam/wknd-shared/en/contributors/ayo-ogunseinde-237739.jpg"
+                profilePicture_x0040_LastModified="{Date}2022-05-26T14:18:02.997-07:00"/>
+        </data>
+        <metadata
+            jcr:mixinTypes="[cq:Taggable]"
+            jcr:primaryType="nt:unstructured"/>
+        <related jcr:primaryType="nt:unstructured"/>
+    </jcr:content>
+</jcr:root>

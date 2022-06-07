@@ -62,7 +62,7 @@
                     <validatorsSettings>
                         <jackrabbit-filter>
                             <options>
-                                <validRoots>/conf,/content,/content/experience-fragments,/content/dam,/content/cq:tags,/content/cq:graphql</validRoots>
+                                <validRoots>/conf,/content,/content/experience-fragments,/content/dam,/content/cq:tags</validRoots>
                             </options>
                         </jackrabbit-filter>
                     </validatorsSettings>
