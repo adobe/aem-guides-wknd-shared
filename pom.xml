@@ -689,6 +689,7 @@ Bundle-DocURL:
         </dependencies>
     </dependencyManagement>
 
+    <!-- properties set in .github/workflows/settings.xml -->
     <distributionManagement>
         <repository>
             <id>${releaseRepository-Id}</id>
