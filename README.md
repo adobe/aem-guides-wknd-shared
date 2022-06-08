@@ -50,7 +50,7 @@ Then embed the `aem-guides-wknd-shared.all` artifact in the other WKND project's
                     <groupId>com.adobe.aem.guides</groupId>
                     <artifactId>aem-guides-wknd-shared.all</artifactId>
                     <type>zip</type>
-                    <target>/apps/the-wknd-app-packages/content/install</target>
+                    <target>/apps/the-wknd-app-packages/container/install</target>
                 </embedded>
                 ...
             </embeddeds>
