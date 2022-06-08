@@ -26,7 +26,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="17684934-32df-48d1-acae-f9aabf0f0ef2">
     <jcr:content
-        cq:name="northern-lights.JPG"
+        cq:name="northern-lights.jpg"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/arctic-surfing"
         dam:assetState="processed"
         dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"

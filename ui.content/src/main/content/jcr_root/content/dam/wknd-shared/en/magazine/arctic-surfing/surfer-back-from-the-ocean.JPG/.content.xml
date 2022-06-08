@@ -26,7 +26,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="dd42d814-88ec-4c4d-b5ef-e3dc4bc0cb42">
     <jcr:content
-        cq:name="surfer-back-from-the-ocean.JPG"
+        cq:name="surfer-back-from-the-ocean.jpg"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/arctic-surfing"
         dam:assetState="processed"
         dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"

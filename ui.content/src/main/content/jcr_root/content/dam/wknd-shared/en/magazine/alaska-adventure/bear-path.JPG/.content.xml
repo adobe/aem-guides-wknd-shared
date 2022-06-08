@@ -26,7 +26,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="05fec8d7-db35-47a6-8d33-4f0ebf445515">
     <jcr:content
-        cq:name="bear-path.JPG"
+        cq:name="bear-path.jpg"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/alaska-adventure"
         dam:assetState="processed"
         dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"

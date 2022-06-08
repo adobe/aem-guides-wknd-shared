@@ -23,7 +23,7 @@
 <jcr:root xmlns:dam="http://www.day.com/dam/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:primaryType="nt:file">
     <jcr:content
-        dam:folderThumbnailPaths="[/content/dam/wknd-shared/en/magazine/arctic-surfing/surfer-wave-02.JPG,/content/dam/wknd-shared/en/magazine/arctic-surfing/surfer-back-from-the-ocean.JPG,/content/dam/wknd-shared/en/magazine/arctic-surfing/majestic-rainbow.JPG]"
+        dam:folderThumbnailPaths="[/content/dam/wknd-shared/en/magazine/arctic-surfing/surfer-wave-02.jpg,/content/dam/wknd-shared/en/magazine/arctic-surfing/surfer-back-from-the-ocean.jpg,/content/dam/wknd-shared/en/magazine/arctic-surfing/majestic-rainbow.jpg]"
         jcr:primaryType="nt:unstructured"
         bgcolor="{Long}-1"
         height="{Long}240"

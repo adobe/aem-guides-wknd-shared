@@ -37,7 +37,7 @@
         jcr:lastModified="{Date}2022-03-23T20:44:18.250Z"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent"
-        jcr:title="Adobe_WAAdobe_WA_MG_2466.JPG">
+        jcr:title="Adobe_WAAdobe_WA_MG_2466.jpg">
         <dam:failedRenditions jcr:primaryType="nt:unstructured">
             <cqdam.text.txt
                 jcr:primaryType="nt:unstructured"

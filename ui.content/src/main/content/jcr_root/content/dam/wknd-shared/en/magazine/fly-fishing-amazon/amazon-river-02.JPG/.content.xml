@@ -26,7 +26,7 @@
     jcr:primaryType="dam:Asset"
     jcr:uuid="48388f77-dc67-4f44-8806-7f48339c8645">
     <jcr:content
-        cq:name="amazon-river-02.JPG"
+        cq:name="amazon-river-02.jpg"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/fly-fishing-amazon"
         dam:assetState="processed"
         dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
