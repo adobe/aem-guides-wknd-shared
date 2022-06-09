@@ -10,6 +10,8 @@
         primaryImage {
           ... on ImageRef {
             _path
+            _authorUrl
+            _publishUrl
             mimeType
             width
             height
