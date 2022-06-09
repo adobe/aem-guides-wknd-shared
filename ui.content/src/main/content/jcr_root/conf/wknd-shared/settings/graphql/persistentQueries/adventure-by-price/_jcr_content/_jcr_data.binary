@@ -25,6 +25,8 @@ query filterAdventuresByPrice($price: Float!, $priceOperator: FloatOperator!) {
       primaryImage {
         ... on ImageRef {
           _path
+          _authorUrl
+          _publishUrl
           mimeType
           width
           height

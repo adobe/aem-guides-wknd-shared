@@ -21,6 +21,7 @@ query getAdventureByPath($adventurePath: String!) {
         ...on ImageRef {
           _path
           _authorUrl
+          _publishUrl
           width
           height
           mimeType
