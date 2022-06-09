@@ -35,10 +35,12 @@ query filterAdventuresByPrice($price: Float!, $priceOperator: FloatOperator!) {
       description {
         json
         plaintext
+        html
       }
       itinerary {
         json
         plaintext
+        html
       }
     }
   }
