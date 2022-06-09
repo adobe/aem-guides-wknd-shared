@@ -30,6 +30,7 @@ query getAdventureByPath($adventurePath: String!) {
       itinerary {
         json
         plaintext
+        html
       }
     }
   }
