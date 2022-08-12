@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~   Copyright (c) 2022 Adobe
+  ~  Copyright (c) 2022 Adobe
   ~
-  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
-  ~   this software and associated documentation files (the "Software"), to deal in
-  ~   the Software without restriction, including without limitation the rights to
-  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-  ~   the Software, and to permit persons to whom the Software is furnished to do so,
-  ~   subject to the following conditions:
+  ~  Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~  this software and associated documentation files (the "Software"), to deal in
+  ~  the Software without restriction, including without limitation the rights to
+  ~  use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~  the Software, and to permit persons to whom the Software is furnished to do so,
+  ~  subject to the following conditions:
   ~
-  ~   The above copyright notice and this permission notice shall be included in all
-  ~   copies or substantial portions of the Software.
+  ~  The above copyright notice and this permission notice shall be included in all
+  ~  copies or substantial portions of the Software.
   ~
-  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  ~  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~  FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~  COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~  IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   -->
 
 <jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:prismusagerights="http://prismstandard.org/namespaces/prismusagerights/2.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
@@ -29,12 +29,12 @@
         cq:name="adobestock-209250305.jpeg"
         cq:parentPath="/content/dam/wknd-shared/en/adventures/beervana-portland"
         dam:assetState="processed"
-        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
-        dam:processingId="f7a296a8-88f1-41aa-95cd-bc965c98b136"
-        dam:processingRenditions="[cq5dam.thumbnail.48.48.png,cq5dam.web.1280.1280.jpeg,cqdam.text.txt,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.features.json,cq5dam.zoom.2048.2048.jpeg,cqdam.metadata.xml,cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.tags.json]"
-        dam:processingRequestedDate="{Date}2022-03-23T20:43:55.014Z"
+        dam:asyncJobId="2022/8/12/17/2/7fdf89da-75f9-4cfa-b356-6ee3e7f053a3_1"
+        dam:processingId="503b3463-a432-4985-a5c5-4e2688f653f7"
+        dam:processingRenditions="[cq5dam.web.1280.1280.jpeg,cqdam.metadata.xml,cqdam.machine.metadata.features.json,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.140.100.png,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.colors.json,cqdam.text.txt,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.48.48.png]"
+        dam:processingRequestedDate="{Date}2022-08-12T17:02:41.917Z"
         dam:runPostProcess="{Boolean}true"
-        jcr:lastModified="{Date}2022-03-23T20:44:19.682Z"
+        jcr:lastModified="{Date}2022-08-12T17:03:10.963Z"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <dam:failedRenditions jcr:primaryType="nt:unstructured">
@@ -47,7 +47,7 @@
             dam:Bitsperpixel="{Long}24"
             dam:DigitalCreationDate="{Long}20130201"
             dam:DigitalCreationTime="160322-0800"
-            dam:extracted="{Date}2022-03-23T20:44:07.174Z"
+            dam:extracted="{Date}2022-08-12T17:02:52.098Z"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -56,6 +56,7 @@
             dam:Physicalheightininches="{Decimal}9.44444465637207"
             dam:Physicalwidthindpi="{Long}72"
             dam:Physicalwidthininches="{Decimal}14.208333015441895"
+            dam:predictedColors="{Long}[15021,12017,9015,10015,11014,16012,25006]"
             dam:Progressive="no"
             dam:sha1="df4f78b133c3991cca717b899e603fa003e468df"
             dam:size="{Long}433468"
@@ -153,162 +154,220 @@
                     stEvt:when="{Date}2019-10-24T15:19:00.000-07:00"
                     xmpNodeType="xmpStruct"/>
             </xmpMM:History>
-            <imageFeatures
-                jcr:lastModified="{Date}2022-03-23T20:44:13.783Z"
-                jcr:primaryType="nt:unstructured"
-                haystack0="{Binary}"/>
             <predictedTags jcr:primaryType="nt:unstructured">
                 <city
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.785Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.779Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.8269135355949402"
                     isCustom="{Boolean}false"
                     name="city"/>
                 <landscape
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.785Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.780Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.723570704460144"
                     isCustom="{Boolean}false"
                     name="landscape"/>
                 <view
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.786Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.780Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7125861644744873"
                     isCustom="{Boolean}false"
                     name="view"/>
                 <cityscape
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.787Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.781Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.70599764585495"
                     isCustom="{Boolean}false"
                     name="cityscape"/>
                 <panorama
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.787Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.781Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6575044989585876"
                     isCustom="{Boolean}false"
                     name="panorama"/>
                 <sky
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.788Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.781Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.651419997215271"
                     isCustom="{Boolean}false"
                     name="sky"/>
                 <skyline
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.789Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.782Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6398332118988037"
                     isCustom="{Boolean}false"
                     name="skyline"/>
                 <architecture
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.789Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.782Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6385459303855896"
                     isCustom="{Boolean}false"
                     name="architecture"/>
                 <buildings
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.790Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.783Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6365969777107239"
                     isCustom="{Boolean}false"
                     name="buildings"/>
                 <sea
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.791Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.784Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.635349452495575"
                     isCustom="{Boolean}false"
                     name="sea"/>
                 <urban
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.792Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.784Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6324232816696167"
                     isCustom="{Boolean}false"
                     name="urban"/>
                 <mountain
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.792Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.785Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6263503432273865"
                     isCustom="{Boolean}false"
                     name="mountain"/>
                 <building
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.793Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.786Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6248384118080139"
                     isCustom="{Boolean}false"
                     name="building"/>
                 <town
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.794Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.786Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6210898756980896"
                     isCustom="{Boolean}false"
                     name="town"/>
                 <blue
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.794Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.786Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6161054968833923"
                     isCustom="{Boolean}false"
                     name="blue"/>
                 <travel
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.795Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.787Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6112263202667236"
                     isCustom="{Boolean}false"
                     name="travel"/>
                 <aerial
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.796Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.787Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6036664247512817"
                     isCustom="{Boolean}false"
                     name="aerial"/>
                 <mountains
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.796Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.788Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6022362112998962"
                     isCustom="{Boolean}false"
                     name="mountains"/>
                 <clouds
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.797Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.788Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5986706614494324"
                     isCustom="{Boolean}false"
                     name="clouds"/>
                 <hill
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.798Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.788Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5967104434967041"
                     isCustom="{Boolean}false"
                     name="hill"/>
                 <asia
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.798Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.789Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5921053290367126"
                     isCustom="{Boolean}false"
                     name="asia"/>
                 <coast
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.799Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.789Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5889080166816711"
                     isCustom="{Boolean}false"
                     name="coast"/>
                 <downtown
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.800Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.789Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5877109169960022"
                     isCustom="{Boolean}false"
                     name="downtown"/>
                 <tourism
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.800Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.790Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5854150652885437"
                     isCustom="{Boolean}false"
                     name="tourism"/>
                 <nature
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.801Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.790Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5823207497596741"
                     isCustom="{Boolean}false"
                     name="nature"/>
             </predictedTags>
+            <dam:colorDistribution jcr:primaryType="nt:unstructured">
+                <color1
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.792Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.2111"
+                    name="GRAY"
+                    rank="{Long}1"
+                    rgb="{Long}[159,161,162]"/>
+                <color2
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.795Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.1744"
+                    name="BLACK"
+                    rank="{Long}2"
+                    rgb="{Long}[19,21,18]"/>
+                <color3
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.796Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.1498"
+                    name="DARK_BLUE"
+                    rank="{Long}3"
+                    rgb="{Long}[42,61,80]"/>
+                <color4
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.797Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.1479"
+                    name="LIGHT_BLUE"
+                    rank="{Long}4"
+                    rgb="{Long}[155,177,192]"/>
+                <color5
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.797Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.1372"
+                    name="ROYAL_BLUE"
+                    rank="{Long}5"
+                    rgb="{Long}[71,103,127]"/>
+                <color6
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.798Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.1152"
+                    name="DARK_GRAY"
+                    rank="{Long}6"
+                    rgb="{Long}[71,69,73]"/>
+                <color7
+                    jcr:lastModified="{Date}2022-08-12T17:02:58.799Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0643"
+                    name="DARK_BROWN"
+                    rank="{Long}7"
+                    rgb="{Long}[105,79,74]"/>
+            </dam:colorDistribution>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-08-12T17:03:08.399Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
         </metadata>
         <related jcr:primaryType="nt:unstructured"/>
         <usages

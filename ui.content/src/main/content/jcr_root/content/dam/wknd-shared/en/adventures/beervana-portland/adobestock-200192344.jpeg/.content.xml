@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~   Copyright (c) 2022 Adobe
+  ~  Copyright (c) 2022 Adobe
   ~
-  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
-  ~   this software and associated documentation files (the "Software"), to deal in
-  ~   the Software without restriction, including without limitation the rights to
-  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-  ~   the Software, and to permit persons to whom the Software is furnished to do so,
-  ~   subject to the following conditions:
+  ~  Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~  this software and associated documentation files (the "Software"), to deal in
+  ~  the Software without restriction, including without limitation the rights to
+  ~  use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~  the Software, and to permit persons to whom the Software is furnished to do so,
+  ~  subject to the following conditions:
   ~
-  ~   The above copyright notice and this permission notice shall be included in all
-  ~   copies or substantial portions of the Software.
+  ~  The above copyright notice and this permission notice shall be included in all
+  ~  copies or substantial portions of the Software.
   ~
-  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  ~  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~  FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~  COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~  IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   -->
 
 <jcr:root xmlns:exifEX="http://cipa.jp/exif/1.0/" xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:psAux="http://ns.adobe.com/exif/1.0/aux/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:prismusagerights="http://prismstandard.org/namespaces/prismusagerights/2.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
@@ -29,12 +29,12 @@
         cq:name="adobestock-200192344.jpeg"
         cq:parentPath="/content/dam/wknd-shared/en/adventures/beervana-portland"
         dam:assetState="processed"
-        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
-        dam:processingId="f742d23e-f48d-482a-a4a2-42c338e0ba42"
-        dam:processingRenditions="[cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png,cqdam.metadata.xml,cq5dam.thumbnail.319.319.png,cqdam.text.txt,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.features.json]"
-        dam:processingRequestedDate="{Date}2022-03-23T20:43:55.330Z"
+        dam:asyncJobId="2022/8/12/17/2/7fdf89da-75f9-4cfa-b356-6ee3e7f053a3_1"
+        dam:processingId="c59747d1-775b-4456-a456-44ad31e149f3"
+        dam:processingRenditions="[cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.features.json,cqdam.metadata.xml,cqdam.text.txt,cqdam.machine.metadata.colors.json,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.tags.json]"
+        dam:processingRequestedDate="{Date}2022-08-12T17:02:42.972Z"
         dam:runPostProcess="{Boolean}true"
-        jcr:lastModified="{Date}2022-03-23T20:44:20.121Z"
+        jcr:lastModified="{Date}2022-08-12T17:03:10.531Z"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <dam:failedRenditions jcr:primaryType="nt:unstructured">
@@ -165,7 +165,7 @@
             dam:Bitsperpixel="{Long}24"
             dam:DigitalCreationDate="{Long}20161117"
             dam:DigitalCreationTime="112556-0800"
-            dam:extracted="{Date}2022-03-23T20:44:05.197Z"
+            dam:extracted="{Date}2022-08-12T17:02:51.586Z"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -174,6 +174,7 @@
             dam:Physicalheightininches="{Decimal}16.31944465637207"
             dam:Physicalwidthindpi="{Long}72"
             dam:Physicalwidthininches="{Decimal}24.44444465637207"
+            dam:predictedColors="{Long}[12051,25041,24008]"
             dam:Progressive="no"
             dam:sha1="02d7659839cad49512ba39289a0dc9c97e1f637d"
             dam:size="{Long}523404"
@@ -406,162 +407,188 @@
                     stEvt:when="{Date}2019-10-24T15:19:15.000-07:00"
                     xmpNodeType="xmpStruct"/>
             </xmpMM:History>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-08-12T17:02:59.880Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
             <predictedTags jcr:primaryType="nt:unstructured">
                 <woman
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.783Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.870Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7145639657974243"
                     isCustom="{Boolean}false"
                     name="woman"/>
                 <man
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.783Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.870Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6697961091995239"
                     isCustom="{Boolean}false"
                     name="man"/>
                 <young
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.784Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.871Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6529212594032288"
                     isCustom="{Boolean}false"
                     name="young"/>
                 <female
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.785Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.871Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6485931873321533"
                     isCustom="{Boolean}false"
                     name="female"/>
                 <people
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.785Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.872Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6270434260368347"
                     isCustom="{Boolean}false"
                     name="people"/>
                 <girl
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.786Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.872Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6246534585952759"
                     isCustom="{Boolean}false"
                     name="girl"/>
                 <friends
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.786Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.873Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6142014861106873"
                     isCustom="{Boolean}false"
                     name="friends"/>
                 <women
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.787Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.873Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6132542490959167"
                     isCustom="{Boolean}false"
                     name="women"/>
                 <happy
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.788Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.873Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6126042604446411"
                     isCustom="{Boolean}false"
                     name="happy"/>
                 <male
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.788Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.874Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6067270040512085"
                     isCustom="{Boolean}false"
                     name="male"/>
                 <caucasian
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.789Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.874Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.60545414686203"
                     isCustom="{Boolean}false"
                     name="caucasian"/>
                 <couple
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.790Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.875Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6012271642684937"
                     isCustom="{Boolean}false"
                     name="couple"/>
                 <bar
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.790Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.875Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5889647006988525"
                     isCustom="{Boolean}false"
                     name="bar"/>
                 <drinking
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.791Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.876Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.583945095539093"
                     isCustom="{Boolean}false"
                     name="drinking"/>
                 <sitting
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.791Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.876Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5824282765388489"
                     isCustom="{Boolean}false"
                     name="sitting"/>
                 <adult
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.792Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.877Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5769683122634888"
                     isCustom="{Boolean}false"
                     name="adult"/>
                 <smiling
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.793Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.877Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.57517409324646"
                     isCustom="{Boolean}false"
                     name="smiling"/>
                 <drink
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.793Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.878Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5709608197212219"
                     isCustom="{Boolean}false"
                     name="drink"/>
                 <beautiful
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.794Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.878Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5631623864173889"
                     isCustom="{Boolean}false"
                     name="beautiful"/>
                 <family
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.795Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.878Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5611940622329712"
                     isCustom="{Boolean}false"
                     name="family"/>
                 <men
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.796Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.879Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5533034205436707"
                     isCustom="{Boolean}false"
                     name="men"/>
                 <boy
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.796Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.879Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5526454448699951"
                     isCustom="{Boolean}false"
                     name="boy"/>
                 <cafe
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.797Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.880Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5476202964782715"
                     isCustom="{Boolean}false"
                     name="cafe"/>
                 <child
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.798Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.880Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5467635989189148"
                     isCustom="{Boolean}false"
                     name="child"/>
                 <restaurant
-                    jcr:lastModified="{Date}2022-03-23T20:44:13.798Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.881Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5406267642974854"
                     isCustom="{Boolean}false"
                     name="restaurant"/>
             </predictedTags>
-            <imageFeatures
-                jcr:lastModified="{Date}2022-03-23T20:44:13.802Z"
-                jcr:primaryType="nt:unstructured"
-                haystack0="{Binary}"/>
+            <dam:colorDistribution jcr:primaryType="nt:unstructured">
+                <color1
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.882Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.5091"
+                    name="BLACK"
+                    rank="{Long}1"
+                    rgb="{Long}[30,24,22]"/>
+                <color2
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.882Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.4067"
+                    name="DARK_BROWN"
+                    rank="{Long}2"
+                    rgb="{Long}[70,44,32]"/>
+                <color3
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.883Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0842"
+                    name="BROWN"
+                    rank="{Long}3"
+                    rgb="{Long}[149,100,63]"/>
+            </dam:colorDistribution>
         </metadata>
         <related jcr:primaryType="nt:unstructured"/>
         <usages

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~   Copyright (c) 2022 Adobe
+  ~  Copyright (c) 2022 Adobe
   ~
-  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
-  ~   this software and associated documentation files (the "Software"), to deal in
-  ~   the Software without restriction, including without limitation the rights to
-  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-  ~   the Software, and to permit persons to whom the Software is furnished to do so,
-  ~   subject to the following conditions:
+  ~  Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~  this software and associated documentation files (the "Software"), to deal in
+  ~  the Software without restriction, including without limitation the rights to
+  ~  use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~  the Software, and to permit persons to whom the Software is furnished to do so,
+  ~  subject to the following conditions:
   ~
-  ~   The above copyright notice and this permission notice shall be included in all
-  ~   copies or substantial portions of the Software.
+  ~  The above copyright notice and this permission notice shall be included in all
+  ~  copies or substantial portions of the Software.
   ~
-  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  ~  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~  FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~  COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~  IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   -->
 
 <jcr:root xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
@@ -26,12 +26,12 @@
     jcr:uuid="60dec765-693e-43c1-a0a4-76dfbdce5e3b">
     <jcr:content
         dam:assetState="processed"
-        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
-        dam:processingId="7a4f41c8-885a-4efe-857a-93456dad42ae"
-        dam:processingRenditions="[cqdam.machine.metadata.tags.json,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.319.319.png,cqdam.text.txt,cqdam.machine.metadata.features.json,cq5dam.thumbnail.140.100.png,cqdam.metadata.xml,cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.48.48.png]"
-        dam:processingRequestedDate="{Date}2022-03-23T20:43:53.459Z"
+        dam:asyncJobId="2022/8/12/17/2/7fdf89da-75f9-4cfa-b356-6ee3e7f053a3_1"
+        dam:processingId="a8dcf9f9-8fee-45b6-907e-dcedaeef539d"
+        dam:processingRenditions="[cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.colors.json,cqdam.text.txt,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.features.json,cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.140.100.png,cqdam.metadata.xml,cq5dam.thumbnail.319.319.png]"
+        dam:processingRequestedDate="{Date}2022-08-12T17:02:38.716Z"
         dam:runPostProcess="{Boolean}true"
-        jcr:lastModified="{Date}2022-03-23T20:44:10.787Z"
+        jcr:lastModified="{Date}2022-08-12T17:03:06.430Z"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <dam:failedRenditions jcr:primaryType="nt:unstructured">
@@ -42,7 +42,7 @@
         </dam:failedRenditions>
         <metadata
             dam:Bitsperpixel="{Long}24"
-            dam:extracted="{Date}2022-03-23T20:44:07.008Z"
+            dam:extracted="{Date}2022-08-12T17:02:46.896Z"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -51,6 +51,7 @@
             dam:Physicalheightininches="{Decimal}-1.0"
             dam:Physicalwidthindpi="{Long}-1"
             dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:predictedColors="{Long}[25044,12036,24012,23007]"
             dam:Progressive="no"
             dam:sha1="91184f2ff188840614a6e9ce33c2c338d7186d29"
             dam:size="{Long}133858"
@@ -71,156 +72,190 @@
                 stRef:instanceID="xmp.iid:8ddbabe1-a5f7-4262-8ebe-c149b65eb6b9"
                 xmpNodeType="xmpStruct"/>
             <imageFeatures
-                jcr:lastModified="{Date}2022-03-23T20:44:08.482Z"
+                jcr:lastModified="{Date}2022-08-12T17:02:53.778Z"
                 jcr:primaryType="nt:unstructured"
                 haystack0="{Binary}"/>
+            <dam:colorDistribution jcr:primaryType="nt:unstructured">
+                <color1
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.780Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.4408"
+                    name="DARK_BROWN"
+                    rank="{Long}1"
+                    rgb="{Long}[69,44,29]"/>
+                <color2
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.781Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.361"
+                    name="BLACK"
+                    rank="{Long}2"
+                    rgb="{Long}[9,4,4]"/>
+                <color3
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.781Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.1246"
+                    name="BROWN"
+                    rank="{Long}3"
+                    rgb="{Long}[143,101,61]"/>
+                <color4
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.782Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0735"
+                    name="KHAKI"
+                    rank="{Long}4"
+                    rgb="{Long}[180,144,110]"/>
+            </dam:colorDistribution>
             <predictedTags jcr:primaryType="nt:unstructured">
                 <wine
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.486Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.730Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.8887539505958557"
                     isCustom="{Boolean}false"
                     name="wine"/>
                 <glass
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.486Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.731Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.8856960535049438"
                     isCustom="{Boolean}false"
                     name="glass"/>
                 <alcohol
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.487Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.731Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.8210850954055786"
                     isCustom="{Boolean}false"
                     name="alcohol"/>
                 <red
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.487Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.732Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.8087881207466125"
                     isCustom="{Boolean}false"
                     name="red"/>
                 <drink
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.488Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.732Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7858004570007324"
                     isCustom="{Boolean}false"
                     name="drink"/>
                 <beverage
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.488Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.732Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7070455551147461"
                     isCustom="{Boolean}false"
                     name="beverage"/>
                 <wineglass
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.489Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.733Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7046512961387634"
                     isCustom="{Boolean}false"
                     name="wineglass"/>
                 <celebration
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.489Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.734Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7031852602958679"
                     isCustom="{Boolean}false"
                     name="celebration"/>
                 <bottle
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.490Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.734Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.684055507183075"
                     isCustom="{Boolean}false"
                     name="bottle"/>
                 <restaurant
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.490Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.734Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6794465780258179"
                     isCustom="{Boolean}false"
                     name="restaurant"/>
                 <table
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.490Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.735Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6592868566513062"
                     isCustom="{Boolean}false"
                     name="table"/>
                 <bar
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.491Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.743Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6569474935531616"
                     isCustom="{Boolean}false"
                     name="bar"/>
                 <party
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.491Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.743Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6362202167510986"
                     isCustom="{Boolean}false"
                     name="party"/>
                 <liquid
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.492Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.760Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6322275400161743"
                     isCustom="{Boolean}false"
                     name="liquid"/>
                 <white
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.492Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.760Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6284975409507751"
                     isCustom="{Boolean}false"
                     name="white"/>
                 <background
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.493Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.761Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.616775393486023"
                     isCustom="{Boolean}false"
                     name="background"/>
                 <dinner
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.493Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.761Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6052767038345337"
                     isCustom="{Boolean}false"
                     name="dinner"/>
                 <red_wine
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.493Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.761Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6020702123641968"
                     isCustom="{Boolean}false"
                     name="red wine"/>
                 <holiday
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.494Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.762Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5791045427322388"
                     isCustom="{Boolean}false"
                     name="holiday"/>
                 <close-up
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.494Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.762Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5770949721336365"
                     isCustom="{Boolean}false"
                     name="close-up"/>
                 <color
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.494Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.763Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5769121646881104"
                     isCustom="{Boolean}false"
                     name="color"/>
                 <food
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.495Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.763Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5715038776397705"
                     isCustom="{Boolean}false"
                     name="food"/>
                 <glasses
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.495Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.764Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5677503347396851"
                     isCustom="{Boolean}false"
                     name="glasses"/>
                 <light
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.496Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.764Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5586721897125244"
                     isCustom="{Boolean}false"
                     name="light"/>
                 <candle
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.496Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:00.765Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5558884143829346"
                     isCustom="{Boolean}false"

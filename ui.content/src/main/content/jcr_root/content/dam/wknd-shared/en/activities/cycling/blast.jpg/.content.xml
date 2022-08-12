@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~   Copyright (c) 2022 Adobe
+  ~  Copyright (c) 2022 Adobe
   ~
-  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
-  ~   this software and associated documentation files (the "Software"), to deal in
-  ~   the Software without restriction, including without limitation the rights to
-  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-  ~   the Software, and to permit persons to whom the Software is furnished to do so,
-  ~   subject to the following conditions:
+  ~  Permission is hereby granted, free of charge, to any person obtaining a copy of
+  ~  this software and associated documentation files (the "Software"), to deal in
+  ~  the Software without restriction, including without limitation the rights to
+  ~  use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
+  ~  the Software, and to permit persons to whom the Software is furnished to do so,
+  ~  subject to the following conditions:
   ~
-  ~   The above copyright notice and this permission notice shall be included in all
-  ~   copies or substantial portions of the Software.
+  ~  The above copyright notice and this permission notice shall be included in all
+  ~  copies or substantial portions of the Software.
   ~
-  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+  ~  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+  ~  IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
+  ~  FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
+  ~  COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
+  ~  IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
+  ~  CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
   -->
 
 <jcr:root xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
@@ -30,11 +30,11 @@
         cq:parentPath="/content/dam/we-retail/en/products/activities/biking"
         dam:assetID="40f99e52-d209-43bc-b1bc-ef68d61ce4f4"
         dam:assetState="processed"
-        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
+        dam:asyncJobId="2022/8/12/17/2/7fdf89da-75f9-4cfa-b356-6ee3e7f053a3_1"
         dam:lastInvalidateCache="{Date}2016-01-16T23:34:15.181-05:00"
-        dam:processingId="f4756a92-345f-4fdb-9ac2-5fcf534d7c81"
-        dam:processingRenditions="[cqdam.text.txt,cqdam.machine.metadata.features.json,cqdam.metadata.xml,cq5dam.thumbnail.319.319.png,cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.tags.json]"
-        dam:processingRequestedDate="{Date}2022-03-23T20:43:51.367Z"
+        dam:processingId="1be192a0-add7-40a5-819e-8c26cd3afe67"
+        dam:processingRenditions="[cq5dam.thumbnail.140.100.png,cq5dam.web.1280.1280.jpeg,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.features.json,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.colors.json,cqdam.text.txt,cqdam.metadata.xml]"
+        dam:processingRequestedDate="{Date}2022-08-12T17:02:38.710Z"
         dam:relativePath="we-retail/en/products/activities/biking/Blast.jpg"
         dam:runPostProcess="{Boolean}true"
         dam:s7damAnchorX="{Long}813"
@@ -42,7 +42,7 @@
         dam:s7damHeight="{Long}1080"
         dam:s7damType="Image"
         dam:s7damWidth="{Long}1626"
-        jcr:lastModified="{Date}2022-03-23T20:44:11.362Z"
+        jcr:lastModified="{Date}2022-08-12T17:03:09.447Z"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent"
         jcr:title="Bike Pump">
@@ -55,7 +55,7 @@
         <metadata
             cq:productReference="/etc/commerce/products/geometrixx-outdoors-screens/eq/eqbi/eqbisublp"
             dam:Bitsperpixel="{Long}24"
-            dam:extracted="{Date}2022-03-23T20:44:02.681Z"
+            dam:extracted="{Date}2022-08-12T17:02:46.329Z"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -64,6 +64,7 @@
             dam:Physicalheightininches="{Decimal}3.5999999046325684"
             dam:Physicalwidthindpi="{Long}300"
             dam:Physicalwidthininches="{Decimal}5.420000076293945"
+            dam:predictedColors="{Long}[13093,16007]"
             dam:productID="eqbisublp"
             dam:Progressive="no"
             dam:sha1="e5f6a8a702e2c352f183983f6563768ad2294842"
@@ -120,162 +121,180 @@
                     stEvt:when="{Date}2015-09-17T10:03:05.000-07:00"
                     xmpNodeType="xmpStruct"/>
             </xmpMM:History>
-            <imageFeatures
-                jcr:lastModified="{Date}2022-03-23T20:44:03.447Z"
-                jcr:primaryType="nt:unstructured"
-                haystack0="{Binary}"/>
             <predictedTags jcr:primaryType="nt:unstructured">
                 <isolated
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.449Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.076Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.8023226857185364"
                     isCustom="{Boolean}false"
                     name="isolated"/>
                 <white
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.450Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.076Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7608960270881653"
                     isCustom="{Boolean}false"
                     name="white"/>
                 <black
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.450Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.077Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7441321611404419"
                     isCustom="{Boolean}false"
                     name="black"/>
                 <tool
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.472Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.078Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7317575812339783"
                     isCustom="{Boolean}false"
                     name="tool"/>
                 <background
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.473Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.078Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7296301126480103"
                     isCustom="{Boolean}false"
                     name="background"/>
                 <metal
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.474Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.079Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7031382918357849"
                     isCustom="{Boolean}false"
                     name="metal"/>
                 <equipment
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.474Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.080Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6872701644897461"
                     isCustom="{Boolean}false"
                     name="equipment"/>
                 <pen
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.475Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.080Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6399919986724854"
                     isCustom="{Boolean}false"
                     name="pen"/>
                 <closeup
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.475Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.081Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6367778778076172"
                     isCustom="{Boolean}false"
                     name="closeup"/>
                 <steel
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.476Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.081Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6237339377403259"
                     isCustom="{Boolean}false"
                     name="steel"/>
                 <object
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.477Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.082Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6194555163383484"
                     isCustom="{Boolean}false"
                     name="object"/>
                 <pump
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.477Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.083Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5900893211364746"
                     isCustom="{Boolean}false"
                     name="pump"/>
                 <iron
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.478Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.083Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5853217840194702"
                     isCustom="{Boolean}false"
                     name="iron"/>
                 <plastic
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.479Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.084Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5801690816879272"
                     isCustom="{Boolean}false"
                     name="plastic"/>
                 <nobody
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.479Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.084Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5733749270439148"
                     isCustom="{Boolean}false"
                     name="nobody"/>
                 <close-up
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.480Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.085Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5721399188041687"
                     isCustom="{Boolean}false"
                     name="close-up"/>
                 <accessory
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.481Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.086Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5716398358345032"
                     isCustom="{Boolean}false"
                     name="accessory"/>
                 <bicycle
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.481Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.086Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5715658664703369"
                     isCustom="{Boolean}false"
                     name="bicycle"/>
                 <electric
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.482Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.087Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.567808210849762"
                     isCustom="{Boolean}false"
                     name="electric"/>
                 <ink
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.482Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.088Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5651233792304993"
                     isCustom="{Boolean}false"
                     name="ink"/>
                 <business
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.483Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.088Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5577639937400818"
                     isCustom="{Boolean}false"
                     name="business"/>
                 <air
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.484Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.089Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.556989848613739"
                     isCustom="{Boolean}false"
                     name="air"/>
                 <weapon
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.484Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.090Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5540181994438171"
                     isCustom="{Boolean}false"
                     name="weapon"/>
                 <bolt
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.484Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.090Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5521122217178345"
                     isCustom="{Boolean}false"
                     name="bolt"/>
                 <work
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.485Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:01.091Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5494383573532104"
                     isCustom="{Boolean}false"
                     name="work"/>
             </predictedTags>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-08-12T17:03:01.094Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
+            <dam:colorDistribution jcr:primaryType="nt:unstructured">
+                <color1
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.663Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.9331"
+                    name="WHITE"
+                    rank="{Long}1"
+                    rgb="{Long}[251,251,251]"/>
+                <color2
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.664Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0669"
+                    name="DARK_GRAY"
+                    rank="{Long}2"
+                    rgb="{Long}[65,65,68]"/>
+            </dam:colorDistribution>
         </metadata>
         <related jcr:primaryType="nt:unstructured"/>
         <usages
