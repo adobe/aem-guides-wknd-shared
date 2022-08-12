@@ -1,25 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~   Copyright (c) 2022 Adobe
-  ~
-  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
-  ~   this software and associated documentation files (the "Software"), to deal in
-  ~   the Software without restriction, including without limitation the rights to
-  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-  ~   the Software, and to permit persons to whom the Software is furnished to do so,
-  ~   subject to the following conditions:
-  ~
-  ~   The above copyright notice and this permission notice shall be included in all
-  ~   copies or substantial portions of the Software.
-  ~
-  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-  -->
-
 <jcr:root xmlns:exifEX="http://cipa.jp/exif/1.0/" xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:psAux="http://ns.adobe.com/exif/1.0/aux/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:isCheckedOut="{Boolean}true"
     jcr:mixinTypes="[mix:referenceable,mix:versionable]"
@@ -29,12 +8,12 @@
         cq:name="adobe_waadobe_wa_b6a7083.jpg"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/western-australia"
         dam:assetState="processed"
-        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
-        dam:processingId="99b2c338-8a65-4985-b1c9-10004eefcd4a"
-        dam:processingRenditions="[cqdam.text.txt,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.48.48.png,cq5dam.thumbnail.140.100.png,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.features.json,cqdam.metadata.xml,cq5dam.web.1280.1280.jpeg]"
-        dam:processingRequestedDate="{Date}2022-03-23T20:43:52.207Z"
+        dam:asyncJobId="2022/8/12/17/2/7fdf89da-75f9-4cfa-b356-6ee3e7f053a3_1"
+        dam:processingId="7d0267a2-ec8a-47ae-b4ff-0a0317a64be4"
+        dam:processingRenditions="[cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.319.319.png,cqdam.metadata.xml,cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.140.100.png,cqdam.text.txt,cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.features.json]"
+        dam:processingRequestedDate="{Date}2022-08-12T17:02:38.658Z"
         dam:runPostProcess="{Boolean}true"
-        jcr:lastModified="{Date}2022-03-23T20:44:10.951Z"
+        jcr:lastModified="{Date}2022-08-12T17:02:50.369Z"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <dam:failedRenditions jcr:primaryType="nt:unstructured">
@@ -157,7 +136,7 @@
             dam:Bitsperpixel="{Long}24"
             dam:DigitalCreationDate="{Long}20150629"
             dam:DigitalCreationTime="082455-0700"
-            dam:extracted="{Date}2022-03-23T20:44:02.043Z"
+            dam:extracted="{Date}2022-08-12T17:02:46.980Z"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -166,6 +145,7 @@
             dam:Physicalheightininches="{Decimal}2.8433332443237305"
             dam:Physicalwidthindpi="{Long}300"
             dam:Physicalwidthininches="{Decimal}4.266666889190674"
+            dam:predictedColors="{Long}[16027,12025,9020,25008,11007,5007,15007]"
             dam:Progressive="no"
             dam:sha1="5c7597c5f780cc895d341dd253c07f70aec5d7d3"
             dam:size="{Long}297138"
@@ -327,162 +307,220 @@
                     stEvt:when="{Date}2019-10-01T15:26:32.000-07:00"
                     xmpNodeType="xmpStruct"/>
             </xmpMM:History>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-08-12T17:02:47.791Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
             <predictedTags jcr:primaryType="nt:unstructured">
                 <water
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.439Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.794Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7094495296478271"
                     isCustom="{Boolean}false"
                     name="water"/>
                 <nature
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.439Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.794Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7021258473396301"
                     isCustom="{Boolean}false"
                     name="nature"/>
                 <forest
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.440Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.795Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.696893572807312"
                     isCustom="{Boolean}false"
                     name="forest"/>
                 <river
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.440Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.796Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6804991960525513"
                     isCustom="{Boolean}false"
                     name="river"/>
                 <green
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.440Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.796Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.65813148021698"
                     isCustom="{Boolean}false"
                     name="green"/>
                 <waterfall
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.441Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.797Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6529288291931152"
                     isCustom="{Boolean}false"
                     name="waterfall"/>
                 <rock
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.441Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.797Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6509780287742615"
                     isCustom="{Boolean}false"
                     name="rock"/>
                 <mountain
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.441Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.798Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6419423818588257"
                     isCustom="{Boolean}false"
                     name="mountain"/>
                 <trees
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.442Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.798Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.635219931602478"
                     isCustom="{Boolean}false"
                     name="trees"/>
                 <tree
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.442Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.799Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6124314665794373"
                     isCustom="{Boolean}false"
                     name="tree"/>
                 <hiking
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.442Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.800Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6068040132522583"
                     isCustom="{Boolean}false"
                     name="hiking"/>
                 <park
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.443Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.800Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5965214371681213"
                     isCustom="{Boolean}false"
                     name="park"/>
                 <landscape
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.443Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.801Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.59531170129776"
                     isCustom="{Boolean}false"
                     name="landscape"/>
                 <man
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.443Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.801Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5761352181434631"
                     isCustom="{Boolean}false"
                     name="man"/>
                 <animal
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.444Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.802Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5685616135597229"
                     isCustom="{Boolean}false"
                     name="animal"/>
                 <stream
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.444Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.802Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.566119909286499"
                     isCustom="{Boolean}false"
                     name="stream"/>
                 <adventure
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.445Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.803Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5656805038452148"
                     isCustom="{Boolean}false"
                     name="adventure"/>
                 <outdoor
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.445Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.803Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.552077054977417"
                     isCustom="{Boolean}false"
                     name="outdoor"/>
                 <canyon
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.445Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.803Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5508878827095032"
                     isCustom="{Boolean}false"
                     name="canyon"/>
                 <wild
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.446Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.860Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5444678068161011"
                     isCustom="{Boolean}false"
                     name="wild"/>
                 <autumn
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.446Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.861Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5416639447212219"
                     isCustom="{Boolean}false"
                     name="autumn"/>
                 <walking
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.446Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.861Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5373644232749939"
                     isCustom="{Boolean}false"
                     name="walking"/>
                 <path
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.447Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.862Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5355771780014038"
                     isCustom="{Boolean}false"
                     name="path"/>
                 <stone
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.447Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.863Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5355449914932251"
                     isCustom="{Boolean}false"
                     name="stone"/>
                 <falls
-                    jcr:lastModified="{Date}2022-03-23T20:44:08.448Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.863Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5337687134742737"
                     isCustom="{Boolean}false"
                     name="falls"/>
             </predictedTags>
-            <imageFeatures
-                jcr:lastModified="{Date}2022-03-23T20:44:08.450Z"
-                jcr:primaryType="nt:unstructured"
-                haystack0="{Binary}"/>
+            <dam:colorDistribution jcr:primaryType="nt:unstructured">
+                <color1
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.866Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.2655"
+                    name="DARK_GRAY"
+                    rank="{Long}1"
+                    rgb="{Long}[66,67,68]"/>
+                <color2
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.867Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.2528"
+                    name="BLACK"
+                    rank="{Long}2"
+                    rgb="{Long}[33,34,35]"/>
+                <color3
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.868Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.1975"
+                    name="DARK_BLUE"
+                    rank="{Long}3"
+                    rgb="{Long}[41,56,72]"/>
+                <color4
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.869Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0751"
+                    name="DARK_BROWN"
+                    rank="{Long}4"
+                    rgb="{Long}[87,64,60]"/>
+                <color5
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.870Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0711"
+                    name="ROYAL_BLUE"
+                    rank="{Long}5"
+                    rgb="{Long}[53,91,131]"/>
+                <color6
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.871Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0711"
+                    name="DARK_GREEN"
+                    rank="{Long}6"
+                    rgb="{Long}[46,68,64]"/>
+                <color7
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.874Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0669"
+                    name="GRAY"
+                    rank="{Long}7"
+                    rgb="{Long}[116,113,116]"/>
+            </dam:colorDistribution>
         </metadata>
         <related jcr:primaryType="nt:unstructured"/>
     </jcr:content>

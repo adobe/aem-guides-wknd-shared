@@ -1,25 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~   Copyright (c) 2022 Adobe
-  ~
-  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
-  ~   this software and associated documentation files (the "Software"), to deal in
-  ~   the Software without restriction, including without limitation the rights to
-  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-  ~   the Software, and to permit persons to whom the Software is furnished to do so,
-  ~   subject to the following conditions:
-  ~
-  ~   The above copyright notice and this permission notice shall be included in all
-  ~   copies or substantial portions of the Software.
-  ~
-  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-  -->
-
 <jcr:root xmlns:pdf="http://ns.adobe.com/pdf/1.3/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:isCheckedOut="{Boolean}true"
     jcr:mixinTypes="[mix:referenceable,mix:versionable]"
@@ -29,16 +8,16 @@
         cq:name="wa_camping_adobe.pdf"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/western-australia"
         dam:assetState="processed"
-        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
-        dam:processingId="3b0ee41f-daae-46f3-b9da-9f4aba8477fd"
-        dam:processingRenditions="[cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.features.json,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.140.100.png,cqdam.metadata.xml,cq5dam.web.1280.1280.jpeg,cq5dam.zoom.2048.2048.jpeg,cqdam.text.txt,cqdam.machine.metadata.tags.json]"
-        dam:processingRequestedDate="{Date}2022-03-23T20:43:52.145Z"
+        dam:asyncJobId="2022/8/12/17/2/7fdf89da-75f9-4cfa-b356-6ee3e7f053a3_1"
+        dam:processingId="78bc9379-4126-4f35-bc4a-401a7715f126"
+        dam:processingRenditions="[cq5dam.thumbnail.48.48.png,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.colors.json,cqdam.machine.metadata.features.json,cqdam.metadata.xml,cqdam.text.txt,cq5dam.web.1280.1280.jpeg,cq5dam.zoom.2048.2048.jpeg,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.319.319.png]"
+        dam:processingRequestedDate="{Date}2022-08-12T17:02:37.521Z"
         dam:runPostProcess="{Boolean}true"
-        jcr:lastModified="{Date}2022-03-23T20:44:10.660Z"
+        jcr:lastModified="{Date}2022-08-12T17:02:50.200Z"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
-            dam:extracted="{Date}2022-03-23T20:44:01.701Z"
+            dam:extracted="{Date}2022-08-12T17:02:42.755Z"
             dam:numPages="{Long}3"
             dam:Physicalheightininches="{Decimal}11.692916666666667"
             dam:Physicalwidthininches="{Decimal}8.266666666666667"
@@ -63,265 +42,265 @@
             xmp:ModifyDate="{Date}2019-10-25T23:49:43.000Z">
             <predictedTags jcr:primaryType="nt:unstructured">
                 <perth
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.119Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.576Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Perth"/>
                 <north
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.120Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.576Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="north"/>
                 <the_indian_ocean
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.121Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.577Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="the Indian Ocean"/>
                 <hemisphere
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.122Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.578Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="hemisphere"/>
                 <n_t
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.122Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.578Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="n’t"/>
                 <sjoeberg
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.123Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.579Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Sjöberg"/>
                 <jacob
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.124Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.580Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Jacob"/>
                 <western_australia
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.125Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.580Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Western Australia"/>
                 <sofia_sjoeberg_wanderlust
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.125Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.581Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9994693442485367"
                     isCustom="{Boolean}false"
                     name="Sofia Sjöberg Wanderlust"/>
                 <jacob_wester
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.126Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.582Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9982226948176565"
                     isCustom="{Boolean}false"
                     name="Jacob Wester"/>
                 <sjoeberg_wanderlust
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.126Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.583Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9982009728364647"
                     isCustom="{Boolean}false"
                     name="Sjöberg Wanderlust"/>
                 <camper_van_words
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.127Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.583Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9969542395644524"
                     isCustom="{Boolean}false"
                     name="camper van Words"/>
                 <sofia_sjoeberg
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.127Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.584Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.991251956260985"
                     isCustom="{Boolean}false"
                     name="Sofia Sjöberg"/>
                 <van_words
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.128Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.584Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9909554311480975"
                     isCustom="{Boolean}false"
                     name="van Words"/>
                 <strong_desire
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.128Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.587Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9865211490428143"
                     isCustom="{Boolean}false"
                     name="strong desire"/>
                 <camper_van
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.129Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.587Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9834123066609206"
                     isCustom="{Boolean}false"
                     name="camper van"/>
                 <end
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.129Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.588Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9800587968015098"
                     isCustom="{Boolean}false"
                     name="end"/>
                 <road
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.129Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.588Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9771553208991692"
                     isCustom="{Boolean}false"
                     name="road"/>
                 <australian_west_coast
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.130Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.661Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9744896863000267"
                     isCustom="{Boolean}false"
                     name="Australian West coast"/>
                 <time
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.130Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.661Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9719136597806979"
                     isCustom="{Boolean}false"
                     name="time"/>
-                <wanderlust
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.131Z"
-                    jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.9702513292703308"
-                    isCustom="{Boolean}false"
-                    name="Wanderlust"/>
                 <wester
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.131Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.665Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9702513292703308"
                     isCustom="{Boolean}false"
                     name="Wester"/>
                 <words
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.132Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.666Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9702513292703308"
                     isCustom="{Boolean}false"
                     name="Words"/>
+                <wanderlust
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.666Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.9702513292703308"
+                    isCustom="{Boolean}false"
+                    name="Wanderlust"/>
                 <surf
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.132Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.667Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9636586224180477"
                     isCustom="{Boolean}false"
                     name="surf"/>
                 <australian_west
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.133Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.668Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9629913655738189"
                     isCustom="{Boolean}false"
                     name="Australian West"/>
                 <van
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.133Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.668Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9626984881302143"
                     isCustom="{Boolean}false"
                     name="van"/>
                 <camper
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.134Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.669Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9621163282934166"
                     isCustom="{Boolean}false"
                     name="camper"/>
                 <hard_time
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.134Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.669Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9526934738308521"
                     isCustom="{Boolean}false"
                     name="hard time"/>
                 <sofia
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.172Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.669Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.952460162991974"
                     isCustom="{Boolean}false"
                     name="Sofia"/>
                 <toyota_hiace
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.173Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.670Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9506846028518678"
                     isCustom="{Boolean}false"
                     name="Toyota Hiace"/>
                 <journey
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.173Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.671Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9501613293449371"
                     isCustom="{Boolean}false"
                     name="journey"/>
                 <world
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.174Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.672Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9487779324371479"
                     isCustom="{Boolean}false"
                     name="world"/>
                 <waves
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.174Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.673Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9485314504947644"
                     isCustom="{Boolean}false"
                     name="waves"/>
                 <set
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.175Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.673Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9482879002963167"
                     isCustom="{Boolean}false"
                     name="set"/>
                 <occasional_road_train
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.175Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.674Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9458335645338558"
                     isCustom="{Boolean}false"
                     name="occasional road train"/>
                 <hours
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.175Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.675Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9373592853648609"
                     isCustom="{Boolean}false"
                     name="hours"/>
                 <desert_roads
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.176Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.676Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9370744802102693"
                     isCustom="{Boolean}false"
                     name="desert roads"/>
                 <west
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.176Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.676Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9329825730722745"
                     isCustom="{Boolean}false"
                     name="West"/>
                 <desert
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.177Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.677Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9320759632391902"
                     isCustom="{Boolean}false"
                     name="desert"/>
                 <horizon
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.177Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.677Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9301964451827602"
                     isCustom="{Boolean}false"
                     name="horizon"/>
                 <stars
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.178Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.678Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9300111118805068"
                     isCustom="{Boolean}false"
                     name="stars"/>
                 <stretches
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.178Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.678Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.929894861298376"
                     isCustom="{Boolean}false"
                     name="stretches"/>
                 <sand
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.178Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.679Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9243545750433946"
                     isCustom="{Boolean}false"
                     name="sand"/>
                 <pointbreak
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.179Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.679Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9238376949844891"
                     isCustom="{Boolean}false"

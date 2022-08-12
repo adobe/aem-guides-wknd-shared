@@ -1,25 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~   Copyright (c) 2022 Adobe
-  ~
-  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
-  ~   this software and associated documentation files (the "Software"), to deal in
-  ~   the Software without restriction, including without limitation the rights to
-  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-  ~   the Software, and to permit persons to whom the Software is furnished to do so,
-  ~   subject to the following conditions:
-  ~
-  ~   The above copyright notice and this permission notice shall be included in all
-  ~   copies or substantial portions of the Software.
-  ~
-  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-  -->
-
 <jcr:root xmlns:exifEX="http://cipa.jp/exif/1.0/" xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:psAux="http://ns.adobe.com/exif/1.0/aux/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:xmpRights="http://ns.adobe.com/xap/1.0/rights/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:prismusagerights="http://prismstandard.org/namespaces/prismusagerights/2.1/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:isCheckedOut="{Boolean}true"
     jcr:mixinTypes="[mix:referenceable,mix:versionable]"
@@ -29,12 +8,12 @@
         cq:name="adobestock-268213814.jpeg"
         cq:parentPath="/content/dam/wknd-shared/en/adventures/cycling-tuscany"
         dam:assetState="processed"
-        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
-        dam:processingId="aa9db28f-94ea-43c0-b263-9da1385c28d0"
-        dam:processingRenditions="[cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.features.json,cq5dam.thumbnail.319.319.png,cqdam.text.txt,cq5dam.thumbnail.140.100.png,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.48.48.png,cqdam.metadata.xml]"
-        dam:processingRequestedDate="{Date}2022-03-23T20:43:54.126Z"
+        dam:asyncJobId="2022/8/12/17/2/7fdf89da-75f9-4cfa-b356-6ee3e7f053a3_1"
+        dam:processingId="41828ff2-f782-4a80-a9c0-07595b83fd49"
+        dam:processingRenditions="[cqdam.machine.metadata.features.json,cqdam.machine.metadata.tags.json,cq5dam.zoom.2048.2048.jpeg,cqdam.metadata.xml,cq5dam.thumbnail.48.48.png,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.319.319.png,cq5dam.thumbnail.140.100.png,cqdam.text.txt]"
+        dam:processingRequestedDate="{Date}2022-08-12T17:02:39.864Z"
         dam:runPostProcess="{Boolean}true"
-        jcr:lastModified="{Date}2022-03-23T20:44:17.480Z"
+        jcr:lastModified="{Date}2022-08-12T17:03:10.019Z"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <dam:failedRenditions jcr:primaryType="nt:unstructured">
@@ -161,7 +140,7 @@
             dam:Bitsperpixel="{Long}24"
             dam:DigitalCreationDate="{Long}20180605"
             dam:DigitalCreationTime="181320-0700"
-            dam:extracted="{Date}2022-03-23T20:44:00.204Z"
+            dam:extracted="{Date}2022-08-12T17:02:58.483Z"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -170,6 +149,7 @@
             dam:Physicalheightininches="{Decimal}13.402777671813965"
             dam:Physicalwidthindpi="{Long}72"
             dam:Physicalwidthininches="{Decimal}20.08333396911621"
+            dam:predictedColors="{Long}[12037,16033,15012,25009,7008]"
             dam:Progressive="no"
             dam:sha1="ac9fab4e0853e4fecc5fab3d0c8443015240708a"
             dam:size="{Long}640372"
@@ -381,156 +361,198 @@
                 </_x0031_>
             </crs:RetouchAreas>
             <imageFeatures
-                jcr:lastModified="{Date}2022-03-23T20:44:14.834Z"
+                jcr:lastModified="{Date}2022-08-12T17:03:07.806Z"
                 jcr:primaryType="nt:unstructured"
                 haystack0="{Binary}"/>
+            <dam:colorDistribution jcr:primaryType="nt:unstructured">
+                <color1
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.807Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.3711"
+                    name="BLACK"
+                    rank="{Long}1"
+                    rgb="{Long}[23,22,19]"/>
+                <color2
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.807Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.3346"
+                    name="DARK_GRAY"
+                    rank="{Long}2"
+                    rgb="{Long}[71,68,62]"/>
+                <color3
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.808Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.1202"
+                    name="GRAY"
+                    rank="{Long}3"
+                    rgb="{Long}[129,126,120]"/>
+                <color4
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.809Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0918"
+                    name="DARK_BROWN"
+                    rank="{Long}4"
+                    rgb="{Long}[73,43,30]"/>
+                <color5
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.809Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0823"
+                    name="MUD_GREEN"
+                    rank="{Long}5"
+                    rgb="{Long}[79,72,48]"/>
+            </dam:colorDistribution>
             <predictedTags jcr:primaryType="nt:unstructured">
                 <food
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.838Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.812Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7790204882621765"
                     isCustom="{Boolean}false"
                     name="food"/>
                 <cooking
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.838Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.812Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.644795298576355"
                     isCustom="{Boolean}false"
                     name="cooking"/>
                 <meal
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.839Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.812Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.627589762210846"
                     isCustom="{Boolean}false"
                     name="meal"/>
                 <dinner
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.839Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.813Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6186738014221191"
                     isCustom="{Boolean}false"
                     name="dinner"/>
                 <healthy
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.840Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.813Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5997229218482971"
                     isCustom="{Boolean}false"
                     name="healthy"/>
                 <cuisine
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.840Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.813Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5967088937759399"
                     isCustom="{Boolean}false"
                     name="cuisine"/>
                 <table
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.841Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.814Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5915701389312744"
                     isCustom="{Boolean}false"
                     name="table"/>
                 <diet
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.841Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.814Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5888915061950684"
                     isCustom="{Boolean}false"
                     name="diet"/>
                 <fruit
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.841Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.815Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5752256512641907"
                     isCustom="{Boolean}false"
                     name="fruit"/>
                 <dish
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.842Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.815Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5741096138954163"
                     isCustom="{Boolean}false"
                     name="dish"/>
                 <salad
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.842Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.815Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5712509155273438"
                     isCustom="{Boolean}false"
                     name="salad"/>
                 <delicious
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.843Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.816Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5650460720062256"
                     isCustom="{Boolean}false"
                     name="delicious"/>
                 <plate
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.843Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.816Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5631120800971985"
                     isCustom="{Boolean}false"
                     name="plate"/>
                 <fresh
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.844Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.816Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5628247261047363"
                     isCustom="{Boolean}false"
                     name="fresh"/>
                 <appetizer
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.844Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.817Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5588654279708862"
                     isCustom="{Boolean}false"
                     name="appetizer"/>
                 <vegetable
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.845Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.817Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5585256218910217"
                     isCustom="{Boolean}false"
                     name="vegetable"/>
                 <eat
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.845Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.817Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5493394732475281"
                     isCustom="{Boolean}false"
                     name="eat"/>
                 <meat
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.846Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.818Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5424904823303223"
                     isCustom="{Boolean}false"
                     name="meat"/>
                 <seafood
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.846Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.818Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5400511026382446"
                     isCustom="{Boolean}false"
                     name="seafood"/>
                 <pepper
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.846Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.818Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5384373068809509"
                     isCustom="{Boolean}false"
                     name="pepper"/>
                 <breakfast
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.847Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.819Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.536528468132019"
                     isCustom="{Boolean}false"
                     name="breakfast"/>
                 <lunch
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.847Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.819Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5317202806472778"
                     isCustom="{Boolean}false"
                     name="lunch"/>
                 <cooked
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.848Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.819Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5305823683738708"
                     isCustom="{Boolean}false"
                     name="cooked"/>
                 <vegetables
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.849Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.820Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5297064185142517"
                     isCustom="{Boolean}false"
                     name="vegetables"/>
                 <fish
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.849Z"
+                    jcr:lastModified="{Date}2022-08-12T17:03:07.820Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5286320447921753"
                     isCustom="{Boolean}false"

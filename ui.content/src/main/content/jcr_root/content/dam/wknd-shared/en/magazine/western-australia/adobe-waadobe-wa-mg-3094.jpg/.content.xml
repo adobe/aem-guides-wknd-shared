@@ -1,25 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~   Copyright (c) 2022 Adobe
-  ~
-  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
-  ~   this software and associated documentation files (the "Software"), to deal in
-  ~   the Software without restriction, including without limitation the rights to
-  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-  ~   the Software, and to permit persons to whom the Software is furnished to do so,
-  ~   subject to the following conditions:
-  ~
-  ~   The above copyright notice and this permission notice shall be included in all
-  ~   copies or substantial portions of the Software.
-  ~
-  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-  -->
-
 <jcr:root xmlns:exifEX="http://cipa.jp/exif/1.0/" xmlns:crs="http://ns.adobe.com/camera-raw-settings/1.0/" xmlns:exif="http://ns.adobe.com/exif/1.0/" xmlns:psAux="http://ns.adobe.com/exif/1.0/aux/" xmlns:photoshop="http://ns.adobe.com/photoshop/1.0/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/" xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#" xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:isCheckedOut="{Boolean}true"
     jcr:mixinTypes="[mix:referenceable,mix:versionable]"
@@ -29,12 +8,12 @@
         cq:name="adobe_waadobe_wa_mg_3094.jpg"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/western-australia"
         dam:assetState="processed"
-        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
-        dam:processingId="f6c6f38b-2d80-4ab3-8fe5-2d975c171396"
-        dam:processingRenditions="[cqdam.text.txt,cq5dam.thumbnail.140.100.png,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.features.json,cqdam.metadata.xml,cq5dam.thumbnail.319.319.png,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.48.48.png]"
-        dam:processingRequestedDate="{Date}2022-03-23T20:43:52.780Z"
+        dam:asyncJobId="2022/8/12/17/2/7fdf89da-75f9-4cfa-b356-6ee3e7f053a3_1"
+        dam:processingId="30085a45-0492-462f-af94-22eb4ea4fd5c"
+        dam:processingRenditions="[cqdam.machine.metadata.colors.json,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.48.48.png,cq5dam.thumbnail.140.100.png,cq5dam.zoom.2048.2048.jpeg,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.features.json,cqdam.metadata.xml,cq5dam.thumbnail.319.319.png,cqdam.text.txt]"
+        dam:processingRequestedDate="{Date}2022-08-12T17:02:41.894Z"
         dam:runPostProcess="{Boolean}true"
-        jcr:lastModified="{Date}2022-03-23T20:44:18.423Z"
+        jcr:lastModified="{Date}2022-08-12T17:03:09.157Z"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <dam:failedRenditions jcr:primaryType="nt:unstructured">
@@ -157,7 +136,7 @@
             crs:WhiteBalance="Tungsten"
             crs:Whites2012="{Long}-3"
             dam:Bitsperpixel="{Long}24"
-            dam:extracted="{Date}2022-03-23T20:44:02.203Z"
+            dam:extracted="{Date}2022-08-12T17:02:50.688Z"
             dam:Fileformat="JPEG"
             dam:MIMEtype="image/jpeg"
             dam:Numberofimages="{Long}1"
@@ -166,6 +145,7 @@
             dam:Physicalheightininches="{Decimal}2.8433332443237305"
             dam:Physicalwidthindpi="{Long}300"
             dam:Physicalwidthininches="{Decimal}4.266666889190674"
+            dam:predictedColors="{Long}[12094,25006]"
             dam:Progressive="no"
             dam:sha1="5f5695149f66bbcb13af04d190c9af420abbc739"
             dam:size="{Long}173934"
@@ -314,162 +294,180 @@
                     stEvt:when="{Date}2019-10-01T15:26:33.000-07:00"
                     xmpNodeType="xmpStruct"/>
             </xmpMM:History>
-            <imageFeatures
-                jcr:lastModified="{Date}2022-03-23T20:44:14.278Z"
-                jcr:primaryType="nt:unstructured"
-                haystack0="{Binary}"/>
+            <dam:colorDistribution jcr:primaryType="nt:unstructured">
+                <color1
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.892Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.9365"
+                    name="BLACK"
+                    rank="{Long}1"
+                    rgb="{Long}[18,17,23]"/>
+                <color2
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.893Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0635"
+                    name="DARK_BROWN"
+                    rank="{Long}2"
+                    rgb="{Long}[64,34,25]"/>
+            </dam:colorDistribution>
             <predictedTags jcr:primaryType="nt:unstructured">
                 <car
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.280Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.898Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.8751080632209778"
                     isCustom="{Boolean}false"
                     name="car"/>
                 <vehicle
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.280Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.899Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7292885780334473"
                     isCustom="{Boolean}false"
                     name="vehicle"/>
                 <auto
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.281Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.899Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7154610753059387"
                     isCustom="{Boolean}false"
                     name="auto"/>
                 <automobile
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.281Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.900Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7077348232269287"
                     isCustom="{Boolean}false"
                     name="automobile"/>
                 <transportation
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.282Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.900Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.7017133235931396"
                     isCustom="{Boolean}false"
                     name="transportation"/>
                 <transport
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.282Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.900Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6590797305107117"
                     isCustom="{Boolean}false"
                     name="transport"/>
                 <red
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.283Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.901Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6555896401405334"
                     isCustom="{Boolean}false"
                     name="red"/>
                 <old
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.283Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.901Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6543974876403809"
                     isCustom="{Boolean}false"
                     name="old"/>
                 <road
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.284Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.902Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6542990803718567"
                     isCustom="{Boolean}false"
                     name="road"/>
                 <travel
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.284Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.902Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6457923650741577"
                     isCustom="{Boolean}false"
                     name="travel"/>
                 <retro
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.285Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.903Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.620019257068634"
                     isCustom="{Boolean}false"
                     name="retro"/>
                 <drive
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.285Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.903Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5994052290916443"
                     isCustom="{Boolean}false"
                     name="drive"/>
                 <isolated
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.285Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.904Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5948216915130615"
                     isCustom="{Boolean}false"
                     name="isolated"/>
                 <vintage
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.286Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.904Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5903328657150269"
                     isCustom="{Boolean}false"
                     name="vintage"/>
                 <driving
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.286Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.904Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5874773859977722"
                     isCustom="{Boolean}false"
                     name="driving"/>
                 <antique
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.287Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.905Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5840951204299927"
                     isCustom="{Boolean}false"
                     name="antique"/>
                 <wheel
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.287Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.905Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5839633345603943"
                     isCustom="{Boolean}false"
                     name="wheel"/>
                 <yellow
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.288Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.905Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5778745412826538"
                     isCustom="{Boolean}false"
                     name="yellow"/>
                 <van
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.288Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.906Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5766903758049011"
                     isCustom="{Boolean}false"
                     name="van"/>
                 <night
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.288Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.906Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5728813409805298"
                     isCustom="{Boolean}false"
                     name="night"/>
                 <_x0034_x4
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.289Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.907Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5643032789230347"
                     isCustom="{Boolean}false"
                     name="4x4"/>
                 <background
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.289Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.907Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5641488432884216"
                     isCustom="{Boolean}false"
                     name="background"/>
                 <speed
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.290Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.908Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5591284036636353"
                     isCustom="{Boolean}false"
                     name="speed"/>
                 <motor
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.290Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.908Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5586482286453247"
                     isCustom="{Boolean}false"
                     name="motor"/>
                 <classic
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.291Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.908Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5569283366203308"
                     isCustom="{Boolean}false"
                     name="classic"/>
             </predictedTags>
+            <imageFeatures
+                jcr:lastModified="{Date}2022-08-12T17:03:01.109Z"
+                jcr:primaryType="nt:unstructured"
+                haystack0="{Binary}"/>
         </metadata>
         <related jcr:primaryType="nt:unstructured"/>
     </jcr:content>

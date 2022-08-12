@@ -1,25 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~   Copyright (c) 2022 Adobe
-  ~
-  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
-  ~   this software and associated documentation files (the "Software"), to deal in
-  ~   the Software without restriction, including without limitation the rights to
-  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-  ~   the Software, and to permit persons to whom the Software is furnished to do so,
-  ~   subject to the following conditions:
-  ~
-  ~   The above copyright notice and this permission notice shall be included in all
-  ~   copies or substantial portions of the Software.
-  ~
-  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-  -->
-
 <jcr:root xmlns:pdf="http://ns.adobe.com/pdf/1.3/" xmlns:xmp="http://ns.adobe.com/xap/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:isCheckedOut="{Boolean}true"
     jcr:mixinTypes="[mix:referenceable,mix:versionable]"
@@ -29,16 +8,16 @@
         cq:name="ultimateguidetolaskateparks.pdf"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/la-skateparks"
         dam:assetState="processed"
-        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
-        dam:processingId="eaea89b5-2693-4198-9c43-3159e4e165b9"
-        dam:processingRenditions="[cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.features.json,cq5dam.thumbnail.319.319.png,cqdam.text.txt,cq5dam.thumbnail.48.48.png,cq5dam.zoom.2048.2048.jpeg,cqdam.metadata.xml,cq5dam.thumbnail.140.100.png,cqdam.machine.metadata.tags.json]"
-        dam:processingRequestedDate="{Date}2022-03-23T20:43:53.045Z"
+        dam:asyncJobId="2022/8/12/17/2/7fdf89da-75f9-4cfa-b356-6ee3e7f053a3_1"
+        dam:processingId="dd7b3373-11fa-458a-bd7c-ea539c9d6623"
+        dam:processingRenditions="[cqdam.text.txt,cq5dam.web.1280.1280.jpeg,cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png,cq5dam.zoom.2048.2048.jpeg,cqdam.machine.metadata.features.json,cqdam.metadata.xml,cqdam.machine.metadata.tags.json,cqdam.machine.metadata.colors.json,cq5dam.thumbnail.319.319.png]"
+        dam:processingRequestedDate="{Date}2022-08-12T17:02:38.728Z"
         dam:runPostProcess="{Boolean}true"
-        jcr:lastModified="{Date}2022-03-23T20:44:11.415Z"
+        jcr:lastModified="{Date}2022-08-12T17:02:57.505Z"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <metadata
-            dam:extracted="{Date}2022-03-23T20:44:02.943Z"
+            dam:extracted="{Date}2022-08-12T17:02:46.475Z"
             dam:numPages="{Long}2"
             dam:Physicalheightininches="{Decimal}11.0"
             dam:Physicalwidthininches="{Decimal}8.5"
@@ -60,217 +39,217 @@
             xmp:ModifyDate="{Date}2019-10-25T23:49:48.000Z">
             <predictedTags jcr:primaryType="nt:unstructured">
                 <ocean_front_walk
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.486Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.336Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Ocean Front Walk"/>
                 <venice_beach
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.487Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.337Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Venice Beach"/>
                 <la
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.487Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.338Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="LA"/>
                 <moorpark_ca_93021
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.488Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.338Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Moorpark CA 93021"/>
                 <poindexter
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.488Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.339Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Poindexter"/>
                 <memorabilia
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.488Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.339Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="memorabilia"/>
                 <m_p
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.489Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.339Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="M.P"/>
                 <ventura_county
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.489Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.340Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Ventura County"/>
                 <moorpark_skate_park
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.490Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.340Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Moorpark Skate Park"/>
                 <center_avenue
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.490Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.341Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Center Avenue"/>
                 <orange_county
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.491Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.341Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Orange County"/>
                 <huntington_beach
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.491Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.341Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Huntington Beach"/>
                 <skatepark
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.491Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.359Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Skatepark"/>
                 <los_angeles
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.492Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.360Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Los Angeles"/>
                 <olympics
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.492Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.361Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Olympics"/>
                 <the_west_coast
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.493Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.361Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="the west coast"/>
                 <california
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.493Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.362Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="California"/>
                 <marty_mcfly
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.493Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.363Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Marty McFly"/>
                 <ultimate_guide
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.494Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.363Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}1.0"
                     isCustom="{Boolean}false"
                     name="Ultimate Guide"/>
-                <roswells_contrary
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.494Z"
-                    jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.9976884420687706"
-                    isCustom="{Boolean}false"
-                    name="Roswells Contrary"/>
                 <stacey_roswells
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.495Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.364Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9976884420687706"
                     isCustom="{Boolean}false"
                     name="Stacey Roswells"/>
+                <roswells_contrary
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.365Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.9976884420687706"
+                    isCustom="{Boolean}false"
+                    name="Roswells Contrary"/>
                 <venice_beach_skate
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.495Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.365Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9853878383129078"
                     isCustom="{Boolean}false"
                     name="Venice Beach Skate"/>
                 <beach_skate_park
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.495Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.366Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9827218292990418"
                     isCustom="{Boolean}false"
                     name="Beach Skate Park"/>
                 <vans_huntington_beach
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.496Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.367Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.979381263498303"
                     isCustom="{Boolean}false"
                     name="Vans Huntington Beach"/>
                 <box_office
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.496Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.368Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9779730928300296"
                     isCustom="{Boolean}false"
                     name="box office"/>
                 <future
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.496Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.368Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9675411887125029"
                     isCustom="{Boolean}false"
                     name="Future"/>
                 <popular_belief_skateboarding
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.497Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.372Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9670527755298881"
                     isCustom="{Boolean}false"
                     name="popular belief skateboarding"/>
-                <roswells
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.497Z"
-                    jcr:primaryType="nt:unstructured"
-                    confidence="{Double}0.9660945359349635"
-                    isCustom="{Boolean}false"
-                    name="Roswells"/>
                 <stacey
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.498Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.372Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9660945359349635"
                     isCustom="{Boolean}false"
                     name="Stacey"/>
+                <roswells
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.373Z"
+                    jcr:primaryType="nt:unstructured"
+                    confidence="{Double}0.9660945359349635"
+                    isCustom="{Boolean}false"
+                    name="Roswells"/>
                 <sport
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.498Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.374Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9615144760932879"
                     isCustom="{Boolean}false"
                     name="sport"/>
                 <belief_skateboarding
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.498Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.374Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9605854128189335"
                     isCustom="{Boolean}false"
                     name="belief skateboarding"/>
                 <center_avenue_huntington
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.499Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.375Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9551623726254275"
                     isCustom="{Boolean}false"
                     name="Center Avenue Huntington"/>
                 <venice_beach_boardwalk
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.499Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.375Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9547533051747967"
                     isCustom="{Boolean}false"
                     name="Venice beach boardwalk"/>
                 <beach_skate
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.500Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.376Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9539051585891367"
                     isCustom="{Boolean}false"
                     name="Beach Skate"/>
                 <front_walk_venice
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.500Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.376Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.9475718579059755"
                     isCustom="{Boolean}false"
                     name="Front Walk Venice"/>
                 <skate_park_paradise
-                    jcr:lastModified="{Date}2022-03-23T20:44:03.500Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:47.377Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.944662858979739"
                     isCustom="{Boolean}false"

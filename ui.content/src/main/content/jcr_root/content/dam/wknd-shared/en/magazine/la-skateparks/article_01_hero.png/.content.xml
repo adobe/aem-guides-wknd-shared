@@ -1,25 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!--
-  ~   Copyright (c) 2022 Adobe
-  ~
-  ~   Permission is hereby granted, free of charge, to any person obtaining a copy of
-  ~   this software and associated documentation files (the "Software"), to deal in
-  ~   the Software without restriction, including without limitation the rights to
-  ~   use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of
-  ~   the Software, and to permit persons to whom the Software is furnished to do so,
-  ~   subject to the following conditions:
-  ~
-  ~   The above copyright notice and this permission notice shall be included in all
-  ~   copies or substantial portions of the Software.
-  ~
-  ~   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-  ~   IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS
-  ~   FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
-  ~   COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
-  ~   IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
-  ~   CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-  -->
-
 <jcr:root xmlns:Iptc4xmpCore="http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/" xmlns:tiff="http://ns.adobe.com/tiff/1.0/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dam="http://www.day.com/dam/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:mix="http://www.jcp.org/jcr/mix/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0"
     jcr:isCheckedOut="{Boolean}true"
     jcr:mixinTypes="[mix:referenceable,mix:versionable]"
@@ -29,12 +8,12 @@
         cq:name="article_01_hero.png"
         cq:parentPath="/content/dam/wknd-shared/en/magazine/la-skateparks"
         dam:assetState="processed"
-        dam:asyncJobId="2022/3/23/20/43/caa45d63-feda-40e6-8796-bfe10e27fc16_0"
-        dam:processingId="c6f52a34-be91-41d5-8a8b-488e7f4c2ecf"
-        dam:processingRenditions="[cqdam.metadata.xml,cq5dam.thumbnail.140.100.png,cq5dam.zoom.2048.2048.jpeg,cq5dam.web.1280.1280.jpeg,cqdam.text.txt,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.features.json,cq5dam.thumbnail.48.48.png]"
-        dam:processingRequestedDate="{Date}2022-03-23T20:43:52.907Z"
+        dam:asyncJobId="2022/8/12/17/2/7fdf89da-75f9-4cfa-b356-6ee3e7f053a3_1"
+        dam:processingId="4ef8348a-c1cb-424c-8fbf-4b4d2f66b736"
+        dam:processingRenditions="[cq5dam.thumbnail.140.100.png,cq5dam.thumbnail.48.48.png,cqdam.metadata.xml,cq5dam.web.1280.1280.jpeg,cqdam.machine.metadata.features.json,cqdam.text.txt,cqdam.machine.metadata.tags.json,cq5dam.thumbnail.319.319.png,cqdam.machine.metadata.colors.json,cq5dam.zoom.2048.2048.jpeg]"
+        dam:processingRequestedDate="{Date}2022-08-12T17:02:39.738Z"
         dam:runPostProcess="{Boolean}true"
-        jcr:lastModified="{Date}2022-03-23T20:44:18.098Z"
+        jcr:lastModified="{Date}2022-08-12T17:03:03.402Z"
         jcr:lastModifiedBy="admin"
         jcr:primaryType="dam:AssetContent">
         <dam:failedRenditions jcr:primaryType="nt:unstructured">
@@ -46,7 +25,7 @@
         <metadata
             dam:Bitsperpixel="{Long}32"
             dam:Comments="XML:com.adobe.xmp: &lt;?xpacket begin=&quot;﻿&quot; id=&quot;W5M0MpCehiHzreSzNTczkc9d&quot;?> &lt;x:xmpmeta xmlns:x=&quot;adobe:ns:meta/&quot; x:xmptk=&quot;Adobe XMP Core 5.6-c137 1.000000, 0000/00/00-00:00:00        &quot;>  &lt;rdf:RDF xmlns:rdf=&quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&quot;>   &lt;rdf:Description rdf:about=&quot;&quot;     xmlns:ns1=&quot;http://www.day.com/dam/1.0&quot;     xmlns:tiff=&quot;http://ns.adobe.com/tiff/1.0/&quot;     xmlns:dc=&quot;http://purl.org/dc/elements/1.1/&quot;     xmlns:Iptc4xmpCore=&quot;http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/&quot;    ns1:Physicalheightininches=&quot;9.085402488708496&quot;    ns1:Physicalwidthininches=&quot;16.184242248535156&quot;    ns1:Fileformat=&quot;PNG&quot;    ns1:Progressive=&quot;no&quot;    ns1:extracted=&quot;2017-06-13T14:28:03.060-04:00&quot;    ns1:Bitsperpixel=&quot;32&quot;    ns1:MIMEtype=&quot;image/png&quot;    ns1:Comments=&quot;XML:com.adobe.xmp: &amp;lt;?xpacket begin=&amp;quot;﻿&amp;quot; id=&amp;quot;W5M0MpCehiHzreSzNTczkc9d&amp;quot;?&amp;gt;&amp;#xA;&amp;lt;x:xmpmeta xmlns:x=&amp;quot;adobe:ns:meta/&amp;quot; x:xmptk=&amp;quot;Adobe XMP Core 5.6-c137 1.000000, 0000/00/00-00:00:00        &amp;quot;&amp;gt;&amp;#xA; &amp;lt;rdf:RDF xmlns:rdf=&amp;quot;http://www.w3.org/1999/02/22-rdf-syntax-ns#&amp;quot;&amp;gt;&amp;#xA;  &amp;lt;rdf:Description rdf:about=&amp;quot;&amp;quot;&amp;#xA;    xmlns:ns1=&amp;quot;http://www.day.com/dam/1.0&amp;quot;&amp;#xA;    xmlns:tiff=&amp;quot;http://ns.adobe.com/tiff/1.0/&amp;quot;&amp;#xA;    xmlns:dc=&amp;quot;http://purl.org/dc/elements/1.1/&amp;quot;&amp;#xA;    xmlns:Iptc4xmpCore=&amp;quot;http://iptc.org/std/Iptc4xmpCore/1.0/xmlns/&amp;quot;&amp;#xA;   ns1:Physicalheightininches=&amp;quot;9.085402488708496&amp;quot;&amp;#xA;   ns1:Physicalwidthininches=&amp;quot;16.184242248535156&amp;quot;&amp;#xA;   ns1:Fileformat=&amp;quot;PNG&amp;quot;&amp;#xA;   ns1:Progressive=&amp;quot;no&amp;quot;&amp;#xA;   ns1:extracted=&amp;quot;2017-05-30T12:16:05.638-04:00&amp;quot;&amp;#xA;   ns1:Bitsperpixel=&amp;quot;32&amp;quot;&amp;#xA;   ns1:MIMEtype=&amp;quot;image/png&amp;quot;&amp;#xA;   ns1:Physicalwidthindpi=&amp;quot;72&amp;quot;&amp;#xA;   ns1:Physicalheightindpi=&amp;quot;72&amp;quot;&amp;#xA;   ns1:Numberofimages=&amp;quot;1&amp;quot;&amp;#xA;   ns1:Numberoftextualcomments=&amp;quot;0&amp;quot;&amp;#xA;   ns1:sha1=&amp;quot;e50244b9b5f956cfd0cd8083448fe6d8f1721c32&amp;quot;&amp;#xA;   ns1:size=&amp;quot;936972&amp;quot;&amp;#xA;   tiff:ImageLength=&amp;quot;654&amp;quot;&amp;#xA;   tiff:ImageWidth=&amp;quot;1165&amp;quot;&amp;#xA;   dc:format=&amp;quot;image/png&amp;quot;&amp;#xA;   dc:modified=&amp;quot;2017-05-30T12:17:01.799-04:00&amp;quot;&amp;gt;&amp;#xA;   &amp;lt;dc:description&amp;gt;&amp;#xA;    &amp;lt;rdf:Alt&amp;gt;&amp;#xA;     &amp;lt;rdf:li xml:lang=&amp;quot;x-default&amp;quot;&amp;gt;hero image for Skate park&amp;lt;/rdf:li&amp;gt;&amp;#xA;    &amp;lt;/rdf:Alt&amp;gt;&amp;#xA;   &amp;lt;/dc:description&amp;gt;&amp;#xA;   &amp;lt;dc:title&amp;gt;&amp;#xA;    &amp;lt;rdf:Alt&amp;gt;&amp;#xA;     &amp;lt;rdf:li xml:lang=&amp;quot;x-default&amp;quot;&amp;gt;Skate Park LA&amp;lt;/rdf:li&amp;gt;&amp;#xA;    &amp;lt;/rdf:Alt&amp;gt;&amp;#xA;   &amp;lt;/dc:title&amp;gt;&amp;#xA;   &amp;lt;Iptc4xmpCore:CreatorContactInfo rdf:parseType=&amp;quot;Resource&amp;quot;/&amp;gt;&amp;#xA;  &amp;lt;/rdf:Description&amp;gt;&amp;#xA; &amp;lt;/rdf:RDF&amp;gt;&amp;#xA;&amp;lt;/x:xmpmeta&amp;gt;&amp;#xA;&amp;lt;?xpacket end=&amp;quot;r&amp;quot;?&amp;gt;&amp;#xA;&quot;    ns1:Physicalwidthindpi=&quot;72&quot;    ns1:Physicalheightindpi=&quot;72&quot;    ns1:Numberofimages=&quot;1&quot;    ns1:Numberoftextualcomments=&quot;1&quot;    ns1:sha1=&quot;07c9957fb21346e642705e978e572aa0e2a66090&quot;    ns1:size=&quot;938432&quot;    tiff:ImageLength=&quot;654&quot;    tiff:ImageWidth=&quot;1165&quot;    dc:format=&quot;image/png&quot;    dc:modified=&quot;2017-05-30T12:17:01.799-04:00&quot;>    &lt;dc:description>     &lt;rdf:Alt>      &lt;rdf:li xml:lang=&quot;x-default&quot;>hero image for Skate park&lt;/rdf:li>     &lt;/rdf:Alt>    &lt;/dc:description>    &lt;dc:title>     &lt;rdf:Alt>      &lt;rdf:li xml:lang=&quot;x-default&quot;>Skate Park LA&lt;/rdf:li>     &lt;/rdf:Alt>    &lt;/dc:title>    &lt;Iptc4xmpCore:CreatorContactInfo rdf:parseType=&quot;Resource&quot;/>   &lt;/rdf:Description>  &lt;/rdf:RDF> &lt;/x:xmpmeta> &lt;?xpacket end=&quot;r&quot;?> "
-            dam:extracted="{Date}2022-03-23T20:44:02.791Z"
+            dam:extracted="{Date}2022-08-12T17:02:58.791Z"
             dam:Fileformat="PNG"
             dam:MIMEtype="image/png"
             dam:Numberofimages="{Long}1"
@@ -55,6 +34,7 @@
             dam:Physicalheightininches="{Decimal}-1.0"
             dam:Physicalwidthindpi="{Long}-1"
             dam:Physicalwidthininches="{Decimal}-1.0"
+            dam:predictedColors="{Long}[13067,27016,38009,16007]"
             dam:Progressive="no"
             dam:sha1="03cee68e2506537291ed1f09b5442ef063a7c04f"
             dam:size="{Long}1183701"
@@ -74,156 +54,190 @@
             tiff:ImageWidth="{Long}1165">
             <Iptc4xmpCore:CreatorContactInfo jcr:primaryType="nt:unstructured"/>
             <imageFeatures
-                jcr:lastModified="{Date}2022-03-23T20:44:14.905Z"
+                jcr:lastModified="{Date}2022-08-12T17:02:47.911Z"
                 jcr:primaryType="nt:unstructured"
                 haystack0="{Binary}"/>
+            <dam:colorDistribution jcr:primaryType="nt:unstructured">
+                <color1
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.281Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.6743"
+                    name="WHITE"
+                    rank="{Long}1"
+                    rgb="{Long}[251,250,250]"/>
+                <color2
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.281Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.164"
+                    name="PINK"
+                    rank="{Long}2"
+                    rgb="{Long}[243,219,207]"/>
+                <color3
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.282Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0891"
+                    name="BEIGE"
+                    rank="{Long}3"
+                    rgb="{Long}[249,229,210]"/>
+                <color4
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.283Z"
+                    jcr:mixinTypes="[dam:color]"
+                    jcr:primaryType="nt:unstructured"
+                    coverage="{Double}0.0725"
+                    name="DARK_GRAY"
+                    rank="{Long}4"
+                    rgb="{Long}[57,41,57]"/>
+            </dam:colorDistribution>
             <predictedTags jcr:primaryType="nt:unstructured">
                 <girl
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.906Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.285Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6897242665290833"
                     isCustom="{Boolean}false"
                     name="girl"/>
                 <woman
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.907Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.285Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6837446689605713"
                     isCustom="{Boolean}false"
                     name="woman"/>
                 <sport
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.907Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.286Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6502267122268677"
                     isCustom="{Boolean}false"
                     name="sport"/>
                 <vector
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.907Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.286Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.640224277973175"
                     isCustom="{Boolean}false"
                     name="vector"/>
                 <female
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.908Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.287Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6313433647155762"
                     isCustom="{Boolean}false"
                     name="female"/>
                 <jump
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.908Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.287Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6203877925872803"
                     isCustom="{Boolean}false"
                     name="jump"/>
                 <background
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.908Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.288Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6126012802124023"
                     isCustom="{Boolean}false"
                     name="background"/>
                 <illustration
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.909Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.288Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6094712018966675"
                     isCustom="{Boolean}false"
                     name="illustration"/>
                 <man
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.909Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.289Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.6080347895622253"
                     isCustom="{Boolean}false"
                     name="man"/>
                 <beautiful
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.909Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.289Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5905567407608032"
                     isCustom="{Boolean}false"
                     name="beautiful"/>
                 <beauty
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.910Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.289Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5844775438308716"
                     isCustom="{Boolean}false"
                     name="beauty"/>
                 <people
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.910Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.290Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5811776518821716"
                     isCustom="{Boolean}false"
                     name="people"/>
                 <jumping
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.911Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.290Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5730293989181519"
                     isCustom="{Boolean}false"
                     name="jumping"/>
                 <fun
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.911Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.291Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5727323889732361"
                     isCustom="{Boolean}false"
                     name="fun"/>
                 <cartoon
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.911Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.291Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5614535808563232"
                     isCustom="{Boolean}false"
                     name="cartoon"/>
                 <young
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.912Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.292Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5580246448516846"
                     isCustom="{Boolean}false"
                     name="young"/>
                 <athlete
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.912Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.292Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5529035329818726"
                     isCustom="{Boolean}false"
                     name="athlete"/>
                 <action
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.912Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.293Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5445542335510254"
                     isCustom="{Boolean}false"
                     name="action"/>
                 <happy
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.913Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.293Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.541853666305542"
                     isCustom="{Boolean}false"
                     name="happy"/>
                 <joy
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.913Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.294Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5395206212997437"
                     isCustom="{Boolean}false"
                     name="joy"/>
                 <city
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.914Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.294Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5387970805168152"
                     isCustom="{Boolean}false"
                     name="city"/>
                 <art
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.914Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.295Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5380938053131104"
                     isCustom="{Boolean}false"
                     name="art"/>
                 <dancer
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.914Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.295Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5355808734893799"
                     isCustom="{Boolean}false"
                     name="dancer"/>
                 <blue
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.915Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.295Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5345100164413452"
                     isCustom="{Boolean}false"
                     name="blue"/>
                 <attractive
-                    jcr:lastModified="{Date}2022-03-23T20:44:14.915Z"
+                    jcr:lastModified="{Date}2022-08-12T17:02:53.296Z"
                     jcr:primaryType="nt:unstructured"
                     confidence="{Double}0.5337874889373779"
                     isCustom="{Boolean}false"
