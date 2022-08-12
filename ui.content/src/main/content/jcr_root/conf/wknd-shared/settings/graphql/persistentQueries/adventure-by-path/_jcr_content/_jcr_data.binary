@@ -10,6 +10,7 @@ query getAdventureByPath($adventurePath: String!) {
       description {
         json
         plaintext
+        html
       }
       adventureType
       tripLength
