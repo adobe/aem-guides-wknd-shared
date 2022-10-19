@@ -96,7 +96,7 @@
                             name="featuredImage"
                             nameSuffix="contentReference"
                             renderReadOnly="false"
-                            rootPath="/content/dam/wknd"
+                            rootPath="/content/dam/wknd-shared"
                             showEmptyInReadOnly="true"
                             showThumbnail="true"
                             validation="cfm.validation.contenttype.image"
@@ -118,12 +118,12 @@
                             name="authorFragment"
                             nameSuffix="contentReference"
                             renderReadOnly="false"
-                            rootPath="/content/dam/wknd"
+                            rootPath="/content/dam/wknd-shared"
                             showEmptyInReadOnly="true"
                             valueType="string/content-fragment">
                             <field
                                 jcr:primaryType="nt:unstructured"
-                                rootPath="/content/dam/wknd"/>
+                                rootPath="/content/dam/wknd-shared"/>
                             <granite:data jcr:primaryType="nt:unstructured"/>
                         </_x0031_653589942228>
                         <_x0031_569504252173
