@@ -264,7 +264,7 @@
                             name="primaryImage"
                             nameSuffix="contentReference"
                             renderReadOnly="false"
-                            rootPath="/content/dam/wknd"
+                            rootPath="/content/dam/wknd-shared"
                             showEmptyInReadOnly="true"
                             showThumbnail="true"
                             validation="cfm.validation.contenttype.image"
