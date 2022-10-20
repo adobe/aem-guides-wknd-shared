@@ -91,7 +91,7 @@
                             nameSuffix="contentReference"
                             renderReadOnly="false"
                             required="on"
-                            rootPath="/content/dam/wknd"
+                            rootPath="/content/dam/wknd-shared"
                             showEmptyInReadOnly="true"
                             showThumbnail="true"
                             validation="cfm.validation.contenttype.image"
