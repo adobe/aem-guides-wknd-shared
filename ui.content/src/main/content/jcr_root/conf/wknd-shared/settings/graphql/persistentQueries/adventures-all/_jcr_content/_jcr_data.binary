@@ -5,6 +5,7 @@
         _path
         slug
         title
+        activity
         price
         tripLength
         primaryImage {
