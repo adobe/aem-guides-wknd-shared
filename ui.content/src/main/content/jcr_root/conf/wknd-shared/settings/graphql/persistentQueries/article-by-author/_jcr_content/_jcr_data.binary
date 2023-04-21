@@ -1,19 +1,17 @@
 # Filters a list of Articles fragment based on the referenced Author
-# Example Query Variables: 
-# {"authorFirstName": "Stacey", "authorLastName": "Roswells"}
+#
+# Required query variables:
+# - {"authorFirstName": "Stacey", "authorLastName": "Roswells"}
+#
+# Optional query variables:
+# - { "assetTransform": { "format":" PNG", "width": 1200, "preferWebp": true } }
 
-
-query getArticleByAuthor($authorFirstName: String!, $authorLastName: String!) {
-  articleList(filter: {
-    	authorFragment: {
-        firstName: {
-          _expressions: [ { value: $authorFirstName } ]
-        }
-        lastName: {
-          _expressions: [ { value: $authorLastName } ]
-        }
-      }
-  	}) {
+query getArticleByAuthor($authorFirstName: String!, $authorLastName: String!, $assetTransform: AssetTransform = {format: JPG, preferWebp: true}) {
+  articleList(
+    sort: "title DESC"
+    filter: {authorFragment: {firstName: {_expressions: [{value: $authorFirstName}]}, lastName: {_expressions: [{value: $authorLastName}]}}}
+    _assetTransform: $assetTransform
+  ) {
     items {
       _path
       title
@@ -22,22 +20,16 @@ query getArticleByAuthor($authorFirstName: String!, $authorLastName: String!) {
         json
       }
       featuredImage {
-        ...on ImageRef {
-          _path
-          _authorUrl
-          _publishUrl
-          width
-          height
+        ... on ImageRef {
+          _dynamicUrl
         }
       }
       authorFragment {
         firstName
         lastName
         profilePicture {
-          ...on ImageRef {
-            _path
-            _authorUrl
-            _publishUrl
+          ... on ImageRef {
+            _dynamicUrl
           }
         }
       }

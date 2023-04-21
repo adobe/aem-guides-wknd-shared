@@ -1,18 +1,18 @@
-# Returns an article based on it's slug
+# Returns an Article based on it's slug.
 #
-# Example Query Variables: 
-# {"slug": "alaskan-adventures"}
+# Required query variables:
+# - {"slug": "alaskan-adventures"}
 #
-# Technically a filter but it is expected that 
-# the slug property is unique across all Articles, should return a single article
+# Optional query variables:
+# - { "assetTransform": { "format":" PNG", "width": 1200, "preferWebp": true } }
+#  
+# This query returns an article list but since the the slug property is set to be unique in the Content Fragment Model, only a single Content Fragment is expected.
 
-
-query getArticleBySlug($slug: String!) {
-  articleList(filter: {
-    slug: {
-      _expressions: [ { value: $slug } ]
-    }
-  	}) {
+query getArticleBySlug($slug: String!, $assetTransform: AssetTransform = {format: JPG, preferWebp: true}) {
+  articleList(
+    filter: {slug: {_expressions: [{value: $slug}]}}
+    _assetTransform: $assetTransform
+  ) {
     items {
       _path
       title
@@ -21,22 +21,16 @@ query getArticleBySlug($slug: String!) {
         json
       }
       featuredImage {
-        ...on ImageRef {
-          _path
-          _authorUrl
-          _publishUrl
-          width
-          height
+        ... on ImageRef {
+          _dynamicUrl
         }
       }
       authorFragment {
         firstName
         lastName
         profilePicture {
-          ...on ImageRef {
-            _path
-            _authorUrl
-            _publishUrl
+          ... on ImageRef {
+            _dynamicUrl
           }
         }
       }

@@ -1,32 +1,28 @@
-# Filters a list of Adventures based on the activity
+# Filters a list of Adventures based on the activity.
 #
-# Example Query Variables: 
-# {"activity": "Surfing"}
+# Required query variables:
+# - { "activity": "Surfing" }
+#
+# Optional query variables:
+# - { "assetTransform": { "format":" PNG", "width": 1200, "preferWebp": true } }
 
-query($activity: String!) {
-  adventureList(filter: {
-        activity: {
-          _expressions: [ { 
-          value: $activity 
-          _ignoreCase: true} ]
-        }
-  	}) {
+query ($activity: String!, $assetTransform: AssetTransform = {format: JPG, preferWebp: true}) {
+  adventureList(
+    sort: "title ASC"
+    filter: {activity: {_expressions: [{value: $activity, _ignoreCase: true}]}}
+    _assetTransform: $assetTransform
+  ) {
     items {
       _path
-        slug
-        title
-        activity
-        price
-        tripLength
-        primaryImage {
-          ... on ImageRef {
-            _path
-            _authorUrl
-            _publishUrl
-            mimeType
-            width
-            height
-          }
+      slug
+      title
+      activity
+      price
+      tripLength
+      primaryImage {
+        ... on ImageRef {
+          _dynamicUrl
+        }
       }
     }
   }

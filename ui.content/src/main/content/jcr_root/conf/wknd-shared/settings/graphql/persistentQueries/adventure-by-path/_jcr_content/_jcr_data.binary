@@ -1,8 +1,13 @@
-# Get an adventure by path
-# Expects query variables like:
-# {"adventurePath": "/content/dam/wknd-shared/en/adventures/bali-surf-camp/bali-surf-camp"}
-query getAdventureByPath($adventurePath: String!) {
-  adventureByPath(_path: $adventurePath) {
+# Get an adventure by path.
+#
+# Required query variables:
+# - { "adventurePath": "/content/dam/wknd-shared/en/adventures/bali-surf-camp/bali-surf-camp" }
+#
+# Optional query variables:
+# - { "assetTransform": { "format":" PNG", "width": 1200, "preferWebp": true } }
+
+query getAdventureByPath($adventurePath: String!, $assetTransform: AssetTransform = {format: JPG, preferWebp: true}) {
+  adventureByPath(_path: $adventurePath, _assetTransform: $assetTransform) {
     item {
       _path
       title
@@ -19,13 +24,8 @@ query getAdventureByPath($adventurePath: String!) {
       difficulty
       price
       primaryImage {
-        ...on ImageRef {
-          _path
-          _authorUrl
-          _publishUrl
-          width
-          height
-          mimeType
+        ... on ImageRef {
+          _dynamicUrl
         }
       }
       itinerary {
@@ -36,3 +36,4 @@ query getAdventureByPath($adventurePath: String!) {
     }
   }
 }
+

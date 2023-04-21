@@ -1,23 +1,30 @@
-# Retrives a list of all Adventures
-  {
-    adventureList {
-      items {
-        _path
-        slug
-        title
-        activity
-        price
-        tripLength
-        primaryImage {
-          ... on ImageRef {
-            _path
-            _authorUrl
-            _publishUrl
-            mimeType
-            width
-            height
-          }
+# Retrieves a list of all Adventures
+#
+# Optional query variables:
+# - { "offset": 10 }
+# - { "limit": 5 }
+# - { "assetTransform": { "format":" PNG", "width": 1200, "preferWebp": true } }
+
+query ($offset: Int, $limit: Int, $sort: String, $assetTransform: AssetTransform = {format: JPG, preferWebp: true}) {
+  adventureList(
+    offset: $offset
+    limit: $limit
+    sort: $sort
+    _assetTransform: $assetTransform
+  ) {
+    items {
+      _path
+      slug
+      title
+      activity
+      price
+      tripLength
+      primaryImage {
+        ... on ImageRef {
+          _dynamicUrl
         }
       }
     }
   }
+}
+

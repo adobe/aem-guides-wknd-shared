@@ -1,10 +1,13 @@
-# Retrieves an article by path
-# Expected query variables like:
+# Retrieves an Article by path.
+#
+# Required query variables:
+# - {"articlePath": "/content/dam/wknd-shared/en/magazine/alaska-adventure/alaskan-adventures"}
+#
+# Optional query variables:
+# - { "assetTransform": { "format":" PNG", "width": 1200, "preferWebp": true } }
 
-# includes a reference to the Author Model (nested fragment)
-
-query getArticleByPath($articlePath: String!){
-  articleByPath(_path: $articlePath) {
+query getArticleByPath($articlePath: String!, $assetTransform: AssetTransform = {format: JPG, preferWebp: true}) {
+  articleByPath(_path: $articlePath, _assetTransform: $assetTransform) {
     item {
       _path
       title
@@ -13,22 +16,16 @@ query getArticleByPath($articlePath: String!){
         json
       }
       featuredImage {
-        ...on ImageRef {
-          _path
-          _authorUrl
-          _publishUrl
-          width
-          height
+        ... on ImageRef {
+          _dynamicUrl
         }
       }
       authorFragment {
         firstName
         lastName
         profilePicture {
-          ...on ImageRef {
-            _path
-            _authorUrl
-            _publishUrl
+          ... on ImageRef {
+            _dynamicUrl
           }
         }
       }

@@ -1,32 +1,42 @@
-# Retrieves a list of all Articles
-# includes a reference to the Author Model (nested fragment)
+# Retrieves all Articles (including a referenced Author model) using optional pagination.
+#
+# Optional query variables:
+# - { "first": 10 }
+# - { "after": "ABCDEF...UVWXYZ" }
+# - { "assetTransform": { "format":" PNG", "width": 1200, "preferWebp": true } }
 
-query getAllArticles{
-  articleList {
-    items {
-      _path
-      title
-      slug
-      featuredImage {
-        ...on ImageRef {
-          _path
-          _authorUrl
-          _publishUrl
-          width
-          height
+query getAllArticles($first: Int, $after: String, $assetTransform: AssetTransform = {format: JPG, preferWebp: true}) {
+  articlePaginated(
+    sort: "title ASC"
+    first: $first
+    after: $after
+    _assetTransform: $assetTransform
+  ) {
+    edges {
+      cursor
+      node {
+        _path
+        title
+        slug
+        featuredImage {
+          ... on ImageRef {
+            _dynamicUrl
+          }
         }
-      }
-      authorFragment {
-        firstName
-        lastName
-        profilePicture {
-          ...on ImageRef {
-            _path
-            _authorUrl
-            _publishUrl
+        authorFragment {
+          firstName
+          lastName
+          profilePicture {
+            ... on ImageRef {
+              _dynamicUrl
+            }
           }
         }
       }
+    }
+    pageInfo {
+      endCursor
+      hasNextPage
     }
   }
 }
