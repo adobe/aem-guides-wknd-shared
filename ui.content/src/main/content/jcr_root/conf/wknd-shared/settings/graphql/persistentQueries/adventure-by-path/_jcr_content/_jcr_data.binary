@@ -4,10 +4,21 @@
 # - { "adventurePath": "/content/dam/wknd-shared/en/adventures/bali-surf-camp/bali-surf-camp" }
 #
 # Optional query variables:
-# - { "assetTransform": { "format":" PNG", "width": 1200, "preferWebp": true } }
+# - { 
+#     "imageFormat": "JPG",
+#     "imageSeoName": "my-adventure",
+#     "imageWidth": 1600,
+#     "imageQuality": 90 
+#   }
 
-query getAdventureByPath($adventurePath: String!, $assetTransform: AssetTransform = {format: JPG, preferWebp: true}) {
-  adventureByPath(_path: $adventurePath, _assetTransform: $assetTransform) {
+query getAdventureByPath($adventurePath: String!, $imageFormat: AssetTransformFormat=JPG, $imageSeoName: String, $imageWidth: Int=1200, $imageQuality: Int=80) {
+  adventureByPath(_path: $adventurePath, _assetTransform: {
+    format: $imageFormat
+    seoName: $imageSeoName
+    width: $imageWidth
+    quality: $imageQuality
+    preferWebp: true
+  }) {
     item {
       _path
       title
@@ -25,6 +36,7 @@ query getAdventureByPath($adventurePath: String!, $assetTransform: AssetTransfor
       price
       primaryImage {
         ... on ImageRef {
+          _path
           _dynamicUrl
         }
       }

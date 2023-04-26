@@ -4,14 +4,22 @@
 # - { "activity": "Surfing" }
 #
 # Optional query variables:
-# - { "assetTransform": { "format":" PNG", "width": 1200, "preferWebp": true } }
+# - { 
+#    "imageFormat": "JPG",
+#    "imageWidth": 1600,
+#    "imageQuality": 90 
+#   }
 
-query ($activity: String!, $assetTransform: AssetTransform = {format: JPG, preferWebp: true}) {
+query ($activity: String!, $imageFormat: AssetTransformFormat=JPG, $imageWidth: Int=1200, $imageQuality: Int=80) {
   adventureList(
     sort: "title ASC"
     filter: {activity: {_expressions: [{value: $activity, _ignoreCase: true}]}}
-    _assetTransform: $assetTransform
-  ) {
+    _assetTransform: {
+      format: $imageFormat
+      width: $imageWidth
+      quality: $imageQuality
+      preferWebp: true
+  }) {
     items {
       _path
       slug
@@ -21,6 +29,7 @@ query ($activity: String!, $assetTransform: AssetTransform = {format: JPG, prefe
       tripLength
       primaryImage {
         ... on ImageRef {
+          _path
           _dynamicUrl
         }
       }

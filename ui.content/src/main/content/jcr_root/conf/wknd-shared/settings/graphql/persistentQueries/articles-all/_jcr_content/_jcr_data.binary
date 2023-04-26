@@ -2,16 +2,22 @@
 #
 # Optional query variables:
 # - { "first": 10 }
-# - { "after": "ABCDEF...UVWXYZ" }
-# - { "assetTransform": { "format":" PNG", "width": 1200, "preferWebp": true } }
-
-query getAllArticles($first: Int, $after: String, $assetTransform: AssetTransform = {format: JPG, preferWebp: true}) {
+# - { "after": "ABCDEF...UVWXYZ" }# - { 
+#     "imageFormat": "PNG",
+#     "imageWidth": 1400,
+#     "imageQuality": 95 
+#   }
+query getAllArticles($first: Int, $after: String, $imageFormat: AssetTransformFormat=PNG, $imageSeoName: String, $imageWidth: Int=1200, $imageQuality: Int=80) {
   articlePaginated(
     sort: "title ASC"
     first: $first
     after: $after
-    _assetTransform: $assetTransform
-  ) {
+    _assetTransform: {
+      format: $imageFormat
+      width: $imageWidth
+      quality: $imageQuality
+      preferWebp: true
+  }) {
     edges {
       cursor
       node {
@@ -20,6 +26,7 @@ query getAllArticles($first: Int, $after: String, $assetTransform: AssetTransfor
         slug
         featuredImage {
           ... on ImageRef {
+            _path            
             _dynamicUrl
           }
         }
@@ -28,6 +35,7 @@ query getAllArticles($first: Int, $after: String, $assetTransform: AssetTransfor
           lastName
           profilePicture {
             ... on ImageRef {
+              _path
               _dynamicUrl
             }
           }

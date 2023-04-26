@@ -4,10 +4,21 @@
 # - {"articlePath": "/content/dam/wknd-shared/en/magazine/alaska-adventure/alaskan-adventures"}
 #
 # Optional query variables:
-# - { "assetTransform": { "format":" PNG", "width": 1200, "preferWebp": true } }
+# - { 
+#     "imageFormat": "PNG",
+#     "imageSeoName": "my-article",
+#     "imageWidth": 1400,
+#     "imageQuality": 95 
+#   }
 
-query getArticleByPath($articlePath: String!, $assetTransform: AssetTransform = {format: JPG, preferWebp: true}) {
-  articleByPath(_path: $articlePath, _assetTransform: $assetTransform) {
+query getArticleByPath($articlePath: String!, $imageFormat: AssetTransformFormat=PNG, $imageSeoName: String, $imageWidth: Int=1200, $imageQuality: Int=80) {
+  articleByPath(_path: $articlePath, _assetTransform: {
+      format: $imageFormat
+      seoName: $imageSeoName
+      width: $imageWidth
+      quality: $imageQuality
+      preferWebp: true
+  }) {
     item {
       _path
       title
@@ -17,6 +28,7 @@ query getArticleByPath($articlePath: String!, $assetTransform: AssetTransform = 
       }
       featuredImage {
         ... on ImageRef {
+          _path
           _dynamicUrl
         }
       }
@@ -25,6 +37,7 @@ query getArticleByPath($articlePath: String!, $assetTransform: AssetTransform = 
         lastName
         profilePicture {
           ... on ImageRef {
+            _path
             _dynamicUrl
           }
         }

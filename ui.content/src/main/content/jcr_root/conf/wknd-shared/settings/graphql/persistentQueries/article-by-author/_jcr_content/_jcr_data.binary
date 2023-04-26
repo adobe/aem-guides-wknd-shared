@@ -4,14 +4,22 @@
 # - {"authorFirstName": "Stacey", "authorLastName": "Roswells"}
 #
 # Optional query variables:
-# - { "assetTransform": { "format":" PNG", "width": 1200, "preferWebp": true } }
+# - { 
+#     "imageFormat": "PNG",
+#     "imageWidth": 1400,
+#     "imageQuality": 95 
+#   }
 
-query getArticleByAuthor($authorFirstName: String!, $authorLastName: String!, $assetTransform: AssetTransform = {format: JPG, preferWebp: true}) {
+query getArticleByAuthor($authorFirstName: String!, $authorLastName: String!, $imageFormat: AssetTransformFormat=PNG, $imageWidth: Int=1200, $imageQuality: Int=80) {
   articleList(
     sort: "title DESC"
     filter: {authorFragment: {firstName: {_expressions: [{value: $authorFirstName}]}, lastName: {_expressions: [{value: $authorLastName}]}}}
-    _assetTransform: $assetTransform
-  ) {
+    _assetTransform: {
+      format: $imageFormat
+      width: $imageWidth
+      quality: $imageQuality
+      preferWebp: true
+  }) {
     items {
       _path
       title
@@ -21,6 +29,7 @@ query getArticleByAuthor($authorFirstName: String!, $authorLastName: String!, $a
       }
       featuredImage {
         ... on ImageRef {
+          _path
           _dynamicUrl
         }
       }
@@ -29,6 +38,7 @@ query getArticleByAuthor($authorFirstName: String!, $authorLastName: String!, $a
         lastName
         profilePicture {
           ... on ImageRef {
+            _path
             _dynamicUrl
           }
         }
