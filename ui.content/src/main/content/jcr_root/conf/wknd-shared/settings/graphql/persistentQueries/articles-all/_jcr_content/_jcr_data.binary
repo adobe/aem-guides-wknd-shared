@@ -2,12 +2,13 @@
 #
 # Optional query variables:
 # - { "first": 10 }
-# - { "after": "ABCDEF...UVWXYZ" }# - { 
+# - { "after": "ABCDEF...UVWXYZ" }
+# - { 
 #     "imageFormat": "PNG",
 #     "imageWidth": 1400,
 #     "imageQuality": 95 
 #   }
-query getAllArticles($first: Int, $after: String, $imageFormat: AssetTransformFormat=PNG, $imageSeoName: String, $imageWidth: Int=1200, $imageQuality: Int=80) {
+query getAllArticles($first: Int, $after: String, $imageFormat: AssetTransformFormat=PNG, $imageWidth: Int=1200, $imageQuality: Int=80) {
   articlePaginated(
     sort: "title ASC"
     first: $first
@@ -48,3 +49,4 @@ query getAllArticles($first: Int, $after: String, $imageFormat: AssetTransformFo
     }
   }
 }
+  
