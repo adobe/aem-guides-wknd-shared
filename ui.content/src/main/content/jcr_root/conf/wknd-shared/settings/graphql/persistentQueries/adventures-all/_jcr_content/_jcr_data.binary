@@ -3,6 +3,7 @@
 # Optional query variables:
 # - { "offset": 10 }
 # - { "limit": 5 }
+# - { "sort": "activity DESC, title ASC" }
 # - { 
 #    "imageFormat": "JPG",
 #    "imageWidth": 1600,
