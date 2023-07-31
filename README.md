@@ -107,9 +107,10 @@ Add the `aem-guides-wknd-shared.ui.content` as a dependency to other project's `
 
 ## System Requirements
 
- AEM as a Cloud Service | AEM 6.5 | AEM 6.4 | Java SE | Maven
----------|---------|---------|---------|---------
-Continual | 6.5.13+ | Not supported| 8, 11 | 3.3.9+
+WKND Shared version | AEM as a Cloud Service | AEM 6.5 | AEM 6.4 | Java SE | Maven
+| ---------- | ---------|---------|---------|---------|---------
+WKND Shared 3.x | Continual | Not supported| Not supported| 8, 11 | 3.3.9+
+WKND Shared 2.x | Continual | 6.5.13+ | Not supported| 8, 11 | 3.3.9+
 
 Setup your local development environment for [AEM as a Cloud Service SDK](https://experienceleague.adobe.com/docs/experience-manager-learn/cloud-service/local-development-environment-set-up/overview.html) or for [older versions of AEM](https://experienceleague.adobe.com/docs/experience-manager-learn/foundation/development/set-up-a-local-aem-development-environment.html).
 
