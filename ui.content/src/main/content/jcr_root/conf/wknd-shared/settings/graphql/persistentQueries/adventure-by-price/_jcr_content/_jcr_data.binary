@@ -1,16 +1,25 @@
 # Retrieves an Adventure Fragment based on a given price and operator
 #
-# Example Query Variables: 
-# {"price": 1200, "priceOperator": "LOWER"}
-# {"price": 1200, "priceOperator": "GREATER_EQUAL"}
+# Required query variables:
+#  - { "price": 1200, "priceOperator": "LOWER" } or {"price": 1200, "priceOperator": "GREATER_EQUAL" }
+# 
+# Optional query variables:
+# - { 
+#     "imageFormat": "JPG",
+#     "imageWidth": 1600,
+#     "imageQuality": 90 
+#   }
 
-
-query filterAdventuresByPrice($price: Float!, $priceOperator: FloatOperator!) {
-  adventureList(filter: {
-    	price: {
-        _expressions: [ {value: $price, _operator: $priceOperator}]
-      }
-  	}) {
+query filterAdventuresByPrice($price: Float!, $priceOperator: FloatOperator!, $imageFormat: AssetTransformFormat=JPG, $imageWidth: Int=1200, $imageQuality: Int=80) {
+  adventureList(
+    sort: "price ASC"
+    filter: {price: {_expressions: [{value: $price, _operator: $priceOperator}]}}
+    _assetTransform: {
+      format: $imageFormat
+      width: $imageWidth
+      quality: $imageQuality
+      preferWebp: true
+  }) {
     items {
       _path
       title
@@ -25,11 +34,7 @@ query filterAdventuresByPrice($price: Float!, $priceOperator: FloatOperator!) {
       primaryImage {
         ... on ImageRef {
           _path
-          _authorUrl
-          _publishUrl
-          mimeType
-          width
-          height
+          _dynamicUrl
         }
       }
       description {
