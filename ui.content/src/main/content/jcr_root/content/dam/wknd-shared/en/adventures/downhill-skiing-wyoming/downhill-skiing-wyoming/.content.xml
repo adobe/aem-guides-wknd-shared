@@ -70,6 +70,7 @@
                 tripLength_x0040_LastModified="{Date}2020-10-15T11:59:54.068-07:00"/>
         </data>
         <metadata
+            cq:tags="[wknd-shared:activity/skiing,wknd-shared:season/winter,wknd-shared:region/nam/united-states]"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"/>
         <related jcr:primaryType="nt:unstructured"/>

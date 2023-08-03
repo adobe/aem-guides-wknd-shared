@@ -70,6 +70,7 @@
                 tripLength_x0040_LastModified="{Date}2020-10-15T13:11:33.083-07:00"/>
         </data>
         <metadata
+            cq:tags="[wknd-shared:activity/surfing,wknd-shared:season/summer,wknd-shared:region/latam/costa-rica]"
             jcr:mixinTypes="[cq:Taggable]"
             jcr:primaryType="nt:unstructured"/>
         <related jcr:primaryType="nt:unstructured"/>
