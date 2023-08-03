@@ -54,12 +54,11 @@
         <vault.password>admin</vault.password>
         <frontend-maven-plugin.version>1.12.0</frontend-maven-plugin.version>
         <core.wcm.components.version>2.17.12</core.wcm.components.version>
-
         <bnd.version>5.1.2</bnd.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-        <aem.sdk.api>2022.5.7575.20220530T152407Z-220401</aem.sdk.api>
-        <aemanalyser.version>1.4.10</aemanalyser.version>
+        <aem.sdk.api>2023.7.12874.20230726T072051Z-230702</aem.sdk.api>
+        <aemanalyser.version>1.5.8</aemanalyser.version>
         <componentGroupName>WKND Shared</componentGroupName>
     </properties>
 
